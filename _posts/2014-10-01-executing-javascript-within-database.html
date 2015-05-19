@@ -1,0 +1,18 @@
+---
+layout: post
+title: Executing JavaScript within the Database
+date: '2014-10-01T06:32:00.000+02:00'
+author: Niko Köbler
+tags:
+- '#database'
+- '#javaone'
+- '#oracle'
+- '#nashorn'
+- '#javascript'
+- '#java'
+modified_time: '2014-10-01T06:56:30.122+02:00'
+blogger_id: tag:blogger.com,1999:blog-9037000245514999222.post-192581706613304831
+blogger_orig_url: http://blog.n-k.de/2014/10/executing-javascript-within-database.html
+---
+
+Today I attended a pretty strange talk at JavaOne: Running JavaScript in the database!<br /><br /><i>WTF?</i><br /><br />Thanks to Oracle, it's possible since more than seven or eight years, to execute Java classes within the Oracle Database. So far, so good. Sounds a bit strange, but perhaps there are use cases. I myself can't imagine an use case where you really need this approach. But this is a different story.<br /><br />Since the development of <a href="https://blogs.oracle.com/nashorn/" target="_blank">Nashorn JavaScript engine</a>, it's possible to execute JavaScript commands, files, etc. directly from your Java code. Pretty nice, and there _are_ use cases I can imagine this approach.<br /><br />Now somebody had the strange idea to execute JavaScript commands from Nashorn, running in the JVM, running in the Oracle Database... I. Don't. Have. Any. Words. For. That!<br />(for the technicans of you: Oracle Database does only support Java 7 so far, as Nashorn is available since Java 8, you need the standalone nashorn.jar library additionally)<br /><br />If you know me and my blog, you know that I really like non-UI JavaScript solutions, like server-side scripting or JavaScript for microcontrollers with Espruino.<br />BUT WHY THE HECK I SHOULD USE JAVASCRIPT WITHIN MY DATABASE???<br />I really don't have any idea about that. And, additionally, I'm a bit scared of doing this... I'm a bit scared of upcoming solutions using this approach...<br /><br /><i>(ok, it was just a proof-of-concept within this talk, but I'm still scared!)</i>
