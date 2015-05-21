@@ -4,6 +4,8 @@ title: Imprint
 permalink: /imprint/
 ---
 
+(this is something I have to print, due to german laws)
+
 ### Angaben gemäß § 5 TMG
 
 Niko Köbler IT-Beratung  

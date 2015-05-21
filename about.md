@@ -20,48 +20,15 @@ My **current profile** (PDF) you can download from [here](http://dl.dropbox.com/
 
 My Gulp profile you can find [here](https://www.gulp.de/gulp2/home/profil/nkoebler).
 
-### My knowhow and skills:
 
-#### Business topics
+# Contact
 
-Enterprise Application Integration (EAI), Service Orientierte Architekturen (SOA), Web-Anwendungen, Business Process Management
+You have further questions?  
+You want to hire me for your project(s)?  
+You want me to speak at your event?  
 
-#### Architecture
+Give me a call: +49.172.6714839
 
-Software-Architecture, Serviceorientierte Architecture (SOA), Database modelling, Unified Modeling Language (UML), Requirements Engineering, OOA/OOD, Business Process Modelling, Canonical Datamodel
+Twitter: [@dasniko](https://twitter.com/dasniko)
 
-#### Industries
-
-Tourism, Telecommunication, Automotive, Banks/Investment Trusts, Public Authorities, Retail, Logistics, Transportation, Mobile Commerce, IT
-
-#### Programming languages
-
-Java SE, Java EE, JavaScript, XML, XSD, XSL, XSLT, XPath, XQuery, PL/SQL, LotusScript, (PHP, C#)
-
-#### Databases (SQL/Relational)
-
-SQL-Standard, Oracle 10g/11g, MySQL, IBM DB2, DB/400, MS SQL Server
-
-#### Databases (No-SQL)
-
-MongoDB, Redis, Neo4J, Lotus Notes/Domino
-
-#### Frameworks / Standards
-
-Spring, Spring Security, Spring Integration, EJB, JPA, Hibernate, Hibernate Search, Lucene, CDI, Web Beans, JAX-WS, JAX-RS, JAXB, JAXP, Apache Camel, Eclipse RCP, OSGi, JUnit, Log4J, Servlet, JSF, JSP, Icefaces, Struts, Dozer, Apache Wicket
-
-#### JavaScript Frameworks
-
-jQuery, Meteor, Node.js, Angular, Nodyn
-
-#### Server / Middleware
-
-Apache Tomcat, JBoss AS, Jetty, Oracle WebLogic / Fusion Middleware
-
-#### Integration / SOA / MOM / JMS / Services
-
-SOA Governance, JMS, SOAP, REST, BPEL, BPMN 2.0, Activiti, Oracle FMW SOA Suite 11g, Oracle AQ (Advanced Queuing), JBoss HornetQ, Apache ActiveMQ, Apache ServiceMix, Apache Camel, WS-* Standards
-
-#### Development / IDE, Software Configuration Management (SCM, Build, VCS, Continuous Integration/Deployment)
-
-Eclipse, Netbeans, Jetbrains IntelliJ IDEA, Sparx Enterprise Architect, Ant, Maven, Gradle, Git, SVN, CVS, ClearCase, Jenkins, TeamCity
+E-Mail: [info@n-k.de](mailto:info@n-k.de)
