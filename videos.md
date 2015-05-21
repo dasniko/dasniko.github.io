@@ -1,0 +1,51 @@
+---
+layout: page
+title: Videos
+permalink: /videos/
+---
+
+### Developer Interview by Markus Eisele (Red Hat) on Java EE and Node.js Performance
+
+<iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/SN3mKNPkjQs" width="560"></iframe>
+
+---
+
+### Avatar 2.0 @ JavaOne 2014, San Francisco
+
+<iframe frameborder="0" height="400" width="640" mozallowfullscreen="true" src="//www.parleys.com/share.html#play/543faf2ee4b08dc7823e55f5" type="text/html" webkitallowfullscreen="true"></iframe>
+
+---
+
+### My Avatar 2-Minute Tech Tip at Oracle Open World / JavaOne 2014
+
+<iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/gwLC13QGL1M" width="560"></iframe>
+
+---
+
+### Meteor JS - Fullstack reactive JavaScript Platform / DWX 2014
+
+<iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/NEYoHIrFGPg" width="560"></iframe>
+
+---
+
+### Code-Quality despite of JavaScript / DWX 2014
+
+<iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/NRivJxSgOJY" width="560"></iframe>
+
+---
+
+### Video &amp; Slides of our (german) Meteor JavaScript platform talk at BEDCon 2014
+
+<iframe frameborder="0" height="340" mozallowfullscreen="true" src="//www.parleys.com/share.html#play/53400695e4b05d8b8687494f" type="text/html" webkitallowfullscreen="true" width="640"></iframe>
+
+---
+
+### Short (german) talk about Code Quality despite of JavaScript at BED-Con 2014
+
+<iframe frameborder="0" height="340" mozallowfullscreen="true" src="//www.parleys.com/share.html#play/533dc632e4b05d8b86874944" type="text/html" webkitallowfullscreen="true" width="640"></iframe>
+
+---
+
+### NightHacking Interview about JavaScript and Node.js with Project Avatar on the JVM
+
+<iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/kyG-oe3ptm8" width="560"></iframe>
