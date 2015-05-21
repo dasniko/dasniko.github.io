@@ -4,6 +4,18 @@ title: Publications
 permalink: /publications/
 ---
 
+<a href="http://www.ijug.eu/java-aktuell/das-magazin.html">
+  <img src="http://www.ijug.eu/fileadmin/_processed_/csm_2015-Titel-Java-aktuell_2_ffeead55eb.jpg" style="width: 140px; float: right"/>
+</a>
+
+#### Java aktuell, Issue 02-2015, March 2015, Page 19 ff.
+
+### [JavaScript für Java Entwickler](https://drive.google.com/file/d/0ByOO_PCpY8u-RjNKSVY0TmhINUU/view?usp=sharing)
+
+_In den letzten zwei Jahren hat sich JavaScript wieder mehr und mehr als ernst zu nehmende Programmiersprache auch in Unternehmens- anwendungen durchgesetzt. Sei es im Frontend (Browser), wo sich dank der JavaScript-Frameworks AngularJS, Backbone, Ember etc. die Single-Page-Web-Applications mit HTML5, CSS3 und JavaScript mehr und mehr durchsetzen, oder im Backend auf dem Server, wo sich auch hierzulande „Node.js“ mit seinem Ansatz der asynchronen und nicht-blockierenden Request-Verarbeitung („Evented I/O“) langsam immer breiter macht. Zusätzlich wird die serverseitige JavaScript-Verwendung dank Nashorn – der JavaScript Engine in der JVM seit Java 8 – immer populärer._
+
+---
+
 <a href="https://jaxenter.de/Java-Magazin-315-178647">
   <img src="https://jaxenter.de/wp-content/uploads/2015/01/cover_800x11222x_135-200x281.jpg" style="width: 140px; float: right"/>
 </a>
