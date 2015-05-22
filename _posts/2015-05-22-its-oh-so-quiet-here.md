@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It's oh so quiete here...
+title: It's oh so quiet here...
 date: '2015-05-22T09:20:00.000+02:00'
 author: Niko Köbler
 ---
