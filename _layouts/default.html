@@ -27,8 +27,9 @@
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/">Start</a>
+            <a href="{{ site.baseurl }}/">Home</a>
             <a href="{{ site.baseurl }}/about">About Me</a>
+            <a href="{{ site.baseurl }}/archive">Archive</a>
             <a href="http://javascript-training.net" target="_blank">Trainings</a>
             <a href="{{ site.baseurl }}/talks">Talks</a>
             <a href="{{ site.baseurl }}/publications">Publications</a>
@@ -40,7 +41,13 @@
     </div>
 
     <div id="main" role="main" class="container">
-      {{ content }}
+      <div class="maincontent">
+        {{ content }}
+      </div>
+      <div class="sidebar">
+        {% include sidebar.html %}
+      </div>
+      <div style="clear: both"></div>
     </div>
 
     <div class="wrapper-footer">
