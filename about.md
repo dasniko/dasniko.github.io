@@ -4,17 +4,9 @@ title: About me
 permalink: /about/
 ---
 
-Since more than 15 years I'm an independant freelance IT consultant and iSAQB certified Software Architect, mainly in Java, JavaScript and EAI projects. My services are (not only):
+I'm an independant freelance Software-Architect (iSAQB certified), Developer and Trainer mainly for Java and JavaScript enterprise solutions, integrations and web development. I've been advising and supporting clients across industries, conduct workshops, trainings and architecture reviews.
 
-- Software-Architecture & -Implementation (Java/EE, JavaScript)
-- Enterprise-Application-Integration (EAI), Web Services, Interfaces
-- BigData & NoSQL Concepts
-- Software Configuration Management (SCM)
-- _and many more..._
-
-Whether if you look for adapted standard software or individual custom-made solutions - rely on my wide range of experience and technical, professional and organizational knowledge!
-
-Furthermore I'm a regular [speaker at various international tech conferences](/talks) (such as Jax, JavaLand, JavaOne, DWX, code.talks, etc.) and I'm [writing articles] for tech magazines and online portals like JAXenter or heise developer. As a co-lead I'm supporting my local [Java User Group Darmstadt](http://jug-da.de) ([@JUG_DA](https://twitter.com/JUG_DA)).
+Furthermore I'm a regular [speaker at various international tech conferences](/talks) and I'm [writing articles](/publications) for tech magazines and online portals. As a co-lead, I'm supporting my local [Java User Group Darmstadt](http://jug-da.de) ([@JUG_DA](https://twitter.com/JUG_DA)).
 
 My **current profile** (PDF) you can download from [here](http://dl.dropbox.com/u/9313609/Beraterprofil_KoeblerNiko.pdf).
 
