@@ -20,7 +20,7 @@ You can meet me at the following conferences and events:
   <img src="/images/logo_jax.png" alt="Jax Conference Series, Germany" title="Jax Conference Series, Germany" class="conflogo" style="height: 110px"/>
 </a>
 <a href="http://bed-con.org">
-  <img src="/images/logo_bedcon.png" alt="BED-CON, Berlin" title="BED-CON, Berlin" class="conflogo"/>
+  <img src="/images/logo_bedcon.png" alt="BED-CON, Berlin" title="BED-CON, Berlin" class="conflogo" style="height: 80px"/>
 </a>
 <a href="http://oop-konferenz.de">
   <img src="/images/logo_oop.png" alt="OOP Conference, Munich" title="OOP Conference, Munich" class="conflogo"/>

@@ -229,7 +229,7 @@ nav {
     color: $darkGray;
     text-align: right;
     font-weight: 300;
-    letter-spacing: 1px;
+    letter-spacing: 0.5px;
 
     @include mobile {
       margin: 0 10px;
