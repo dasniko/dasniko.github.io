@@ -19,3 +19,7 @@
     <meta property="og:title" content="{{ site.name }} {{ site.description }}" />
     <meta property="twitter:title" content="{{ site.name }} {{ site.description }}" />
     {% endif %}
+
+    {% if page.thumbnail %}
+    <meta property="og:image" content="{{ page.thumbnail }}">
+    {% endif%}

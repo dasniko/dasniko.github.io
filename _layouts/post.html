@@ -13,12 +13,14 @@ layout: default
     {{ content }}
   </div>
 
+  {% if page.tags %}
   <p class="tags">
     Tags:
     {% for tag in page.tags %}
       <span>{{ tag }}</span>
     {% endfor %}
   </p>
+  {% endif %}
 
   {% include disqus.html %}
 </article>
