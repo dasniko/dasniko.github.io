@@ -31,3 +31,20 @@ pre.prettyprint {
   box-shadow: 5px 5px 5px #888;
   padding: 0.5em;
 }
+
+.tag-cloud {
+  line-height: 1;
+}
+
+.site-tag a {
+    display: inline-block;
+}
+
+.tags-box {
+  list-style: none;
+  li {
+    margin-top: 20px;
+    margin-left: -25px;
+    font-weight: bold;
+  }
+}

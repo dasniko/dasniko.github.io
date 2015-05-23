@@ -13,11 +13,11 @@ layout: default
     {{ content }}
   </div>
 
-  {% if page.tags %}
+  {% if page.tags != empty %}
   <p class="tags">
     Tags:
     {% for tag in page.tags %}
-      <span>{{ tag }}</span>
+      <a href="/tags/#{{ tag | slugify }}">{{ tag }}</a>
     {% endfor %}
   </p>
   {% endif %}
