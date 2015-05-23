@@ -15,8 +15,9 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300);
 $helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$helveticaNeue: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
 
 // Mobile breakpoints
