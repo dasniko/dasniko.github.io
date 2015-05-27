@@ -8,9 +8,7 @@ I'm an independant freelance Software-Architect (iSAQB certified), Developer and
 
 Furthermore I'm a regular [speaker at various international tech conferences](/talks) and I'm [writing articles](/publications) for tech magazines and online portals. As a co-lead, I'm supporting my local [Java User Group Darmstadt](http://jug-da.de) ([@JUG_DA](https://twitter.com/JUG_DA)).
 
-My **current profile** (PDF) you can download from [here](http://dl.dropbox.com/u/9313609/Beraterprofil_KoeblerNiko.pdf).
-
-My Gulp profile you can find [here](https://www.gulp.de/gulp2/home/profil/nkoebler).
+My **current profile / resume** (PDF) you can download from [here](http://dl.dropbox.com/u/9313609/Beraterprofil_KoeblerNiko.pdf).
 
 
 # Contact me
