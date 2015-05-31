@@ -59,7 +59,7 @@ pre.prettyprint {
 }
 
 .site-tag a {
-    display: inline-block;
+  display: inline-block;
 }
 
 .tags-box {
@@ -68,5 +68,12 @@ pre.prettyprint {
     margin-top: 20px;
     margin-left: -25px;
     font-weight: bold;
+  }
+}
+
+.archive-box {
+  list-style: none;
+  li {
+    margin-left: -25px;
   }
 }
