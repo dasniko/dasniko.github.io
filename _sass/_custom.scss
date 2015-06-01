@@ -30,6 +30,11 @@
     width: 33%;
     padding: 0px 10px;
   }
+  @include phone {
+    float: none;
+    width: 100%;
+    padding: 0px;
+  }
 }
 
 .conflogo {
