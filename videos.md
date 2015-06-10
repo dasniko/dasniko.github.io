@@ -10,6 +10,12 @@ permalink: /videos/
 
 ---
 
+### Project Avatar: More than just Node.js on the JVM / W-Jax 2014
+
+<iframe src="https://player.vimeo.com/video/123942586?byline=0" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+---
+
 ### Avatar 2.0 @ JavaOne 2014, San Francisco
 
 <iframe frameborder="0" height="400" width="640" mozallowfullscreen="true" src="//www.parleys.com/share.html#play/543faf2ee4b08dc7823e55f5" type="text/html" webkitallowfullscreen="true"></iframe>
@@ -19,6 +25,12 @@ permalink: /videos/
 ### My Avatar 2-Minute Tech Tip at Oracle Open World / JavaOne 2014
 
 <iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/gwLC13QGL1M" width="560"></iframe>
+
+---
+
+### The Avatar-Framework - JavaScript-Binding for Java EE components / JAX 2014
+
+<iframe src="https://player.vimeo.com/video/130221163?byline=0" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ---
 
