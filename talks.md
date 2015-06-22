@@ -13,6 +13,9 @@ You can meet me at the following conferences and events:
 <a href="http://www.javaland.eu">
   <img src="/images/logo_javaland.gif" alt="JavaLand, Cologne" title="JavaLand, Cologne" class="conflogo"/>
 </a>
+<a href="http://www.javazone.no">
+  <img src="/images/logo_javazone.png" alt="JavaZone, Oslo" title="JavaZone, Oslo" class="conflogo" style="height: 120px"/>
+</a>
 <a href="http://jeeconf.com">
   <img src="/images/logo_jeeconf.png" alt="JEEConf, Kiev" title="JEEConf, Kiev" class="conflogo"/>
 </a>
