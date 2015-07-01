@@ -51,6 +51,8 @@ You can meet me at the following conferences and events:
 
 I will and have been talking about these topics (and of course about upcoming topics in the future):
 
+- [Isomorphic JavaScript apps with Nashorn and React](#isomorphic)
+- [Test your Nashorn JavaScript with JUnit, Groovy Spock, Jasmine and Mocha](#nashornspock)
 - [Nodyn and Vert.x - Running distributed Node.js apps in JVM environments](#distributednodejs)
 - [Node.js compared to traditional Java EE App Servers](#nodejs_javaee)
 - [JavaScript for Java Developers](#js4j)
@@ -70,6 +72,16 @@ I will and have been talking about these topics (and of course about upcoming to
 - [SOA Antipatterns - How to kill your business](#soaantipatterns)
 
 ---
+
+### <a name="isomorphic">Isomorphic JavaScript apps with Nashorn and React</a>
+
+Isomorphic _(greek: "isos" = equal, "morph" = shape)_ JavaScript apps are JavaScript applications that can run both client-side and server-side. Isomorphism describes that if you look at the same entity in two different contexts, you should get the same thing. Here the contexts are server and client. Although the term has been mostly used in mathematics until now, it's an apt term to describe a web programing pattern where the code is shared by the front-end and back-end. Just take an MVC-based Java framework, integrate it with Nashorn and use a famous JavaScript templating engine like React - that's it. Now you can render templates on the server- as also on the client side!
+
+### <a name="nashornspock">Test your Nashorn JavaScript with JUnit, Groovy Spock, Jasmine and Mocha</a>
+
+Running JavaScript on the JVM is easy, thanks to the Nashorn Script Engine since Java 8. But is testing your JavaScript also? Are all JavaScript functions tested properly? With the power of the Spock test framework it's easy to test your scripts! Spock allows you, due to its highly expressive specification language, to insert different (business) values to your tests without duplicating your code. Write one test, execute many!
+
+In this polyglott talk, I'm gonna show you easy ways to test your Nashorn JavaScripts with JUnit (Java) and Spock (Groovy), additionally with well-known JavaScript test frameworks like Mocha and Jasmine. After this talk you'll love to write and run JavaScript tests (perhaps more than traditional Java unit tests)!
 
 ### <a name="distributednodejs">Nodyn and Vert.x - Running distributed Node.js apps in JVM environments</a>
 
