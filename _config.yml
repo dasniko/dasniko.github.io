@@ -24,7 +24,7 @@ footer-links:
   flickr:
   github: dasniko
   instagram:
-  linkedin:
+  linkedin: nkoebler
   pinterest:
   rss: rss
   twitter: dasniko
@@ -51,10 +51,19 @@ url: http://www.n-k.de
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+# some default values for Front Matter
+defaults:
+  -
+    scope:
+      path: "" # emtpy means all files
+      type: posts
+    values:
+      layout: post
+      author: Niko Köbler
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
-
 markdown: redcarpet
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
