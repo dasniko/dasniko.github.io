@@ -5,7 +5,6 @@ tags:
 - '#wildfly'
 - '#logstash'
 - '#logging'
-thumbnail: http://design.jboss.org/wildfly/logo/final/wildfly_logo_stacked_200px.png
 ---
 
 If you want to use your [Wildfly](http://wildfly.org) log outputs with [Logstash](https://www.elastic.co/products/logstash) (and perhaps the ELK stack Elasticsearch-Logstash-Kibana), it's as easy as 1-2-3 to log them directly in the Logstash `log_event` format.
