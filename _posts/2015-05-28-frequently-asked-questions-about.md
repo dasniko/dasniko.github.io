@@ -1,8 +1,5 @@
 ---
-layout: post
 title: Frequently asked questions about Nashorn and Node.js
-date: '2015-05-28T09:00:00+02:00'
-author: Niko Köbler
 tags:
 - '#nashorn'
 - '#nodejs'

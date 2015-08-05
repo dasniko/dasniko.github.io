@@ -1,18 +1,12 @@
 ---
-layout: post
 title: JavaOne Call for Proposals - JVM language special
-date: '2015-04-04T18:11:00.002+02:00'
-author: Niko Köbler
 tags:
 - '#languages'
 - '#jvm'
 - '#cfp'
 - '#javaone'
 - '#java'
-modified_time: '2015-04-04T18:24:14.031+02:00'
 thumbnail: /images/logo_javaone.png
-blogger_id: tag:blogger.com,1999:blog-9037000245514999222.post-8180841780463793032
-blogger_orig_url: http://blog.n-k.de/2015/04/javaone-call-for-proposals-jvm-language.html
 ---
 
 <img src="/images/logo_javaone.png" class="postimg"/>

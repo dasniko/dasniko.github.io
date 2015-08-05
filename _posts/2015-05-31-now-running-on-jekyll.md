@@ -1,8 +1,5 @@
 ---
-layout: post
 title: Now Running on Jekyll
-date: '2015-05-31T16:04:00+02:00'
-author: Niko Köbler
 tags:
 - '#jekyll'
 - '#github'

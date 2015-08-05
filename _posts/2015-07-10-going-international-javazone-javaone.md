@@ -1,8 +1,5 @@
 ---
-layout: post
 title: Going International - JavaZone and JavaOne
-date: '2015-07-10T08:00:00+02:00'
-author: Niko Köbler
 tags:
 - '#javaone'
 - '#javazone'
