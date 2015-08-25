@@ -9,8 +9,8 @@ permalink: /imprint/
 ### Angaben gemäß § 5 TMG
 
 Niko Köbler IT-Beratung  
-Weingartenstraße 48a  
-65795 Hattersheim am Main
+In den Orscheläckern 32  
+64354 Reinheim
 
 Kontakt:  
 Telefon: +49.172.6714839  
