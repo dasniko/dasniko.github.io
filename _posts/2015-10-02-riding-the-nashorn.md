@@ -16,6 +16,7 @@ After my last (fully booked) workshop [JavaScript for Java Developers](http://ww
 > **[Riding the Nashorn - Programming JavaScript on the JVM](http://www.javascript-training.net/training/nashorn)**
 
 In this course I'll cover topics like:
+
 - Usage of JavaScript on the JVM
 - API- and Language extensions of Nashorn
 - Nashorn and Maven and NPM
