@@ -4,6 +4,7 @@ tags:
  - '#javascript'
  - '#nashorn'
  - '#java'
+ - '#javaland'
 published: false
 thumbnail: /images/nashorn.jpg
 ---
