@@ -4,8 +4,20 @@ title: Publications
 permalink: /publications/
 ---
 
+<a href="https://jaxenter.de/mit-dem-testen-von-anwendungen-ist-es-so-eine-last-erst-recht-mit-lasttests-27564">
+  <img src="http://gatling.io/images/img1.png" style="max-width: 200px; float: right"/>
+</a>
+
+#### JAXenter.de, September 2015
+
+### [Lasttests mit Gatling](https://jaxenter.de/mit-dem-testen-von-anwendungen-ist-es-so-eine-last-erst-recht-mit-lasttests-27564)
+
+_Haben sich Unit-, Integrations- und Oberflächentests in der Vergangenheit doch mehr oder weniger gut durchgesetzt, fristen die Applikations-Lasttests eher ein Nischen-Dasein oder fallen meist Zeit- und damit auch Geld-Budgets zum Opfer. In vielen Unternehmen gleichen Lasttests eher Smoke-Tests mit mehreren Mitarbeitern der Fachabteilung, die schnell aber unkontrolliert und wild hin und her klicken. Diese Tests haben keine Aussagekraft, sind nicht reproduzier- und damit nicht vergleichbar. Wenn ein Performance-Engpass auftritt, weiß man nicht, wer was geklickt hat und welche Aktion den Engpass auslöste._
+
+---
+
 <a href="http://www.ijug.eu/java-aktuell/das-magazin.html">
-  <img src="http://www.ijug.eu/fileadmin/_processed_/csm_2015-Titel-Java-aktuell_2_ffeead55eb.jpg" style="width: 140px; float: right"/>
+  <img src="/images/javaaktuell_02-2015.png" style="width: 140px; float: right"/>
 </a>
 
 #### Java aktuell, Issue 02-2015, March 2015, Page 19 ff.
@@ -17,7 +29,7 @@ _In den letzten zwei Jahren hat sich JavaScript wieder mehr und mehr als ernst z
 ---
 
 <a href="https://jaxenter.de/Java-Magazin-315-178647">
-  <img src="https://jaxenter.de/wp-content/uploads/2015/01/cover_800x11222x_135-200x281.jpg" style="width: 140px; float: right"/>
+  <img src="/images/javamagazin_03-15.jpg" style="width: 140px; float: right"/>
 </a>
 
 #### Java Magazin, Issue 3.15, January 2015, Page 22 ff.
@@ -39,7 +51,7 @@ _Oracle recently announced a new version of the JavaScript platform Avatar. It�
 ---
 
 <a href="http://www.ijug.eu/java-aktuell/das-magazin.html">
-  <img src="http://www.ijug.eu/typo3temp/pics/2015-Titel-Java-aktuell_1_0c1021dfe8.jpg" style="width: 140px; float: right"/>
+  <img src="/images/javaaktuell_01-2015.jpg" style="width: 140px; float: right"/>
 </a>
 
 #### Java aktuell, Issue 01-2015, December 2014, Page 33 ff.
@@ -51,7 +63,7 @@ _Das FeatureToggle Pattern is nicht neu, aber eines der am kontroversesten disku
 ---
 
 <a href="https://jaxenter.de/Java-Magazin/Java-Magazin-115-177685">
-  <img src="https://jaxenter.de/wp-content/uploads/2014/11/cover_800x11222x_117-200x281.jpg" style="width: 140px; float: right"/>
+  <img src="/images/javamagazin_01-15.jpg" style="width: 140px; float: right"/>
 </a>
 
 #### Java Magazin, Issue 1.15, December 2014, Page 22 ff.
@@ -71,7 +83,7 @@ _Es ist schon ein Stück JavaOne-Tradition: Seit drei Jahren präsentiert Oracle
 ---
 
 <a href="http://shop.heise.de/katalog/ix-developer-javascript-heute-2014">
-  <img src="http://2.f.ix.de/imgs/18/1/1/3/9/1/2/1/ix_javascript_cover-a8e8d039ae3de69b.jpeg" style="width: 140px; float: right"/>
+  <img src="/images/ix_javascript.jpg" style="width: 140px; float: right"/>
 </a>
 
 #### heise Developer, September 2013 & iX Developer Sonderheft "JavaScript heute", Dezember 2013, Seite 80 ff.
@@ -83,7 +95,7 @@ _JavaScript-Webframeworks gibt es wie Staub auf dem Mond. Jedoch ist jedes nur a
 ---
 
 <a href="http://shop.heise.de/katalog/ix-developer-bessere-software-3-2013">
-  <img src="http://2.bp.blogspot.com/-59h6lh6YESE/UcNAH5BSr6I/AAAAAAAAB3E/hL4UgOc-e0o/s200/ix_developer_bessere_software.jpg" style="width: 140px; float: right"/>
+  <img src="/images/ix_developer_bessere_software.jpg" style="width: 140px; float: right"/>
 </a>
 
 #### ix Developer Sonderheft "Bessere Software", Juni 2013
