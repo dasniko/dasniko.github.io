@@ -6,7 +6,6 @@ tags:
 - '#nasven'
 - '#camel'
 - '#integration'
-published: false
 ---
 
 I've already been thinking about this for a couple of months:
