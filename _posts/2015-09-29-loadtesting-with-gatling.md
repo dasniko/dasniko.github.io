@@ -1,8 +1,8 @@
 ---
 title: Stress with the tests - Stresstests with Gatling
 tags:
-- '#gatling'
-- '#loadtest'
+- gatling
+- loadtest
 thumbnail: http://gatling.io/images/img1.png
 ---
 

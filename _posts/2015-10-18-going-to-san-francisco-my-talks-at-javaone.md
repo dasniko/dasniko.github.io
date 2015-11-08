@@ -1,10 +1,10 @@
 ---
 title: Going to San Francisco - my Talks at JavaOne!
 tags:
-- '#javaone'
-- '#java'
-- '#javascript'
-- '#nashorn'
+- javaone
+- java
+- javascript
+- nashorn
 thumbnail: /images/j1sf15-imspeaking.jpg
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: Kreise, Linien und Rechtecke - können(!) der Kommunikation behilflich sein
 tags:
-- '#kommunikation'
-- '#uml'
-- '#architektur'
-- '#dokumentation'
+- kommunikation
+- uml
+- architektur
+- dokumentation
 ---
 
 Wer kennt das nicht: Unzählige Kreise, Vierecke und Linien wild auf das Whiteboard gemalt, in verschiedenen Farben, mit und ohne Beschriftungen, übermalt, weggewischt, etc... Im besten Falle werden Elemente aus der UML dazu verwendet, Sachverhalte zu verdeutlichen und/oder zu vereinfachen (die UML ist eine wunderbare Methode um zu vereinfachen und zu abstrahieren). Wenn es keine UML ist, dann hat sich bei den meisten Unternehmen eine eigene Meta- bzw. Zeichensprache entwickelt - egal wie, hauptsache es hilft und ist der Kommunikation und dem Verstehen zwischen mehreren Parteien zuträglich. Das ist auch alles gut so wie es ist.  

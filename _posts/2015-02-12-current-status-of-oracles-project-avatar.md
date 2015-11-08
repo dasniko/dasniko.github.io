@@ -1,11 +1,11 @@
 ---
 title: Current Status of Oracle's Project Avatar
 tags:
-- '#nodejs'
-- '#jvm'
-- '#avatar'
-- '#oracle'
-- '#javascript'
+- nodejs
+- jvm
+- avatar
+- oracle
+- javascript
 ---
 
 In my [last blog post about the current status of Avatar](/2015/01/is-oracles-avatar-dead.html) (if you haven't read it yet, do it now), I complained once more about Oracle's communication strategy, or non-strategy. This time, I was loud enough! Oracle did hear me!

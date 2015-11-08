@@ -1,9 +1,9 @@
 ---
 title: Herbstcampus Nachlese
 tags:
-- '#java'
-- '#konferenz'
-- '#architektur'
+- java
+- konferenz
+- architektur
 ---
 
 Anfang September war ich für zwei Tage auf dem [Hersbstcampus](http://www.herbstcampus.de), ausgerichtet von Bookware und Mathema. In den vergangenen Jahren habe ich bereits einiges über den Herbstcampus und die Qualität der Vorträge dort hören können und hatte dieses Jahr endlich mal selbst die Gelegenheit, mich davon zu überzeugen.

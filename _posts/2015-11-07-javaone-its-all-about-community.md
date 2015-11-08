@@ -1,8 +1,8 @@
 ---
 title: JavaOne - it's all about Community!
 tags:
-- '#javaone'
-- '#community'
+- javaone
+- community
 ---
 
 This year's and the overall **[19th JavaOne conference](https://www.oracle.com/javaone/index.html)** is over. Time, for a review of the conference:

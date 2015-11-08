@@ -1,10 +1,10 @@
 ---
 title: Riding the Nashorn - Workshop at JavaLand 2016
 tags:
- - '#javascript'
- - '#nashorn'
- - '#java'
- - '#javaland'
+ - javascript
+ - nashorn
+ - java
+ - javaland
 thumbnail: /images/nashorn.jpg
 ---
 

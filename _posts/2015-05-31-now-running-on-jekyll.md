@@ -1,8 +1,8 @@
 ---
 title: Now Running on Jekyll
 tags:
-- '#jekyll'
-- '#github'
+- jekyll
+- github
 thumbnail: http://jekyllrb.com/img/octojekyll.png
 ---
 

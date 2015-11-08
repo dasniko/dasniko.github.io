@@ -1,9 +1,9 @@
 ---
 title: ESB and BPM come together
 tags:
-- '#integration'
-- '#bpmn'
-- '#esb'
+- integration
+- bpmn
+- esb
 ---
 
 Am 17.10.2012 hieß es in Wiesbaden _"camunda fox + Mule ESB"_. Eine (kostenlose) gemeinsame Veranstaltung von [camunda](http://www.camunda.com) und [Mulesoft](http://www.mulesoft.com), in der gezeigt werden sollte, wie sich eine offene BPM-Plattform mit einem ESB sinnvoll kombinieren lässt.  

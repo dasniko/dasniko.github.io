@@ -1,11 +1,11 @@
 ---
 title: JavaOne Call for Proposals - JVM language special
 tags:
-- '#languages'
-- '#jvm'
-- '#cfp'
-- '#javaone'
-- '#java'
+- languages
+- jvm
+- cfp
+- javaone
+- java
 thumbnail: /images/logo_javaone.png
 ---
 

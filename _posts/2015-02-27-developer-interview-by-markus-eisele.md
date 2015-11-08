@@ -1,11 +1,11 @@
 ---
 title: Developer Interview by Markus Eisele (Red Hat)
 tags:
-- '#nodejs'
-- '#javaee'
-- '#jboss'
-- '#wildfly'
-- '#redhat'
+- nodejs
+- javaee
+- jboss
+- wildfly
+- redhat
 thumbnail: https://img.youtube.com/vi/SN3mKNPkjQs/default.jpg
 ---
 

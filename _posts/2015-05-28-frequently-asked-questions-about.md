@@ -1,9 +1,9 @@
 ---
 title: Frequently asked questions about Nashorn and Node.js
 tags:
-- '#nashorn'
-- '#nodejs'
-- '#javascript'
+- nashorn
+- nodejs
+- javascript
 ---
 
 During many of my talks about Nashorn, Node.js on the JVM and related topics, I frequently get asked these kinds of questions and I'd like to try to give some answers on these:

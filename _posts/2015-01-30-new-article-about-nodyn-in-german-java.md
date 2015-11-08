@@ -1,11 +1,11 @@
 ---
 title: New article about Nodyn in german Java Magazin
 tags:
-- '#nodejs'
-- '#vertx'
-- '#nodyn'
-- '#jvm'
-- '#javascript'
+- nodejs
+- vertx
+- nodyn
+- jvm
+- javascript
 thumbnail: http://3.bp.blogspot.com/-LUpUZMLl0SI/VMs5HGGSq4I/AAAAAAAACB0/NsiAGhOEues/s72-c/2015-01-30%2B08.50.57.jpg
 ---
 

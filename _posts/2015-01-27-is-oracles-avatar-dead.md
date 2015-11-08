@@ -1,11 +1,11 @@
 ---
 title: Is Oracle's Avatar dead?
 tags:
-- '#nodejs'
-- '#avatar'
-- '#oracle'
-- '#javascript'
-- '#avatarjs'
+- nodejs
+- avatar
+- oracle
+- javascript
+- avatarjs
 ---
 
 After more than one year with [Avatar.js](https://avatar-js.java.net) and [Project Avatar](https://avatar.java.net) - the Node.js solutions running on the JVM from Oracle, I must assume, that **Avatar is dead!**

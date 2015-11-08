@@ -1,12 +1,12 @@
 ---
 title: High-Performance Microservices - Node.js vs. Wildfly
 tags:
-- '#nodejs'
-- '#javaee'
-- '#jboss'
-- '#wildfly'
-- '#microservices'
-- '#javascript'
+- nodejs
+- javaee
+- jboss
+- wildfly
+- microservices
+- javascript
 ---
 
 There is always this competition: Which one is faster? A good, "old" (heavyweighted) Java application server, or a fancy, new Node.js hipster app? Well, I did a comparison between both approaches.

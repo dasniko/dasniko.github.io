@@ -1,9 +1,9 @@
 ---
 title: Node.js & Co. mit Golo Roden
 tags:
-- '#javascript'
-- '#jug'
-- '#nodejs'
+- javascript
+- jug
+- nodejs
 ---
 
 Gestern Abend habe ich mir einen sehr interessanten Vortrag von [Golo Roden](http://www.goloroden.de) zum Thema [Node.js](http://nodejs.org) &amp; Co. bei der [JUG Darmstadt](http://jug-da.de) angehört. Zuvor hatte ich mich noch nicht sehr intensiv mit dem Thema "Javascript auf dem Server" bzw. "Javascript ausserhalb des Browsers" auseinandergesetzt und konnte deshalb wieder einiges Neues erfahren und lernen.

@@ -1,8 +1,8 @@
 ---
 title: Going International - JavaZone and JavaOne
 tags:
-- '#javaone'
-- '#javazone'
+- javaone
+- javazone
 thumbnail: /images/j1sf15-imspeaking.jpg
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: 'Neuer Vortrag: Wasser in der Wüste'
 tags:
-- '#java'
-- '#jug'
-- '#camel'
-- '#jms'
-- '#oracle'
+- java
+- jug
+- camel
+- jms
+- oracle
 ---
 
 ### Vom custom-made SQL-DB-Messaging Antipattern zum JMS-Standard mit Apache Camel

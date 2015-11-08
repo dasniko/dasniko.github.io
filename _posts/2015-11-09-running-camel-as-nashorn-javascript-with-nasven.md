@@ -1,11 +1,11 @@
 ---
 title: Running Camel Routes as JavaScript Application with Nashorn and Nasven
 tags:
-- '#nashorn'
-- '#javascript'
-- '#nasven'
-- '#camel'
-- '#integration'
+- nashorn
+- javascript
+- nasven
+- camel
+- integration
 ---
 
 I've already been thinking about this for a couple of months:

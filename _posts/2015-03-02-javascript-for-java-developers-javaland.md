@@ -1,10 +1,10 @@
 ---
 title: JavaScript for Java Developers @ JavaLand 2015
 tags:
-- '#training'
-- '#javascript'
-- '#javaland'
-- '#java'
+- training
+- javascript
+- javaland
+- java
 thumbnail: http://4.bp.blogspot.com/-2lqi49ogn0U/VPRSHKyWfaI/AAAAAAAACCk/ZBo4e4T9Vu0/s1600/JavaAktuell_2-15.png
 ---
 
