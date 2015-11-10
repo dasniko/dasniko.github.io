@@ -20,7 +20,7 @@ While this is a nice approach, and I really appreciate this, it's not Camel itse
 Additionally, there's **[Nasven](https://github.com/nasven)** - _a tool to get Maven artifacts in scope for Nashorn script execution._ It's created by [Bruno Borges](http://brunoborges.com/), a Product Manager and Developer working for Oracle.
 
 So, with that, I thought, it should be easy to do. And indeed, it is!
-I've created **[a Camel example for Nasven](https://github.com/dasniko/nasven-samples/tree/camel/camel)**, using the Camel core library executing a simple route moving a file from _a_ to _b_. Nothing special, but shows how easy it is to use Camel from JavaScript. Just create your routes and run the application. No compile time any more, no expensive and long deployment cycles - just edit your route if necessary and restart the application and - _pow!_ - you are done!
+I've created **[a Camel example for Nasven](https://github.com/nasven/samples/tree/master/camel)**, using the Camel core library executing a simple route moving a file from _a_ to _b_. Nothing special, but shows how easy it is to use Camel from JavaScript. Just create your routes and run the application. No compile time any more, no expensive and long deployment cycles - just edit your route if necessary and restart the application and - _pow!_ - you are done!
 
 Just create a `package.json` file with the dependency to the `camel-core` lib:
 
