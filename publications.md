@@ -5,10 +5,11 @@ permalink: /publications/
 ---
 
 <a href="https://jaxenter.de/mit-dem-testen-von-anwendungen-ist-es-so-eine-last-erst-recht-mit-lasttests-27564">
-  <img src="http://gatling.io/images/img1.png" style="max-width: 200px; float: right"/>
+  <img src="/images/javamagazin_12_15.jpg" style="max-width: 140px; float: right"/>
 </a>
 
 #### JAXenter.de, September 2015
+#### Java Magazin, Issue 12.15, November 2015, Page 73 ff.
 
 ### [Lasttests mit Gatling](https://jaxenter.de/mit-dem-testen-von-anwendungen-ist-es-so-eine-last-erst-recht-mit-lasttests-27564)
 
