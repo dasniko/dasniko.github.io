@@ -13,6 +13,12 @@ You can meet me at the following conferences and events:
 <a href="http://www.javaland.eu">
   <img src="/images/logo_javaland.gif" alt="JavaLand, Cologne" title="JavaLand, Cologne" class="conflogo"/>
 </a>
+<a href="http://www.voxxeddays.com">
+  <img src="/images/logo_voxxeddays.png" alt="VoxxedDays" title="VoxxedDays" class="conflogo" style="max-width: 350px"/>
+</a>
+<a href="http://www.jfokus.se">
+  <img src="/images/logo_jfokus.png" alt="JFokus, Stockholm" title="JFokus, Stockholm" class="conflogo" style="max-height: 120px"/>
+</a>
 <a href="http://www.javazone.no">
   <img src="/images/logo_javazone.png" alt="JavaZone, Oslo" title="JavaZone, Oslo" class="conflogo" style="height: 120px"/>
 </a>
@@ -28,9 +34,6 @@ You can meet me at the following conferences and events:
 <a href="http://oop-konferenz.de">
   <img src="/images/logo_oop.png" alt="OOP Conference, Munich" title="OOP Conference, Munich" class="conflogo"/>
 </a>
-<a href="http://entwicklertag.de">
-  <img src="/images/logo_entwicklertag.png" alt="Entwicklertag, Frankfurt" title="Entwicklertag, Frankfurt" class="conflogo" style="height: 110px"/>
-</a>
 <a href="http://www.enterjs.de">
   <img src="/images/logo_enterjs.png" alt="enterJS, Germany" title="enterJS, Germany" class="conflogo" style="height: 110px"/>
 </a>
@@ -39,6 +42,9 @@ You can meet me at the following conferences and events:
 </a>
 <a href="http://www.codetalks.de">
   <img src="/images/logo_codetalks.jpg" alt="code-talks, Hamburg" title="code-talks, Hamburg" class="conflogo" style="height: 110px"/>
+</a>
+<a href="http://entwicklertag.de">
+  <img src="/images/logo_entwicklertag.png" alt="Entwicklertag, Frankfurt" title="Entwicklertag, Frankfurt" class="conflogo" style="height: 110px"/>
 </a>
 <a href="http://herbstcampus.de">
   <img src="/images/logo_herbstcampus.gif" alt="Herbstcampus, Nuremberg" title="Herbstcampus, Nuremberg" class="conflogo" style="height: 50px"/>
@@ -51,6 +57,8 @@ You can meet me at the following conferences and events:
 
 I will and have been talking about these topics (and of course about upcoming topics in the future):
 
+- [Best of Breed: Java EE apps with MVC, ReactJS and WebPack](#mvc_react_webpack)
+- [No Stress with your Tests - Stresstesting with Gatling](#gatling)
 - [Isomorphic JavaScript apps with Nashorn and React](#isomorphic)
 - [Test your Nashorn JavaScript with JUnit, Groovy Spock, Jasmine and Mocha](#nashornspock)
 - [Nodyn and Vert.x - Running distributed Node.js apps in JVM environments](#distributednodejs)
@@ -72,6 +80,16 @@ I will and have been talking about these topics (and of course about upcoming to
 - [SOA Antipatterns - How to kill your business](#soaantipatterns)
 
 ---
+
+### <a name="mvc_react_webpack">Best of Breed: Java EE apps with MVC, ReactJS and WebPack</a>
+
+_t.b.d._
+
+### <a name="gatling">No Stress with your Tests - Stresstesting with Gatling</a>
+
+Unit-, integration- and UI-tests are nowadays more-or-less standard, but what about load tests? They have a niche existence or become canceled due to budget limits. In many projects, people just execute a bunch of fast but uncontrolled clicks. This type of "smoke tests" are not meaningful, not reproducible and thus neither comparable nor useful. In case of a performance bottleneck, the actual cause is not obvious.
+
+Gatling is about to roll-up this domain. Based on a modern open-source architecture of Scala, Akka and Netty, Gatling works asynchronously and non-blocking and thus with a high performance. The Scala-DSL enables you to create the test scenarios quick and easy. With assertions, global success or failure criteria can be defined and cool and clear reports visualize the results. Comprehensive test scenarios can be created with the usage of the Recorder utility. Thanks to Gatling, there are no more excuses not to run load tests right from the start!
 
 ### <a name="isomorphic">Isomorphic JavaScript apps with Nashorn and React</a>
 
