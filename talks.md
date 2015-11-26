@@ -41,10 +41,10 @@ You can meet me at the following conferences and events:
   <img src="/images/logo_dwx.png" alt="DWX - Developer Week, Nuremberg" title="DWX - Developer Week, Nuremberg" class="conflogo" style="height: 110px"/>
 </a>
 <a href="http://www.codetalks.de">
-  <img src="/images/logo_codetalks.jpg" alt="code-talks, Hamburg" title="code-talks, Hamburg" class="conflogo" style="height: 110px"/>
+  <img src="/images/logo_codetalks.jpg" alt="code-talks, Hamburg" title="code-talks, Hamburg" class="conflogo" style="height: 100px"/>
 </a>
 <a href="http://entwicklertag.de">
-  <img src="/images/logo_entwicklertag.png" alt="Entwicklertag, Frankfurt" title="Entwicklertag, Frankfurt" class="conflogo" style="height: 110px"/>
+  <img src="/images/logo_entwicklertag.png" alt="Entwicklertag, Frankfurt" title="Entwicklertag, Frankfurt" class="conflogo" style="height: 100px"/>
 </a>
 <a href="http://herbstcampus.de">
   <img src="/images/logo_herbstcampus.gif" alt="Herbstcampus, Nuremberg" title="Herbstcampus, Nuremberg" class="conflogo" style="height: 50px"/>
