@@ -4,6 +4,12 @@ title: Videos
 permalink: /videos/
 ---
 
+### JFokus 2016 Teaser - Isomorphic JavaScript Apps
+
+<iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/4t7_RXEaRqk" width="560"></iframe>
+
+---
+
 ### Developer Interview by Markus Eisele (Red Hat) on Java EE and Node.js Performance
 
 <iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/SN3mKNPkjQs" width="560"></iframe>
