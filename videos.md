@@ -4,6 +4,12 @@ title: Videos
 permalink: /videos/
 ---
 
+### JFokus 2016 - Isomorphic JavaScript Apps
+
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/GKOHa2tYiZw?list=PLUQORQEatnJdV2Ib4Edw3jLQJk5b8Rxcd" width="560"></iframe>
+
+---
+
 ### JFokus 2016 Teaser - Isomorphic JavaScript Apps
 
 <iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/4t7_RXEaRqk" width="560"></iframe>
