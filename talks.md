@@ -57,7 +57,8 @@ You can meet me at the following conferences and events:
 
 I will and have been talking about these topics (and of course about upcoming topics in the future):
 
-- [Best of Breed: Java EE apps with MVC, ReactJS and WebPack](#mvc_react_webpack)
+- [How micro can you go? Lambdas on AWS](#)
+- [Best of Breed: Java EE apps with MVC, ReactJS and WebPack](#)
 - [No Stress with your Tests - Stresstesting with Gatling](#gatling)
 - [Isomorphic JavaScript apps with Nashorn and React](#isomorphic)
 - [Test your Nashorn JavaScript with JUnit, Groovy Spock, Jasmine and Mocha](#nashornspock)
@@ -80,10 +81,6 @@ I will and have been talking about these topics (and of course about upcoming to
 - [SOA Antipatterns - How to kill your business](#soaantipatterns)
 
 ---
-
-### <a name="mvc_react_webpack">Best of Breed: Java EE apps with MVC, ReactJS and WebPack</a>
-
-_t.b.d._
 
 ### <a name="gatling">No Stress with your Tests - Stresstesting with Gatling</a>
 
