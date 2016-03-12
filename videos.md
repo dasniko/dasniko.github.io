@@ -4,6 +4,12 @@ title: Videos
 permalink: /videos/
 ---
 
+### VoxxedDays Zürich 2016 - Stresstests with Gatling
+
+<iframe allowfullscreen="" frameborder="0" height="315" width="560" src="https://www.youtube.com/embed/gOZvtBYzIVc?list=PLGsXDvjWzoeS2GjDvoifCloJPJNPawMzG"></iframe>
+
+---
+
 ### JFokus 2016 - Isomorphic JavaScript Apps
 
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/GKOHa2tYiZw?list=PLUQORQEatnJdV2Ib4Edw3jLQJk5b8Rxcd" width="560"></iframe>
