@@ -5,7 +5,7 @@ tags:
 - reactjs
 - experience
 - lessonslearned
-----
+---
 
 Currently I'm involved in a very large web project, constructing very complex UI functionality. We're doing it with React.JS. So far, so good...
 
