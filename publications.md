@@ -4,6 +4,18 @@ title: Publications
 permalink: /publications/
 ---
 
+#### JAXenter.de, April 2016
+
+### [Isomorphe JavaScript-Webanwendungen mit Java (EE) und React.JS](https://jaxenter.de/isomorphe-javascript-webanwendungen-mit-java-ee-und-react-js-38266)
+
+---
+
+#### JAXenter.de, January 2016
+
+### [Nashorn-JavaScript mit Spock und Jasmine testen](https://jaxenter.de/nashorn-javascript-mit-spock-und-jasmine-testen-33109)
+
+---
+
 <a href="https://jaxenter.de/mit-dem-testen-von-anwendungen-ist-es-so-eine-last-erst-recht-mit-lasttests-27564">
   <img src="/images/javamagazin_12_15.jpg" style="max-width: 140px; float: right"/>
 </a>
