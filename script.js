@@ -8,6 +8,7 @@ function parseRSS(url, callback) {
   });
 }
 
+// JAXenter column
 $(document).ready(function() {
   parseRSS('https://jaxenter.de/tag/web-tales?feed=rss2', function(data) {
     var html = '<h3>' + data.title + '</h3>';
@@ -18,5 +19,27 @@ $(document).ready(function() {
     });
     html += '</ul>';
     $('#jaxenter').html(html);
+  });
+});
+
+// back-to-top button behaviour
+$(document).ready(function() {
+  $('.top').hide();
+
+  $(function() {
+    $(window).scroll(function() {
+      if ($(this).scrollTop() > 100) {
+        $('.top').fadeIn();
+      } else {
+        $('.top').fadeOut();
+      }
+    });
+
+    $('.top').click(function() {
+      $('body,html').animate({
+        scrollTop: 0
+      }, 800);
+      return false;
+    });
   });
 });
