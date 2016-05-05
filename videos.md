@@ -4,6 +4,14 @@ title: Videos
 permalink: /videos/
 ---
 
+### Interview at JAX 2016 conference on Isomorphic JavaScript apps with React.JS and Java EE MVC
+
+_(german only)_
+
+<iframe allowfullscreen="" frameborder="0" height="315" width="560" src="https://www.youtube.com/embed/wlczx1M6ZlA"></iframe>
+
+---
+
 ### VoxxedDays Zürich 2016 - Stresstests with Gatling
 
 <iframe allowfullscreen="" frameborder="0" height="315" width="560" src="https://www.youtube.com/embed/gOZvtBYzIVc?list=PLGsXDvjWzoeS2GjDvoifCloJPJNPawMzG"></iframe>
