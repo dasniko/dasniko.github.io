@@ -54,12 +54,11 @@
   float: right;
   margin-bottom: 1em;
   margin-left: 1em;
-}
+  max-width: 350px;
 
-.postimg_left {
-  float: left;
-  margin-bottom: 1em;
-  margin-right: 1em;
+  &.left {
+    float: left;
+  }
 }
 
 pre.prettyprint {
