@@ -6,7 +6,7 @@ tags:
 - springboot
 ---
 
-In many of my [Keycloak](http://keycloak.jboss.org) consulting projects, I get asked again and again, how to get easy and access to the authorization data of the Keycloak SSO server:  
+In many of my [Keycloak](http://keycloak.jboss.org) consulting projects, I get asked again and again, how to get easy access to the authorization data of the Keycloak SSO server:  
 the `AccessToken`.
 
 ## Spring Boot
