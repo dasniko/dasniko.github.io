@@ -22,6 +22,52 @@ $(document).ready(function() {
   });
 });
 
+// Events
+$(document).ready(function() {
+  $.ajax({
+    url: '/events.json',
+    dataTpe: 'json',
+    success: function(data) {
+      if (!data || data.length == 0) return;
+      var html = '<h3>Meet me at these events:</h3>';
+      html += '<ul class="text-small">';
+      data.forEach(function(e) {
+        if (new Date(e.start) >= new Date()) {
+          html += '<li><a href="' + e.url + '" target="_blank">' + e.title + '</a>';
+          html += ', ' + e.location;
+          html += '<br/>' + dateFormat(e.start);
+          if (e.start !== e.end) {
+            html += ' &ndash; ' + dateFormat(e.end);
+          }
+          html += '</li>';
+        }
+      });
+      html += '</ul>';
+      $('#events').html(html);
+    }
+  });
+});
+
+var months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+var dateFormat = function(dtStr) {
+  var date = new Date(dtStr);
+
+  var d = '' + date.getDate();
+  if (d.endsWith('1')) {
+    d += '<sup>st</sup>';
+  } else if (d.endsWith('2')) {
+    d += '<sup>nd</sup>';
+  } else if (d.endsWith('3')) {
+    d += '<sup>rd</sup>';
+  } else {
+    d += '<sup>th</sup>';
+  }
+  var m = months[date.getMonth()];
+  var y = date.getFullYear();
+
+  return m + ', ' + d + ' ' + y;
+}
+
 // back-to-top button behaviour
 $(document).ready(function() {
   $('.top').hide();

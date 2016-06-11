@@ -1,0 +1,44 @@
+[
+  {
+    "title": "JUG CH Tour",
+    "location": "Zürich, Switzerland",
+    "start": "2016-08-30",
+    "end": "2016-08-30",
+    "url": "http://jug.ch"
+  },
+  {
+    "title": "JUG CH Tour",
+    "location": "Basel, Switzerland",
+    "start": "2016-08-31",
+    "end": "2016-08-31",
+    "url": "http://jug.ch"
+  },
+  {
+    "title": "JUG CH Tour",
+    "location": "Luzern, Switzerland",
+    "start": "2016-09-01",
+    "end": "2016-09-01",
+    "url": "http://jug.ch"
+  },
+  {
+    "title": "JavaZone 2016",
+    "location": "Oslo, Norway",
+    "start": "2016-09-07",
+    "end": "2016-09-08",
+    "url": "http://javazone.no"
+  },
+  {
+    "title": "Berlin Expert Days 2016",
+    "location": "Berlin, Germany",
+    "start": "2016-09-15",
+    "end": "2016-09-16",
+    "url": "http://bedcon.org"
+  },
+  {
+    "title": "W-JAX 2016",
+    "location": "Munich, Germany",
+    "start": "2016-11-07",
+    "end": "2016-11-11",
+    "url": "http://jax.de"
+  }
+]
