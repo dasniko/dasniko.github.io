@@ -32,3 +32,5 @@ Since a few days, there is also a commercial subscription from Red Hat available
 And the community Keycloak project, now approaches version 2.x - with a bunch of new features like a fine grained permissions management done by new "authorizsation servies." I'm really, really looking forward to this!
 
 If you have any questions about it, just ask - me or the Keycloak community!
+
+_Add-on:_ "Of course" there are Docker images available, also for a range of various databases. So be sure to check it out! https://github.com/jboss-dockerfiles/keycloak
