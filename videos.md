@@ -4,6 +4,13 @@ title: Videos
 permalink: /videos/
 ---
 
+### JavaScript in Enterprise Contexts - Java EE Expert Circle by Gedoplan IT, Germany
+
+_(german only)_
+
+<iframe allowfullscreen="" frameborder="0" height="315" width="560" src="https://www.youtube.com/embed/i9AUuv8oZw0"></iframe>
+---
+
 ### Interview at JAX 2016 conference on Isomorphic JavaScript apps with React.JS and Java EE MVC
 
 _(german only)_
