@@ -32,7 +32,7 @@ $(document).ready(function() {
       var html = '<h3>Meet me at these events:</h3>';
       html += '<ul class="text-small">';
       data.forEach(function(e) {
-        if (new Date(e.start) >= new Date()) {
+        if (new Date(e.start+'T23:59:59') >= new Date()) {
           html += '<li><a href="' + e.url + '" target="_blank">' + e.title + '</a>';
           html += ', ' + e.location;
           html += '<br/>' + dateFormat(e.start);
