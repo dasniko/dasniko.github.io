@@ -61,6 +61,17 @@
   }
 }
 
+.gallery {
+  float: left;
+  line-height: 1;
+  border: 1px solid lightgray;
+  margin: 2px;
+  img {
+    max-height: 100px;
+    margin: 3px;
+  }
+}
+
 pre.prettyprint {
   border-radius: 0.5em;
   box-shadow: 5px 5px 5px #888;
