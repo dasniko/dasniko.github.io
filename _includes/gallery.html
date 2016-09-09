@@ -1,0 +1,8 @@
+<section data-featherlight-gallery data-featherlight-filter="a">
+{% for photo in page.photos %}
+  <a href="{{ photo }}" class="gallery">
+    <img src="{{ photo }}"/>
+  </a>
+{% endfor %}
+</section>
+<div style="clear: both"></div>
