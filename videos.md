@@ -4,99 +4,106 @@ title: Videos
 permalink: /videos/
 ---
 
+### JavaZone 2016 - Isomorphic JavaScript Apps
+
+<iframe src="https://player.vimeo.com/video/181925279" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+---
+
 ### JavaScript in Enterprise Contexts - Java EE Expert Circle by Gedoplan IT, Germany
 
 _(german only)_
 
-<iframe allowfullscreen="" frameborder="0" height="315" width="560" src="https://www.youtube.com/embed/i9AUuv8oZw0"></iframe>
+<iframe frameborder="0" height="360" width="640" src="https://www.youtube.com/embed/i9AUuv8oZw0"></iframe>
+
 ---
 
 ### Interview at JAX 2016 conference on Isomorphic JavaScript apps with React.JS and Java EE MVC
 
 _(german only)_
 
-<iframe allowfullscreen="" frameborder="0" height="315" width="560" src="https://www.youtube.com/embed/wlczx1M6ZlA"></iframe>
+<iframe frameborder="0" height="360" width="640" src="https://www.youtube.com/embed/wlczx1M6ZlA"></iframe>
 
 ---
 
 ### VoxxedDays Zürich 2016 - Stresstests with Gatling
 
-<iframe allowfullscreen="" frameborder="0" height="315" width="560" src="https://www.youtube.com/embed/gOZvtBYzIVc?list=PLGsXDvjWzoeS2GjDvoifCloJPJNPawMzG"></iframe>
+<iframe frameborder="0" height="360" width="640" src="https://www.youtube.com/embed/gOZvtBYzIVc?list=PLGsXDvjWzoeS2GjDvoifCloJPJNPawMzG"></iframe>
 
 ---
 
 ### JFokus 2016 - Isomorphic JavaScript Apps
 
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/GKOHa2tYiZw?list=PLUQORQEatnJdV2Ib4Edw3jLQJk5b8Rxcd" width="560"></iframe>
+<iframe frameborder="0" height="360" src="https://www.youtube.com/embed/GKOHa2tYiZw?list=PLUQORQEatnJdV2Ib4Edw3jLQJk5b8Rxcd" width="640"></iframe>
 
 ---
 
 ### JFokus 2016 Teaser - Isomorphic JavaScript Apps
 
-<iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/4t7_RXEaRqk" width="560"></iframe>
+<iframe frameborder="0" height="360" src="//www.youtube.com/embed/4t7_RXEaRqk" width="640"></iframe>
 
 ---
 
 ### JavaOne 2015 - CON2133 Nodyn and Vert.x: Running Distributed Node.js Apps in JVM Environments
 
-<iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/BM3iBJJjw4Q" width="560"></iframe>
+<iframe frameborder="0" height="360" src="//www.youtube.com/embed/BM3iBJJjw4Q" width="640"></iframe>
 
 ---
 
 ### Developer Interview by Markus Eisele (Red Hat) on Java EE and Node.js Performance
 
-<iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/SN3mKNPkjQs" width="560"></iframe>
+<iframe frameborder="0" height="360" src="//www.youtube.com/embed/SN3mKNPkjQs" width="640"></iframe>
 
 ---
 
 ### Project Avatar: More than just Node.js on the JVM / W-Jax 2014
 
-<iframe src="https://player.vimeo.com/video/123942586?byline=0" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/123942586?byline=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ---
 
 ### Avatar 2.0 @ JavaOne 2014, San Francisco
 
-<iframe frameborder="0" height="400" width="640" mozallowfullscreen="true" src="//www.parleys.com/share.html#play/543faf2ee4b08dc7823e55f5" type="text/html" webkitallowfullscreen="true"></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/wiOx_oQ1hxw" frameborder="0"></iframe>
 
 ---
 
 ### My Avatar 2-Minute Tech Tip at Oracle Open World / JavaOne 2014
 
-<iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/gwLC13QGL1M" width="560"></iframe>
+<iframe frameborder="0" height="360" src="//www.youtube.com/embed/gwLC13QGL1M" width="640"></iframe>
 
 ---
 
 ### The Avatar-Framework - JavaScript-Binding for Java EE components / JAX 2014
 
-<iframe src="https://player.vimeo.com/video/130221163?byline=0" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/130221163?byline=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ---
 
 ### Meteor JS - Fullstack reactive JavaScript Platform / DWX 2014
 
-<iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/NEYoHIrFGPg" width="560"></iframe>
+<iframe frameborder="0" height="360" src="//www.youtube.com/embed/NEYoHIrFGPg" width="640"></iframe>
 
 ---
 
 ### Code-Quality despite of JavaScript / DWX 2014
 
-<iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/NRivJxSgOJY" width="560"></iframe>
+<iframe frameborder="0" height="360" src="//www.youtube.com/embed/NRivJxSgOJY" width="640"></iframe>
 
 ---
 
 ### Video &amp; Slides of our (german) Meteor JavaScript platform talk at BEDCon 2014
 
-<iframe frameborder="0" height="340" mozallowfullscreen="true" src="//www.parleys.com/share.html#play/53400695e4b05d8b8687494f" type="text/html" webkitallowfullscreen="true" width="640"></iframe>
+_Video was unfortunately removed by Parleys_
 
 ---
 
 ### Short (german) talk about Code Quality despite of JavaScript at BED-Con 2014
 
-<iframe frameborder="0" height="340" mozallowfullscreen="true" src="//www.parleys.com/share.html#play/533dc632e4b05d8b86874944" type="text/html" webkitallowfullscreen="true" width="640"></iframe>
+_Video was unfortunately removed by Parleys_
 
 ---
 
 ### NightHacking Interview about JavaScript and Node.js with Project Avatar on the JVM
 
-<iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/kyG-oe3ptm8" width="560"></iframe>
+<iframe frameborder="0" height="360" src="//www.youtube.com/embed/kyG-oe3ptm8" width="640"></iframe>
