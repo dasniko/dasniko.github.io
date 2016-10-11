@@ -4,9 +4,15 @@ title: Videos
 permalink: /videos/
 ---
 
+### JAX 2016 - Keine Last mit den Tests - Lasttests mit Gatling
+
+<iframe src="https://player.vimeo.com/video/169541951" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+---
+
 ### JavaZone 2016 - Isomorphic JavaScript Apps
 
-<iframe src="https://player.vimeo.com/video/181925279" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/181925279" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -58,7 +64,7 @@ _(german only)_
 
 ### Project Avatar: More than just Node.js on the JVM / W-Jax 2014
 
-<iframe src="https://player.vimeo.com/video/123942586?byline=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/123942586?byline=0" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -76,7 +82,7 @@ _(german only)_
 
 ### The Avatar-Framework - JavaScript-Binding for Java EE components / JAX 2014
 
-<iframe src="https://player.vimeo.com/video/130221163?byline=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/130221163?byline=0" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 ---
 
