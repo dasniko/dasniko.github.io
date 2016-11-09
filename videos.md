@@ -4,6 +4,12 @@ title: Videos
 permalink: /videos/
 ---
 
+### W-JAX 2016 - Single Sign On für Microservices und verteilte (Java EE) Anwendungen
+
+<iframe src="https://player.vimeo.com/video/190835531" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+---
+
 ### JAX 2016 - Keine Last mit den Tests - Lasttests mit Gatling
 
 <iframe src="https://player.vimeo.com/video/169541951" width="640" height="360" frameborder="0" allowfullscreen></iframe>
