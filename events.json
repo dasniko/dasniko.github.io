@@ -1,26 +1,5 @@
 [
   {
-    "title": "Berlin Expert Days 2016",
-    "location": "Berlin, Germany",
-    "start": "2016-09-15",
-    "end": "2016-09-16",
-    "url": "http://bedcon.org"
-  },
-  {
-    "title": "JFall 2017",
-    "location": "Ede, Netherlands",
-    "start": "2016-11-03",
-    "end": "2016-11-03",
-    "url": "http://jfall.nl"
-  },
-  {
-    "title": "W-JAX 2016",
-    "location": "Munich, Germany",
-    "start": "2016-11-07",
-    "end": "2016-11-11",
-    "url": "http://jax.de"
-  },
-  {
     "title": "API Summit 2016",
     "location": "Berlin, Germany",
     "start": "2016-11-22",
@@ -33,6 +12,13 @@
     "start": "2017-01-30",
     "end": "2017-02-03",
     "url": "http://www.oop-konferenz.de"
+  },
+  {
+    "title": "Entwicklertag Frankfurt 2017",
+    "location": "Frankfurt, Germany",
+    "start": "2017-02-16",
+    "end": "2017-02-16",
+    "url": "https://entwicklertag.de"
   },
   {
     "title": "JavaLand 2017",
