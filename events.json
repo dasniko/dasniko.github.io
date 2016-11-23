@@ -1,12 +1,5 @@
 [
   {
-    "title": "API Summit 2016",
-    "location": "Berlin, Germany",
-    "start": "2016-11-22",
-    "end": "2016-11-23",
-    "url": "http://api-summit.de"
-  },
-  {
     "title": "OOP Conference 2017",
     "location": "Munich, Germany",
     "start": "2017-01-30",
@@ -26,5 +19,12 @@
     "start": "2017-03-28",
     "end": "2017-03-29",
     "url": "http://javaland.eu"
+  },
+  {
+    "title": "JAX 2017",
+    "location": "Mainz, Germany",
+    "start": "2017-05-08",
+    "end": "2017-05-12",
+    "url": "https://jax.de"
   }
 ]
