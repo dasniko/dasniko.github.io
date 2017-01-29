@@ -4,6 +4,50 @@ title: Publications
 permalink: /publications/
 ---
 
+<a href="https://entwickler.de/leseproben/single-sign-on-579757525.html">
+  <img src="/images/javamagazin_02_17.jpg" style="max-width: 140px; float: right"/>
+</a>
+
+#### Java Magazin, Issue 2.2017, January 2017
+
+### [Single Sign On für Microservices und verteilte Anwendungen](https://entwickler.de/leseproben/single-sign-on-579757525.html)
+
+Verteilte Anwendungen und Microservices bedürfen einer erweiterten Absicherung hinsichtlich Authentifizierung und Autorisierung als es einfache Anwendungen in der Vergangenheit getan haben.
+
+Anwender sicher zu authentifizieren und zu autorisieren, ist gerade in Microservices-Architekturen oder verteilten Anwendungen keine leichte Aufgabe. Vor allem, weil hier ein Securityknackpunkt liegt. Das Konzept Single Sign-on soll möglichst viel Sicherheit mit möglichst viel Bequemlichkeit für die Anwender verbinden. Verschiedene Technologien versuchen, das unter einen Hut zu bekommen.
+
+---
+
+#### JAXenter.de, November 2016
+
+### [Was ist ein API Gateway – und wofür kann ich es einsetzen?](https://jaxenter.de/was-ist-ein-api-gateway-und-wofuer-kann-ich-es-einsetzen-49804)
+
+---
+
+<a href="https://jaxenter.de/serverless-niko-koebler-49176">
+  <img src="/images/javamagazin_12_16.jpg" style="max-width: 140px; float: right"/>
+</a>
+
+#### Java Magazin, Issue 12.2016, November 2016
+
+### [Darfs auch etwas weniger sein? Serverlose Microservices mit AWS Lambda](https://jaxenter.de/serverless-niko-koebler-49176)
+
+Es gibt Momente, in denen will man einfach nur Code schreiben und in der Cloud ausführen, ohne sich lange mit der Infrastruktur aufhalten zu müssen. Ereignisgesteuerte Funktionen in der Cloud ausführen – darauf ist AWS Lambda spezialisiert.
+
+---
+
+#### JAXenter.com, May 2016
+
+### [JavaScript - the next runtime platform?](https://jaxenter.com/web-tales-javascript-the-next-runtime-platform-126065.html)
+
+---
+
+#### JAXenter.de, April 2016
+
+### [JavaScript - die nächste Runtime Plattform?](https://jaxenter.de/javascript-die-naechste-runtime-plattform-39282)
+
+---
+
 #### JAXenter.de, April 2016
 
 ### [Isomorphe JavaScript-Webanwendungen mit Java (EE) und React.JS](https://jaxenter.de/isomorphe-javascript-webanwendungen-mit-java-ee-und-react-js-38266)
@@ -21,6 +65,7 @@ permalink: /publications/
 </a>
 
 #### JAXenter.de, September 2015
+
 #### Java Magazin, Issue 12.15, November 2015, Page 73 ff.
 
 ### [Lasttests mit Gatling](https://jaxenter.de/mit-dem-testen-von-anwendungen-ist-es-so-eine-last-erst-recht-mit-lasttests-27564)

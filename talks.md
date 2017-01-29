@@ -57,8 +57,9 @@ You can meet me at the following conferences and events:
 
 I will and have been talking about these topics (and of course about upcoming topics in the future):
 
-- [How micro can you go? Lambdas on AWS](#)
-- [Best of Breed: Java EE apps with MVC, ReactJS and WebPack](#)
+- [Serverless Cloud Architectures (with AWS Infrastructure)](#serverless)
+- [Single-Sign-On for Microservices and distributed (Java EE) applications](#keycloak)
+- [How micro can you go? Lambdas on AWS](#lambda)
 - [No Stress with your Tests - Stresstesting with Gatling](#gatling)
 - [Isomorphic JavaScript apps with Nashorn and React](#isomorphic)
 - [Test your Nashorn JavaScript with JUnit, Groovy Spock, Jasmine and Mocha](#nashornspock)
@@ -81,6 +82,27 @@ I will and have been talking about these topics (and of course about upcoming to
 - [SOA Antipatterns - How to kill your business](#soaantipatterns)
 
 ---
+
+### <a name="serverless">Serverless Cloud Architectures (with AWS infrastructure)</a>
+Serverless architectures allow you to build an run applications and Microservices without having to manage infrastructure. Of course there are still servers involved, but the management will be done by your Cloud provider. You don't need to take care of provisioning, scaling, availability and all of this tasks for you applications, databases and other systems.
+
+With the use of function-sized compute containers (like e.g. AWS Lambda, to give it a name), Microservices become really small. These Functions are easy to write, test and deploy, because they are so small, just focussing on one single task. And as they are only charged when used, you even pay less. In general, Functions are event-driven, but together with API-Gateway, Functions become a powerful and lean alternative of running Microservices in a container like Docker (which looks huge in comparison).
+
+### <a name="keycloak">Single-Sign-On for Microservices and distributed (Java EE) applications with Keycloak</a>
+
+In the era of distributed (Cloud) applications and Microservices, the authentication and authorization of users is not an easy task. And who wants to implement a login form and the corresponding logic again and again? Also users of monolithic applications don't want to sign in again and again when switching from one application to another.
+
+So, JBoss Keycloak to the rescue! Keycloak is a Single-Sign-On (SSO) and Identity Management (IDM) system, which comes with a very broad range of functionality and is very easy to mount in many existing applications. The token-based user authentication and authorization with JWT, OAuth2, OpenID Connect or SAML 2.0 is reliable and does not require any additional manual development. Existing LDAP or other directories or user repositories can be integrated easily and authorization to social providers like Github, Twitter, Facebook or Google are only a few clicks away.
+
+I'll give you an overview of Keycloak, but additionally I will also show you how to integrate this SSO solution into various applications, beginning with pure RESTful services on Java EE and Spring Boat applications to pure JavaScript-based client applications (like Angular and React).
+
+###<a name="lambda">How micro can you go? Lambdas on AWS</a>
+
+There are moments, you only want to write code and execute it in the cloud. Without thinking about infrastructure, without the need to manage infrastructure. Because you don't need it, because you don't want it, because it's expensive.
+
+Executing event-driven functions in the cloud - that's what AWS Lambda stands for. Developers only write code, in JavaScript, Java or any JVM-based language or Python. Lambda is doing the rest. The balance is cleared in blocks of 100ms. Write efficient code, pay less!
+
+At runtime, the AWS API is available. If you need more libs, just deploy them with your code. With the API-Gateway Lambda services become a fully supported REST-interface and can communicate with the outside world.
 
 ### <a name="gatling">No Stress with your Tests - Stresstesting with Gatling</a>
 
