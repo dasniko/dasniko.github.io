@@ -4,6 +4,18 @@ title: JavaScript Trainings
 permalink: /training/
 ---
 
+## Erste Schritte mit Serverless Cloud Computing
+
+_t.b.d._
+
+- Web-Application Stack:
+  - AWS Lambda
+  - Amazon API Gateway
+  - DynamoDB
+- ChatBot für Slack mit AWS Lambda
+
+---
+
 ## JavaScript für Java Entwickler
 
 JavaScript und Java sind sich in ihrem Namen und ihrer Syntax sehr ähnlich, doch hier hören die Gemeinsamkeiten auch schon auf. Immer noch sind viele Java-Entwickler der Meinung, dass JavaScript nur ein Subset von Java und eine unsichere Spiel-Sprache für den Browser ist, und sie sich somit nicht mit dieser Sprache auseinandersetzen müssen. JavaScript verhält sich jedoch völlig anders als Java, und so programmieren viele Java-Entwickler kleine JavaScript Programme, ohne das nötige Hintergrundwissen zu haben und fragen sich dann, warum ihr Code nicht so abläuft wie sie sich das vorgestellt haben.
