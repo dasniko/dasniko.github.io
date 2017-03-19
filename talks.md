@@ -54,7 +54,7 @@ You can meet me at the following conferences and events:
 
 I will and have been talking about these topics (and of course about upcoming topics in the future):
 
-- [Serverless - Server-WHAT? - Let's do deep-dive into AWS Lambda](#lambdadeepdive)
+- [Deep-dive into serverless computing with AWS Lambda](#lambdadeepdive)
 - [Serverless Cloud Architectures (with AWS Infrastructure)](#serverless)
 - [Single-Sign-On for Microservices and distributed (Java EE) applications](#keycloak)
 - [How micro can you go? Lambdas on AWS](#lambda)
@@ -81,9 +81,13 @@ I will and have been talking about these topics (and of course about upcoming to
 
 ---
 
-### <a name="lambdadeepdive">Serverless - ServerWHAT? - Let's do a deep-dive into AWS Lambda</a>
+### <a name="lambdadeepdive">Deep-dive into serverless computing with AWS Lambda</a>
 
-_t.b.d._
+_"Serverless"_ ist the new kid in town! Wait... server-_WHAT?_ +
+Everybody is talking about "Function-as-a-Service" (FaaS). But most people don't yet understand what it exactly is, what it means and how it works.
+
+In my session, I'll give you a quick overview of what "serverless" actually means and how it arised.
+After that, we'll do a deep-dive into the techniques of AWS Lambda, the serverless computing service at Amazon Cloud. I'll demonstrate (on my laptop, kind of legacy), how the container technology works and give you some deeper insights into the programming and deployment model to get a better understanding of this current "hype" thing.
 
 ### <a name="serverless">Serverless Cloud Architectures (with AWS infrastructure)</a>
 Serverless architectures allow you to build an run applications and Microservices without having to manage infrastructure. Of course there are still servers involved, but the management will be done by your Cloud provider. You don't need to take care of provisioning, scaling, availability and all of this tasks for you applications, databases and other systems.
