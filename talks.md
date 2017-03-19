@@ -7,26 +7,23 @@ permalink: /talks/
 
 You can meet me at the following conferences and events:
 
-<a href="https://www.oracle.com/javaone/index.html">
-  <img src="/images/logo_javaone.png" alt="JavaOne, San Francisco" title="JavaOne, San Francisco" class="conflogo"/>
-</a>
 <a href="http://www.javaland.eu">
   <img src="/images/logo_javaland.gif" alt="JavaLand, Cologne" title="JavaLand, Cologne" class="conflogo"/>
 </a>
-<a href="http://www.voxxeddays.com">
-  <img src="/images/logo_voxxeddays.png" alt="VoxxedDays" title="VoxxedDays" class="conflogo" style="max-width: 350px"/>
-</a>
-<a href="http://www.jfokus.se">
-  <img src="/images/logo_jfokus.png" alt="JFokus, Stockholm" title="JFokus, Stockholm" class="conflogo" style="max-height: 120px"/>
+<a href="https://jax.de">
+<img src="/images/logo_jax.png" alt="Jax Conference Series, Germany" title="Jax Conference Series, Germany" class="conflogo" style="height: 110px"/>
 </a>
 <a href="http://www.javazone.no">
-  <img src="/images/logo_javazone.png" alt="JavaZone, Oslo" title="JavaZone, Oslo" class="conflogo" style="height: 120px"/>
+<img src="/images/logo_javazone.png" alt="JavaZone, Oslo" title="JavaZone, Oslo" class="conflogo" style="height: 120px"/>
 </a>
-<a href="http://jeeconf.com">
-  <img src="/images/logo_jeeconf.png" alt="JEEConf, Kiev" title="JEEConf, Kiev" class="conflogo"/>
+<a href="http://www.jfokus.se">
+<img src="/images/logo_jfokus.png" alt="JFokus, Stockholm" title="JFokus, Stockholm" class="conflogo" style="max-height: 120px"/>
 </a>
-<a href="https://jax.de">
-  <img src="/images/logo_jax.png" alt="Jax Conference Series, Germany" title="Jax Conference Series, Germany" class="conflogo" style="height: 110px"/>
+<a href="https://www.oracle.com/javaone/index.html">
+<img src="/images/logo_javaone.png" alt="JavaOne, San Francisco" title="JavaOne, San Francisco" class="conflogo"/>
+</a>
+<a href="http://www.voxxeddays.com">
+  <img src="/images/logo_voxxeddays.png" alt="VoxxedDays" title="VoxxedDays" class="conflogo" style="max-width: 350px"/>
 </a>
 <a href="http://bed-con.org">
   <img src="/images/logo_bedcon.png" alt="BED-CON, Berlin" title="BED-CON, Berlin" class="conflogo" style="height: 80px"/>
@@ -57,6 +54,7 @@ You can meet me at the following conferences and events:
 
 I will and have been talking about these topics (and of course about upcoming topics in the future):
 
+- [Serverless - Server-WHAT? - Let's do deep-dive into AWS Lambda](#lambdadeepdive)
 - [Serverless Cloud Architectures (with AWS Infrastructure)](#serverless)
 - [Single-Sign-On for Microservices and distributed (Java EE) applications](#keycloak)
 - [How micro can you go? Lambdas on AWS](#lambda)
@@ -82,6 +80,10 @@ I will and have been talking about these topics (and of course about upcoming to
 - [SOA Antipatterns - How to kill your business](#soaantipatterns)
 
 ---
+
+### <a name="lambdadeepdive">Serverless - ServerWHAT? - Let's do a deep-dive into AWS Lambda</a>
+
+_t.b.d._
 
 ### <a name="serverless">Serverless Cloud Architectures (with AWS infrastructure)</a>
 Serverless architectures allow you to build an run applications and Microservices without having to manage infrastructure. Of course there are still servers involved, but the management will be done by your Cloud provider. You don't need to take care of provisioning, scaling, availability and all of this tasks for you applications, databases and other systems.
