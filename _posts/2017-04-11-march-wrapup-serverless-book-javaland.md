@@ -39,7 +39,7 @@ So I compiled the submitted source code in the Spring web app, loaded the binari
 Finally, the result was written in a DynamoDB.  
 Folks, this is really cool stuff and was fun implementing it!
 
-<img src="/images/serverless_sohot.jpg" class="postimg">
+<img src="/images/serverless_sohot.jpg" class="postimg left">
 So, this leads to my other main task at the moment: my (german) book on **Serverless Computing**.  
 I wrote pretty much in march, most of the time everything worked well.
 Only one day I had my first crisis on writing. It was a really bad day, I deleted more lines than I wrote.
