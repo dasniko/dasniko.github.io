@@ -11,11 +11,10 @@ function parseRSS(url, callback) {
 // JAXenter column
 $(document).ready(function() {
   parseRSS('https://jaxenter.de/tag/web-tales?feed=rss2', function(data) {
-    console.debug(data);
     var html = '<h3>' + data.feed.title + '</h3>';
-    html += '<div class="text-small">Latest articles of my <a href="' + data.feed.link + '/tag/web-tales" target="_blank">JAXenter column.</a></div>';
+    html += '<div class="text-small">Latest articles of my <a href="' + data.feed.link + 'tag/web-tales" target="_blank">JAXenter column.</a></div>';
     html += '<ul class="text-small">';
-    data.items.entries.forEach(function(e) {
+    data.items.forEach(function(e) {
       html += '<li><a href="' + e.link + '" target="_blank">' + e.title + '</a></li>';
     });
     html += '</ul>';
