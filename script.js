@@ -1,6 +1,6 @@
 function parseRSS(url, callback) {
   $.ajax({
-    url: 'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(url),
+    url: 'https://api.rss2json.com/v1/api.json?api_key=vlybkabevt2nzscqyarurh4yutv4g3loc8aen7jb&count=2&rss_url=' + encodeURIComponent(url),
     dataType: 'json',
     success: function(data) {
       callback(data);
