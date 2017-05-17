@@ -4,6 +4,12 @@ title: Videos
 permalink: /videos/
 ---
 
+### JAX 2017 - Serverless Cloud Architectures
+
+<iframe src="https://player.vimeo.com/video/217622142" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+---
+
 ### W-JAX 2016 - Single Sign On für Microservices und verteilte (Java EE) Anwendungen
 
 <iframe src="https://player.vimeo.com/video/190835531" width="640" height="360" frameborder="0" allowfullscreen></iframe>
