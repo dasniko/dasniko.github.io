@@ -54,8 +54,10 @@ You can meet me at the following conferences and events:
 
 I will and have been talking about these topics (and of course about upcoming topics in the future):
 
+- [Serverless Computing - Early Lessons Learned](#serverless-lessonslearned)
 - [Deep-dive into serverless computing with AWS Lambda](#lambdadeepdive)
 - [Serverless Cloud Architectures (with AWS Infrastructure)](#serverless)
+- [Security and Single-Sign-On for Web APIs](#apisecurity)
 - [Single-Sign-On for Microservices and distributed (Java EE) applications](#keycloak)
 - [How micro can you go? Lambdas on AWS](#lambda)
 - [No Stress with your Tests - Stresstesting with Gatling](#gatling)
@@ -81,18 +83,33 @@ I will and have been talking about these topics (and of course about upcoming to
 
 ---
 
+### <a name="serverless-lessonslearned">Serverless Computing - Early Lessons Learned</a>
+
+What's the status quo of the _Serverless_ hype?
+In any case it's time to look at the first and early "lessons learned"!
+Not only for beginners in the serverless world, it's important to take into account some tripping events, which no one want's to run in a second time.  
+"No Server" does not mean "No Ops"! - The responsibitlity for accuracy, reliability and correct results can no simply be dropped.  
+We'll discuss suitable and unsuitable options of "Serverless", specific features that must be taken into account using the programming model, as well as handling container instances, caching latencies, security, monitoring, deployment, etc.
+
+---
+
 ### <a name="lambdadeepdive">Deep-dive into serverless computing with AWS Lambda</a>
 
-_"Serverless"_ ist the new kid in town! Wait... server-_WHAT?_ +
+_"Serverless"_ ist the new kid in town! Wait... server... _WHAT?_  
 Everybody is talking about "Function-as-a-Service" (FaaS). But most people don't yet understand what it exactly is, what it means and how it works.
 
 In my session, I'll give you a quick overview of what "serverless" actually means and how it arised.
 After that, we'll do a deep-dive into the techniques of AWS Lambda, the serverless computing service at Amazon Cloud. I'll demonstrate (on my laptop, kind of legacy), how the container technology works and give you some deeper insights into the programming and deployment model to get a better understanding of this current "hype" thing.
 
+---
+
 ### <a name="serverless">Serverless Cloud Architectures (with AWS infrastructure)</a>
+
 Serverless architectures allow you to build an run applications and Microservices without having to manage infrastructure. Of course there are still servers involved, but the management will be done by your Cloud provider. You don't need to take care of provisioning, scaling, availability and all of this tasks for you applications, databases and other systems.
 
 With the use of function-sized compute containers (like e.g. AWS Lambda, to give it a name), Microservices become really small. These Functions are easy to write, test and deploy, because they are so small, just focussing on one single task. And as they are only charged when used, you even pay less. In general, Functions are event-driven, but together with API-Gateway, Functions become a powerful and lean alternative of running Microservices in a container like Docker (which looks huge in comparison).
+
+---
 
 ### <a name="keycloak">Single-Sign-On for Microservices and distributed (Java EE) applications with Keycloak</a>
 
@@ -102,6 +119,8 @@ So, JBoss Keycloak to the rescue! Keycloak is a Single-Sign-On (SSO) and Identit
 
 I'll give you an overview of Keycloak, but additionally I will also show you how to integrate this SSO solution into various applications, beginning with pure RESTful services on Java EE and Spring Boat applications to pure JavaScript-based client applications (like Angular and React).
 
+---
+
 ###<a name="lambda">How micro can you go? Lambdas on AWS</a>
 
 There are moments, you only want to write code and execute it in the cloud. Without thinking about infrastructure, without the need to manage infrastructure. Because you don't need it, because you don't want it, because it's expensive.
@@ -110,15 +129,21 @@ Executing event-driven functions in the cloud - that's what AWS Lambda stands fo
 
 At runtime, the AWS API is available. If you need more libs, just deploy them with your code. With the API-Gateway Lambda services become a fully supported REST-interface and can communicate with the outside world.
 
+---
+
 ### <a name="gatling">No Stress with your Tests - Stresstesting with Gatling</a>
 
 Unit-, integration- and UI-tests are nowadays more-or-less standard, but what about load tests? They have a niche existence or become canceled due to budget limits. In many projects, people just execute a bunch of fast but uncontrolled clicks. This type of "smoke tests" are not meaningful, not reproducible and thus neither comparable nor useful. In case of a performance bottleneck, the actual cause is not obvious.
 
 Gatling is about to roll-up this domain. Based on a modern open-source architecture of Scala, Akka and Netty, Gatling works asynchronously and non-blocking and thus with a high performance. The Scala-DSL enables you to create the test scenarios quick and easy. With assertions, global success or failure criteria can be defined and cool and clear reports visualize the results. Comprehensive test scenarios can be created with the usage of the Recorder utility. Thanks to Gatling, there are no more excuses not to run load tests right from the start!
 
+---
+
 ### <a name="isomorphic">Isomorphic JavaScript apps with Nashorn and React</a>
 
 Isomorphic _(greek: "isos" = equal, "morph" = shape)_ JavaScript apps are JavaScript applications that can run both client-side and server-side. Isomorphism describes that if you look at the same entity in two different contexts, you should get the same thing. Here the contexts are server and client. Although the term has been mostly used in mathematics until now, it's an apt term to describe a web programing pattern where the code is shared by the front-end and back-end. Just take an MVC-based Java framework, integrate it with Nashorn and use a famous JavaScript templating engine like React - that's it. Now you can render templates on the server- as also on the client side!
+
+---
 
 ### <a name="nashornspock">Test your Nashorn JavaScript with JUnit, Groovy Spock, Jasmine and Mocha</a>
 
@@ -126,11 +151,15 @@ Running JavaScript on the JVM is easy, thanks to the Nashorn Script Engine since
 
 In this polyglott talk, I'm gonna show you easy ways to test your Nashorn JavaScripts with JUnit (Java) and Spock (Groovy), additionally with well-known JavaScript test frameworks like Mocha and Jasmine. After this talk you'll love to write and run JavaScript tests (perhaps more than traditional Java unit tests)!
 
+---
+
 ### <a name="distributednodejs">Nodyn and Vert.x - Running distributed Node.js apps in JVM environments</a>
 
 The Nodyn project provides the Node.js API on the JVM. But it uses only libraries which are running natively on the JVM: DynJS or Nashorn as the JavaScript Engine and Netty for async and non-blocking I/O. By replacing the parts written originally in C with Java and JavaScript, it also contains more JavaScript than original Node.js does.
 
 With the approach of using Vert.x and its Eventbus (powered by Hazelcast), it's as easy as 1-2-3 to get your Node apps running in distributed environments, communicating with other JVM-language verticals by sending objects across the event bus, which spans across all available instances, even to the browser. Live coding and examples will dominate this talk.
+
+---
 
 ### <a name="nodejs_javaee">Node.js compared to traditional Java EE App Servers</a>
 
@@ -138,12 +167,16 @@ Everybody is talking about the lightning speed of Node.js, because it's asynchro
 
 But is that true? How do app servers deal with huge amounts of concurrent requests? And is it really not possible to achieve the same results as with Node.js? I did a comparison of both solutions and approaches for one of my customers and got surprising results. It heavily depends on... this, I'm gonna tell you in my talk! ;-)
 
+---
+
 ### <a name="js4j">JavaScript for Java Developers</a>
 
 JavaScript and Java are very similar in their names and their syntax - but that's it. Period!  
 There are still many Java developers who think that JavaScript is only a subset of Java and/or only an unsecure toy language for web browsers, and thus they don't have to deal with the language itself. But that's wrong! However, JavaScript behaves completely different than Java, and many Java dev's write JavaScript programms without the necessary understanding of this programming language.
 
 In the days of single-page (web) applications ("SPA", like Angular, Ember, Backbone, etc.) and Node.js (evented I/O on the server side), every Java (web) developer (YOU!) should deal with the characteristics of JavaScript. And because you have an existing and reusable programming knowledge, you are able to learn the most important things you need to know about JavaScript in just one day in a very compact style. You will learn all the different things, but when it makes sense, we'll compare some concepts with ones from the Java world.
+
+---
 
 ### <a name="archkata">Architectural Kata</a>
 
@@ -155,6 +188,8 @@ Using an "Architectural Kata", we perform several incremental exercises to allow
 
 The exercise concludes with the constructive discussion of the developed architectures by the other groups and the facilitator. Here it becomes clear that each architecture has its advantages and disadvantages and that there is probably not the only one "perfect" architecture for solving the problem. However, the concluded compromises and decisions must be communicated to other developers in an understandable form.
 
+---
+
 ### <a name="node-jvm">Beer-as-a-Service - Node.js on the JVM - Status quo with Nodyn and Avatar</a>
 
 Node.js is very popular and is used widely. But how do you integrate Node in enterprise architectures? There are mature monitoring processes for JVM runtime environments and a significant part of the business logic is implemented in Java libraries. In addition, Node.js is only single threaded, is it worth at all?
@@ -165,12 +200,16 @@ While Nodyn relies on the complete integration with Vert.x, both Nodyn in Vert.x
 
 Both, Nodyn as also Avatar, make use of the invokedynamic feature of the JVM - Avatar with the Java-own JavaScript engine Nashorn, Nodyn relies on an implementation using DynJS. In my talk, I'll show a comparison between the two projects and both platforms. Beer-as-a-Service (BaaS) will serve as an example.
 
+---
+
 ### <a name="avatar20">Avatar 2.0 - more than just Node.js on the JVM</a>
 
 Avatar 2.0 is the logical evolution of Avatar.js and Project Avatar - the Node.js implementations for the JVM. The dependency to a Java EE Application Server no longer exists, Avatar is now running it its own JVM.
 
 The focus is on multiple asynchronous and non-blocking Node.js Event-Loops, each running it its own thread. An inter-thread-communication is possible via SharedState (using JCache/Coherence also distributed across multiple nodes) and an internal Event Bus. Another highlight is the so called "Avatar Persistence", with which it is possible to store JSON objects in relationships of 1:1, 1:n or n:m using a JPA/JDBC layer - in RDBMS or NoSQL databases.
 Avatar 2.0 brings together, what belongs together: JavaScript on the JVM!
+
+---
 
 ### <a name="espruino">Espruino - JavaScript for Things</a>
 
@@ -180,15 +219,21 @@ The project was launched in 2013 through a Kickstarter campain and it raised 5x 
 
 From 0 to hero in 3 minutes! Just plug the Espruino to your Computer, conntect it with the Espruino Web-IDE, update the firmware and start coding. It works, right out of the box! Just run your code as you type! Even programming the Espruino from your phone is possible. There is already a large open source community which comes up every day with new interessting ideas for the microcontroller. I'll give you an introduction to Espruino and it's capabilities (not only for my upcoming home-automation tasks) and show you Espruino in action!
 
+---
+
 ### <a name="meteor10">Meteor has landed - what's hot in 1.0?</a>
 
 Die reaktive JavaScript Platform Meteor macht große Schritte zum ersten Major-Release (1.0). Was hat sich in den letzten 12 Monaten getan? Nachdem wir letztes Jahr auf die Basis-Features geschaut haben, nehmen wir uns jetzt das weitere Umfeld vor und schauen, wie sich Meteor in der Praxis und der realen Welt schlägt. Was bringt die neue UI Engine "Blaze"? Welche Test-Frameworks gibt es für Meteor? Arbeiten mit dem Package-Manager, Integration von Streams und 3D Darstellungen im Browser und vieles mehr. Welche produktiven Websites bzw. Apps gibt es mittlerweile? Natürlich gibt es wieder ausreichend Code zu sehen...!
+
+---
 
 ### <a name="jsquality">Code-Quality despite of JavaScript</a>
 
 JavaScript erlebt einen besonderen Hype. Die Sprache meldet Ansprüche als Plattform für unternehmenskritische Applikationen an und erobert zunehmend das Server- und Backend-Umfeld.
 
 Ein Plus ist die große Flexibilität und Freiheit: JavaScript verbindet funktionale, objekt-orientierte und imperative Programmierstile. Diese Freiheit trägt eine große Herausforderung für den praktischen Projekteinsatz. Der Vortrag zeigt, wie JavaScript im Projektalltag gebändigt werden kann. Durch produktive Tools messen wir die Qualität, zeigen Schwachstellen rechtzeitig auf und geben Tipps für die Behebung.
+
+---
 
 ### <a name="avatar">Project Avatar: more than just Node.js ont the JVM - Enterprise Java written in JavaScript</a>
 
@@ -200,11 +245,15 @@ Auf dem Client sorgt das Framework für das Binding der Ressourcen an HTML5-Widg
 
 Die Live-Demo zeigt, wie eine JavaEE Applikation ganz ohne Java Code erstellt werden kann, nur mit dem Einsatz von JavaScript.
 
+---
+
 ### <a name="reactivity">Reaktive Anwendungen</a>
 
 Das reaktive Programmierparadigma, oder auch die Event-getriebene, asynchrone, nicht-blockierende Architektur, hält immer mehr Einzug in aktuelle Software-Entwicklungsprojekte, -Plattformen und Applikationen. Immer mehr verfügbare Embedded- und Echtzeit-Systeme verlangen nach einer anderen Art der Programmierung, um mit ressourcen-schonenderen Mitteln eine stabile, skalierbare und belastbare Lösung bereitzustellen. Ebenso verlangen asynchrone Anwendungen, Kommunikationsprotokolle und Benutzerschnittstellen eine effiziente Art, die miteinander agierenden Clients zu aktualisieren und zu synchronisieren, ohne viel unnötigen Overhead zu erzeugen. Nicht während der Programmierung, und schon gar nicht zur Laufzeit.
 
 Nach und nach kommen immer mehr Frameworks auf den Markt, die sich der reaktiven Programmierung annehmen. Und nicht zuletzt zeigt die kürzliche Gründung des "Reactive Manifestos", wie aktuell dieses Thema ist und wie relevant es für die Zukunft sein wird. Der Vortrag erklärt, was reaktives Programmieren ist und zeigt an beispielhaften Implementierungen in Java und JavaScript, wie damit zeitgemäße asynchrone Anwendungen eventgetrieben entwickelt werden können.
+
+---
 
 ### <a name="meteor">Meteor vor dem Einschlag</a>
 
@@ -212,17 +261,25 @@ JavaScript-Applicationframeworks gibt es wie Staub auf dem Mond. Jedoch ist jede
 
 Meteor versteht sich als eine Plattform, die eine Auswahl der besten Frameworks mit MongoDB und Node.js kombiniert und Entwicklern so das Zusammensuchen abnehmen möchte. Die Hauptmerkmale liegen auf dem reaktiven Programmierparadigma, einer cleveren Latenz-Kompensation, einer einheitlichen Basis des JavaScript-Codes für Client und Server, das automatische Propagieren der Änderungen von Code und Daten, ein vergleichsweise einfaches API-Design und intelligentes Packaging und Deployment von Applikationen.
 
+---
+
 ### <a name="dbmigration">Continuous Database Migration mit Flyway und Liquibase</a>
 
 Der Quellcode der Applikation ist versioniert im Repository abgelegt. Warum nicht die Datenbank? Will man nun einen beliebigen Stand der Datenbank in der Entwickler-, Test- oder Produktionsumgebung wiederherstellen, stehen mit Flyway und Liquibase zwei leistungsfähige Java-Bibliotheken zur Verfügung, die nahtlos in den Build für ein agiles Continuous Delivery integrierbar sind.
+
+---
 
 ### <a name="featuretoggle">Continuous Delivery mit dem FeatureToggle Pattern und Togglz</a>
 
 Wer agil entwickelt und Continuous Delivery umsetzen und betreiben will, hat nicht zuletzt mit Features zu kämpfen, deren Entwicklung noch nicht abgeschlossen ist, oder die noch nicht oder nur für eine bestimmte Benutzergruppe in Produktion gehen sollen, die aber bereits entwickelt sind. Und da kein Feature-Branch existiert, bzw. nur der Master-Branch, aus dem auch regelmäßig deployed wird, könnte das eine Herausforderung werden. Mit dem FeatureToggle Pattern von Martin Fowler und der Realisierung dessen mit Togglz ist es ganz einfach, all das im Handumdrehen zu realisieren.
 
+---
+
 ### <a name="camel">Wasser in der Wüste - Vom custom-made SQL-Messaging zum JMS-Standard</a>
 
 Viele Unternehmen haben eine Standard-Messaging-Lösung (Oracle AQ) im Haus, wissen es aber nicht. Somit werden zur Anwendungsintegration (EAI) teils umständliche und meist proprietäre Eigenentwicklungen und Anti-Pattern über DB-Tabellen und/oder Text-Dateien realisiert, oftmals unter dem Gesichtspunkt “das-wird-schon-gutgehen”. Wenn dazu noch die unterschiedlichen Entwicklertypen wie der DB- oder PL/SQL-Entwickler auf der einen und zwei verschiedene Software-Entwickler (in unserem Beispiel der Java-Typ und der Host-Mensch) auf der anderen Seite aufeinandertreffen, fragt man sich als Architekt beim Review oft, wie das so lange so gut gehen konnte. Dieser Vortrag beschreibt aus einem realen Projekt, wie aus der beschriebenen Ausgangssituation ohne die Beschaffung von kostenintensiven Lizenzen und Hardware, nur mit vorhandenen Bordmitteln (Oracle Advance Queuing), Open Source Software (Apache Camel), wenig Programmierung (Custom-Java-Code) und überwiegend Konfiguration (XML, DSL), eine neue, flexible und skalierbare JMS-Standard-Lösung ähnlich eines ESBs geschaffen werden konnte, mit der alle Beteiligten nach wie vor in ihrem eigenen Scope arbeiten können, ohne die anderen Entwicklungslager im Detail verstehen zu müssen.
+
+---
 
 ### <a name="soamigration">SOA als Migrationsarchitektur</a>
 
@@ -230,6 +287,8 @@ SOA ist out? SOA ist out!
 Aber nur der Begriff, nicht die Methodik selbst! SOA lebt seit den 70er Jahren und ist auch bzw. gerade im Cloud-Zeitalter nach wie vor aktuell.
 
 Viele Unternehmen stehen mittlerweile vor der Herausforderung, ihre in die Jahre gekommenen und monolithischen Applikationen zu modernisieren und dabei auf eine tragfähige und wartbare Basis umzustellen. Eine SOA ist oft das ferne Ziel am Horizont. Dabei ist SOA weit mehr als nur Web Services, ESB und Geschäftsprozesse. Eine SOA als Vorgehensweise kann auch schon helfen, den Weg einer methodischen und sanften Migration zu beschreiten und die Risiken zu reduzieren. Der Vortrag zeigt mit praxisnahen Beispielen aus einem aktuellen Projekt, wie eine SOA als Hilfsmittel für Migrationen (am Beispiel einer Host-Ablösung) genutzt werden kann. Dabei werden die Möglichkeiten der Integration von Business-Logik, Datenmodell und dem methodischen Vorgehen beleuchtet.
+
+---
 
 ### <a name="soaantipatterns">SOA Antipatterns - How to kill your business</a>
 
