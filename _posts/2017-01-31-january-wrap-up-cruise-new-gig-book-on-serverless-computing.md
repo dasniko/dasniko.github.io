@@ -6,6 +6,7 @@ tags:
 - summary
 - digest
 - serverless
+- serverlessbuch
 - aws
 - cloud
 - book

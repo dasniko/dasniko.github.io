@@ -5,7 +5,10 @@ tags:
 - summary
 - digest
 - serverless
+- serverlessbuch
 - book
+- aws
+- cloud
 - codegolf
 - javaland
 ---

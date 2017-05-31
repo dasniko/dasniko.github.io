@@ -6,6 +6,9 @@ tags:
 - digest
 - serverless
 - serverlessbuch
+- book
+- aws
+- cloud
 - alexa
 - chatbot
 - javaee

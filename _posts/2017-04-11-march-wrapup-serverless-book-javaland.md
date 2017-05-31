@@ -6,6 +6,9 @@ tags:
 - digest
 - serverless
 - serverlessbuch
+- book
+- aws
+- cloud
 - javaland
 thumbnail: /images/javaland2017.jpg
 ---
