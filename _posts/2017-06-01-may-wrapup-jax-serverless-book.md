@@ -6,7 +6,11 @@ tags:
 - digest
 - serverless
 - serverlessbuch
+- book
+- aws
+- cloud
 - jaxcon
+- sso
 ---
 
 {% include thumbnail.html %}
