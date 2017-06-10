@@ -1,5 +1,5 @@
 ---
-title: CI/CD Pipeline with Travis CI for a Java-based Serverless app
+title: CI/CD Pipeline with Travis CI for Java-based Serverless apps
 tags:
 - serverless
 - ci
