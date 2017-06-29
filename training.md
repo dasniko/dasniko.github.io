@@ -2,6 +2,7 @@
 layout: page
 title: JavaScript Trainings
 permalink: /training/
+published: false
 ---
 
 ## Erste Schritte mit Serverless Cloud Computing
