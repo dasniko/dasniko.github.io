@@ -1,12 +1,5 @@
 [
   {
-    "title": "JAX 2017",
-    "location": "Mainz, Germany",
-    "start": "2017-05-08",
-    "end": "2017-05-12",
-    "url": "https://jax.de"
-  },
-  {
     "title": "Java Forum Stuttgart",
     "location": "Stuttgart, Germany",
     "start": "2017-07-06",
@@ -14,10 +7,31 @@
     "url": "http://www.java-forum-stuttgart.de"
   },
   {
+    "title": "MAJUG",
+    "location": "Mannheim, Germany",
+    "start": "2017-07-27",
+    "end": "2017-07-27",
+    "url": "http://www.majug.de"
+  },
+  {
     "title": "Herbstcampus 2017",
     "location": "Nuremberg, Germany",
     "start": "2017-09-05",
     "end": "2017-09-07",
     "url": "https://www.herbstcampus.de"
+  },
+  {
+    "title": "Javazone 2017",
+    "location": "Oslo, Norway",
+    "start": "2017-09-13",
+    "end": "2017-09-14",
+    "url": "https://2017.javazone.no/"
+  },
+  {
+    "title": "JUG HH",
+    "location": "Hamburg, Germany",
+    "start": "2017-09-28",
+    "end": "2017-09-28",
+    "url": "http://www.jughh.de"
   }
 ]
