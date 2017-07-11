@@ -1,12 +1,5 @@
 [
   {
-    "title": "Java Forum Stuttgart",
-    "location": "Stuttgart, Germany",
-    "start": "2017-07-06",
-    "end": "2017-07-06",
-    "url": "http://www.java-forum-stuttgart.de"
-  },
-  {
     "title": "MAJUG",
     "location": "Mannheim, Germany",
     "start": "2017-07-27",
@@ -33,6 +26,13 @@
     "start": "2017-09-28",
     "end": "2017-09-28",
     "url": "http://www.jughh.de"
+  },
+  {
+    "title": "Java Enterprise Summit",
+    "location": "Frankfurt, Germany",
+    "start": "2017-10-16",
+    "end": "2017-10-18",
+    "url": "https://javaenterprisesummit.de"
   },
   {
     "title": "W-JAX 2017",
