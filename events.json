@@ -21,6 +21,13 @@
     "url": "https://2017.javazone.no"
   },
   {
+    "title": "Berlin Expert Days 2017",
+    "location": "Berlin, Germany",
+    "start": "2017-09-21",
+    "end": "2017-09-22",
+    "url": "http://bed-con.org"
+  },
+  {
     "title": "JUG HH",
     "location": "Hamburg, Germany",
     "start": "2017-09-28",
@@ -35,11 +42,25 @@
     "url": "https://javaenterprisesummit.de"
   },
   {
+    "title": "JCon 2017",
+    "location": "Düsseldorf, Germany",
+    "start": "2017-10-24",
+    "end": "2017-10-26",
+    "url": "http://jcon.one"
+  },
+  {
     "title": "W-JAX 2017",
     "location": "Munich, Germany",
     "start": "2017-11-07",
     "end": "2017-11-09",
     "url": "https://jax.de"
+  },
+  {
+    "title": "DevOpsCon",
+    "location": "Munich, Germany",
+    "start": "2017-11-20",
+    "end": "2017-11-23",
+    "url": "https://devopsconference.de"
   },
   {
     "title": "IT-Tage 2017",
