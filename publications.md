@@ -160,8 +160,8 @@ _JavaScript-Webframeworks gibt es wie Staub auf dem Mond. Jedoch ist jedes nur a
 
 Die beiden Artikel  
 
-*   [Den Schalter umlegen: Continuous Delivery mit dem FeatureToggle Pattern](http://blog.n-k.de/p/publikationen.html#featuretoggle)
-*   [Kontinuierliche Datenbankmigration mit Liquibase und Flyway](http://blog.n-k.de/p/publikationen.html#dbmigration)
+*   Den Schalter umlegen: Continuous Delivery mit dem FeatureToggle Pattern
+*   Kontinuierliche Datenbankmigration mit Liquibase und Flyway
 
 sind als Print-Version im [iX Developer Sonderheft "Bessere Software"](http://shop.heise.de/katalog/ix-developer-bessere-software-3-2013) erschienen.
 
