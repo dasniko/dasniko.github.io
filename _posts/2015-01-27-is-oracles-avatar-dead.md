@@ -19,7 +19,7 @@ Let me summarize what happend in the past:
 * After six months (spring 2014), there were no more (public) commits in the repository and no more communication happened in the "Project Avatar"
 * Suddenly Oracle came up with "Avatar 2.0" at JavaOne 2014, and said, that the sources will be published "soon" (whatever that means).
 
-I did several talks and articles [online and print](/publications) about Avatar in the past to promote this very interesting and promising solution. Perferct integration of modern non-blocking Node.js applications with the mature and stable Java ecosystem!
+I did several talks and articles [online and print](/publications/) about Avatar in the past to promote this very interesting and promising solution. Perferct integration of modern non-blocking Node.js applications with the mature and stable Java ecosystem!
 
 And I asked a lot via Twitter, E-Mail, Mailing-List, etc. about the future of Avatar.
 

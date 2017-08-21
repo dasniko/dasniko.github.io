@@ -60,7 +60,7 @@ I'm pretty happy with this setup.
 
 ---
 
-Last week I gave my [Serverless talk](/talks#serverless) ([slides](https://speakerdeck.com/dasniko/serverless-cloud-architectures)) at [JUG Frankfurt](http://jugf.de).
+Last week I gave my [Serverless talk](/talks/#serverless) ([slides](https://speakerdeck.com/dasniko/serverless-cloud-architectures)) at [JUG Frankfurt](http://jugf.de).
 I was very surprised that there were so many registrations before the talk and so many people attended my session.
 I was told from Alex Culum, the organizer of JUGF, that my talk is a new record of attendees.
 Thank you all for coming, listening and having a great discussion. I feel pleased and honored!
