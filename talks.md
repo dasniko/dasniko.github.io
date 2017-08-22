@@ -31,20 +31,14 @@ You can meet me at the following conferences and events:
 <a href="http://oop-konferenz.de">
   <img src="/images/logo_oop.png" alt="OOP Conference, Munich" title="OOP Conference, Munich" class="conflogo"/>
 </a>
-<a href="http://www.enterjs.de">
-  <img src="/images/logo_enterjs.png" alt="enterJS, Germany" title="enterJS, Germany" class="conflogo" style="height: 110px"/>
-</a>
-<a href="http://www.developer-week.de">
-  <img src="/images/logo_dwx.png" alt="DWX - Developer Week, Nuremberg" title="DWX - Developer Week, Nuremberg" class="conflogo" style="height: 110px"/>
-</a>
 <a href="http://www.codetalks.de">
-  <img src="/images/logo_codetalks.jpg" alt="code-talks, Hamburg" title="code-talks, Hamburg" class="conflogo" style="height: 100px"/>
+  <img src="/images/logo_codetalks.jpg" alt="code-talks, Hamburg" title="code-talks, Hamburg" class="conflogo" style="height: 90px"/>
 </a>
 <a href="http://entwicklertag.de">
-  <img src="/images/logo_entwicklertag.png" alt="Entwicklertag, Frankfurt" title="Entwicklertag, Frankfurt" class="conflogo" style="height: 100px"/>
+  <img src="/images/logo_entwicklertag.png" alt="Entwicklertag, Frankfurt" title="Entwicklertag, Frankfurt" class="conflogo" style="height: 90px"/>
 </a>
 <a href="http://herbstcampus.de">
-  <img src="/images/logo_herbstcampus.gif" alt="Herbstcampus, Nuremberg" title="Herbstcampus, Nuremberg" class="conflogo" style="height: 50px"/>
+  <img src="/images/logo_herbstcampus.gif" alt="Herbstcampus, Nuremberg" title="Herbstcampus, Nuremberg" class="conflogo" style="height: 45px; margin-bottom: 12px"/>
 </a>
 
 ...and at many Java and JavaScript User Group events across Germany.
@@ -54,9 +48,11 @@ You can meet me at the following conferences and events:
 
 I will and have been talking about these topics (and of course about upcoming topics in the future):
 
+- [Serverless Migration - Scale Tech & Team](#serverless-migration)
+- [Serverless `code.build.run` Pipeline](#severless-pipeline)
 - [Serverless Computing - Early Lessons Learned](#serverless-lessonslearned)
-- [Deep-dive into serverless computing with AWS Lambda](#lambdadeepdive)
 - [Serverless Cloud Architectures (with AWS Infrastructure)](#serverless)
+- [Java Security - State of Affairs for Auth*](#javaauth)
 - [Security and Single-Sign-On for Web APIs](#apisecurity)
 - [Single-Sign-On for Microservices and distributed (Java EE) applications](#keycloak)
 - [How micro can you go? Lambdas on AWS](#lambda)
@@ -83,6 +79,18 @@ I will and have been talking about these topics (and of course about upcoming to
 
 ---
 
+### <a name="serverless-migration">Serverless Migration - Scale Tech & Team</a>
+
+_t.b.d._
+
+---
+
+### <a name="serverless-pipeline">Serverless `code.build.run` Pipeline</a>
+
+_t.b.d._
+
+---
+
 ### <a name="serverless-lessonslearned">Serverless Computing - Early Lessons Learned</a>
 
 What's the status quo of the _Serverless_ hype?
@@ -93,21 +101,17 @@ We'll discuss suitable and unsuitable options of "Serverless", specific features
 
 ---
 
-### <a name="lambdadeepdive">Deep-dive into serverless computing with AWS Lambda</a>
-
-_"Serverless"_ ist the new kid in town! Wait... server... _WHAT?_  
-Everybody is talking about "Function-as-a-Service" (FaaS). But most people don't yet understand what it exactly is, what it means and how it works.
-
-In my session, I'll give you a quick overview of what "serverless" actually means and how it arised.
-After that, we'll do a deep-dive into the techniques of AWS Lambda, the serverless computing service at Amazon Cloud. I'll demonstrate (on my laptop, kind of legacy), how the container technology works and give you some deeper insights into the programming and deployment model to get a better understanding of this current "hype" thing.
-
----
-
 ### <a name="serverless">Serverless Cloud Architectures (with AWS infrastructure)</a>
 
 Serverless architectures allow you to build an run applications and Microservices without having to manage infrastructure. Of course there are still servers involved, but the management will be done by your Cloud provider. You don't need to take care of provisioning, scaling, availability and all of this tasks for you applications, databases and other systems.
 
 With the use of function-sized compute containers (like e.g. AWS Lambda, to give it a name), Microservices become really small. These Functions are easy to write, test and deploy, because they are so small, just focussing on one single task. And as they are only charged when used, you even pay less. In general, Functions are event-driven, but together with API-Gateway, Functions become a powerful and lean alternative of running Microservices in a container like Docker (which looks huge in comparison).
+
+---
+
+### <a name="javaauth">Java Security - State of Affairs for Auth*</a>
+
+_t.b.d._
 
 ---
 
