@@ -32,13 +32,13 @@ You can meet me at the following conferences and events:
   <img src="/images/logo_oop.png" alt="OOP Conference, Munich" title="OOP Conference, Munich" class="conflogo"/>
 </a>
 <a href="http://www.codetalks.de">
-  <img src="/images/logo_codetalks.jpg" alt="code-talks, Hamburg" title="code-talks, Hamburg" class="conflogo" style="height: 90px"/>
+  <img src="/images/logo_codetalks.jpg" alt="code-talks, Hamburg" title="code-talks, Hamburg" class="conflogo" style="height: 85px"/>
 </a>
 <a href="http://entwicklertag.de">
-  <img src="/images/logo_entwicklertag.png" alt="Entwicklertag, Frankfurt" title="Entwicklertag, Frankfurt" class="conflogo" style="height: 90px"/>
+  <img src="/images/logo_entwicklertag.png" alt="Entwicklertag, Frankfurt" title="Entwicklertag, Frankfurt" class="conflogo" style="height: 85px"/>
 </a>
 <a href="http://herbstcampus.de">
-  <img src="/images/logo_herbstcampus.gif" alt="Herbstcampus, Nuremberg" title="Herbstcampus, Nuremberg" class="conflogo" style="height: 45px; margin-bottom: 12px"/>
+  <img src="/images/logo_herbstcampus.gif" alt="Herbstcampus, Nuremberg" title="Herbstcampus, Nuremberg" class="conflogo" style="height: 40px; margin-bottom: 12px"/>
 </a>
 
 ...and at many Java and JavaScript User Group events across Germany.
