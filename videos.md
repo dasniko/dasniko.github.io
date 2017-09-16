@@ -4,6 +4,12 @@ title: Videos
 permalink: /videos/
 ---
 
+### JavaZone 2017 - Security and Single Sign On for Web APIs
+
+<iframe src="https://player.vimeo.com/video/233981331" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+---
+
 ### JAX 2017 - Serverless Cloud Architectures
 
 <iframe src="https://player.vimeo.com/video/217622142" width="640" height="360" frameborder="0" allowfullscreen></iframe>
