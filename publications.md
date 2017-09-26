@@ -4,6 +4,20 @@ title: Publications
 permalink: /publications/
 ---
 
+<a href="http://serverlessbuch.de">
+  <img src="/images/serverlessbook_cover.jpg" style="max-width: 140px; float: right;"/>
+</a>
+
+#### entwickler.press, September 2017
+
+### [Serverless Computing (in der AWS Cloud)](http://serverlessbuch.de)
+
+Serverless heißt das neue Trendthema im Bereich des Cloud Computing. Dabei meint Serverless nicht, dass man keine Server mehr benötigt. Es geht vielmehr darum, sich auf die Ausführung seines Codes auf der Ebene von einzelnen Funktionen zu konzentrieren und das Management von Serverinstanzen, Verfügbarkeit und Skalierbarkeit der Cloud zu überlassen. Zudem bezahlt man bei Serverless nur das, was man wirklich nutzt, nicht die bloße Bereitstellung oder Verfügbarkeit. Verwende Ressourcen, nicht Server oder Systeme. Infrastruktur ist implizit vorhanden.
+
+Das Buch führt in die Konzepte von Serverless Computing am Beispiel der AWS (Amazon Web Services) Cloud ein und beschreibt, wann der Einsatz von Serverless ein sinnvoller Lösungsansatz ist. AWS Lambda hat den Begriff Serverless geprägt, doch Serverless ist mehr als nur die Ausführung von Funktionen als Service (Function-as-a-Service, kurz FaaS). Auch in Richtung von API Gateways, Datenspeichern, Amazon DynamoDB und weitern Komponenten lässt sich Serverless denken. Praxisnahe Beispiele helfen beim Einstieg in die Serverless-Welt.
+
+---
+
 <a href="https://entwickler.de/leseproben/single-sign-on-579757525.html">
   <img src="/images/javamagazin_02_17.jpg" style="max-width: 140px; float: right"/>
 </a>

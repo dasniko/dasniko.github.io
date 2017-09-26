@@ -75,5 +75,12 @@
     "start": "2017-12-11",
     "end": "2017-12-14",
     "url": "https://www.ittage.informatik-aktuell.de"
+  },
+  {
+    "title": "JavaLand 2018",
+    "location": "Phantasialand, Cologne, Germany",
+    "start": "2018-03-13",
+    "end": "2018-03-15",
+    "url": "https://www.javaland.eu"
   }
 ]
