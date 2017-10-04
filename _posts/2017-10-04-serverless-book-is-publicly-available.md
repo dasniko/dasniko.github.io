@@ -9,6 +9,7 @@ tags:
 thumbnail: /images/serverlessbook_cover.jpg
 ---
 
+{% include thumbnail.html %}
 As of today, the [Serverless Buch](http://serverlessbuch.de) has just been released and is publicy available, e.g. at [Amazon](http://amzn.to/2eZS5UG), or your local book dealer.
 So, go and get (grab) your copy!
 
