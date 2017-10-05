@@ -75,3 +75,11 @@ If so, please correct me and tell me, how Fn is serverless below in the comments
 ---
 
 If you want to know more about _Serverless Computing_, what it is and what it means, just [buy my (german) book at Amazon](http://amzn.to/2eZS5UG)!
+
+---
+
+**UPDATE (2017-10-05):**  
+As Chad Arimura (Oracle) says in the comments below, there will be managed service coming up later.
+This might change one or two points, at least.
+Also, we first have to check/test what Oracle understands by a managed service.  
+When? Where? That's always a surprise when dealing with Oracle products...
