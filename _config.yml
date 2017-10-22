@@ -22,14 +22,14 @@ footer-links:
   flickr:
   github: dasniko
   instagram:
-  linkedin: nkoebler
+  linkedin: #nkoebler
   pinterest:
   rss: rss
   twitter: dasniko
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: +NikoKöbler
-  xing: profile/Niko_Koebler
+  googleplus: #+NikoKöbler
+  xing: #profile/Niko_Koebler
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
