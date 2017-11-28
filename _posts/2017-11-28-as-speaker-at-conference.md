@@ -1,8 +1,12 @@
 ---
 title: As a speaker at a conference...
 tags:
+- speaker
+- conference
+thumbnail: /images/microphone.jpg
 ---
 
+{% include thumbnail.html %}
 Being a speaker at various conferences, I regularly attend talks of other speakers.
 Not always it's fun to listen to them.
 During the last months, I noticed more conspicuously some (bad) habits of (bad) speakers.
