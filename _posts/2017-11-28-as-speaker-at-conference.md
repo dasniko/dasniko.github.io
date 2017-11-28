@@ -26,3 +26,6 @@ You should (also):
 
 <blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr">„Talk about the topic your title and abstract promises&quot;.</p>&mdash; Stefan (@spfeiffr) <a href="https://twitter.com/spfeiffr/status/935508982722068481?ref_src=twsrc%5Etfw">28. November 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr">Add: if you&#39;re running out of time, know which parts of your talk to skip without harming the delivery of your message</p>&mdash; Alex Krause (@alex0ptr) <a href="https://twitter.com/alex0ptr/status/935529881970061312?ref_src=twsrc%5Etfw">28. November 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
