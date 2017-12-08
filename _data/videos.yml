@@ -1,5 +1,7 @@
 - title: Serverless - wtf?
   url: https://www.youtube.com/embed/kIU9Y2lhFoM
+- title: API Summit 2017 - Interview on API Security, Auth{n,z}
+  url: https://www.youtube.com/embed/N85v-pSENX8
 - title: JavaZone 2017 - Security and Single Sign On for Web APIs
   url: https://player.vimeo.com/video/233981331
 - title: JAX 2017 - Serverless Cloud Architectures
@@ -8,6 +10,10 @@
   url: https://www.youtube.com/embed/4K1jcfj-6T8
 - title: W-JAX 2016 - Single Sign On für Microservices und verteilte (Java EE) Anwendungen
   url: https://player.vimeo.com/video/190835531
+- title: J-Fall 2016 - How small can you go? Serverless Microservices
+  url: https://www.youtube.com/embed/gMfwC-Nl6Zo
+- title: API Summit 2016 - Interview on Web API Security
+  url: https://www.youtube.com/embed/nr1Y9LmHb2A
 - title: JAX 2016 - Keine Last mit den Tests - Lasttests mit Gatling
   url: https://player.vimeo.com/video/169541951
 - title: JavaZone 2016 - Isomorphic JavaScript Apps
@@ -22,6 +28,8 @@
   url: https://www.youtube.com/embed/GKOHa2tYiZw?list=PLUQORQEatnJdV2Ib4Edw3jLQJk5b8Rxcd
 - title: "JavaOne 2015 - CON2133 Nodyn and Vert.x: Running Distributed Node.js Apps in JVM Environments"
   url: https://www.youtube.com/embed/BM3iBJJjw4Q
+- title: JEEConf (Kiev, Ukraine) - Node.js and Evented I/O Alternatives on the JVM
+  url: https://www.youtube.com/embed/rvjoF2q0LuQ
 - title: Developer Interview by Markus Eisele (Red Hat) on Java EE and Node.js Performance
   url: https://www.youtube.com/embed/SN3mKNPkjQs
 - title: "Project Avatar: More than just Node.js on the JVM / W-Jax 2014"
