@@ -2,11 +2,16 @@
 .highlight {
   background-color: #efefef;
   padding: 4px;
+  border-radius: 4px;
   overflow: auto;
+  font-size: 0.9rem;
+}
+div.highlight {
+  box-shadow: 5px 5px 5px #dddddd;
 }
 
 code {
-  font-family:'Bitstream Vera Sans Mono','Courier', monospace;
+  font-family: 'Courier', monospace;
 }
 
 .highlight .c { color: #586E75 } /* Comment */
