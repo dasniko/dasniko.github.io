@@ -5,10 +5,6 @@
 
     {% include meta.html %}
 
-    <!--[if lt IE 9]>
-      <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css" />
     <link rel="stylesheet" href="//cdn.rawgit.com/noelboss/featherlight/1.5.0/release/featherlight.min.css"/>
@@ -30,6 +26,10 @@
             <p class="site-description">{{ site.description }}</p>
           </div>
 
+          <nav class="legal">
+            <a href="{{ site.baseurl }}/privacy/">Privacy Policy</a>
+            <a href="{{ site.baseurl }}/imprint/">Imprint</a>
+          </nav>
           <nav>
             <a href="{{ site.baseurl }}/">Home</a>
             <a href="{{ site.baseurl }}/about/">About Me</a>
@@ -37,7 +37,6 @@
             <a href="{{ site.baseurl }}/talks/">Talks</a>
             <a href="{{ site.baseurl }}/publications/">Publications</a>
             <a href="{{ site.baseurl }}/videos/">Videos</a>
-            <a href="{{ site.baseurl }}/imprint/">Imprint</a>
           </nav>
         </header>
       </div>
