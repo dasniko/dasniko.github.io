@@ -4,6 +4,8 @@ title: Datenschutzerklärung / Privacy Policy
 permalink: /privacy/
 ---
 
+_(for english version, scroll down)_
+
 ### Datenschutz auf einen Blick
 
 #### Allgemeine Hinweise
@@ -12,21 +14,21 @@ Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren 
 
 #### Datenerfassung auf unserer Website
 
-**Wer ist verantwortlich für die Datenerfassung auf dieser Website?**
+##### Wer ist verantwortlich für die Datenerfassung auf dieser Website?
 
 Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Impressum dieser Website entnehmen.
 
-**Wie erfassen wir Ihre Daten?**
+##### Wie erfassen wir Ihre Daten?
 
 Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z.B. um Daten handeln, die Sie in ein Kontaktformular eingeben.
 
 Andere Daten werden automatisch beim Besuch der Website durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z.B. Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie unsere Website betreten.
 
-**Wofür nutzen wir Ihre Daten?**
+##### Wofür nutzen wir Ihre Daten?
 
 Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website zu gewährleisten. Andere Daten können zur Analyse Ihres Nutzerverhaltens verwendet werden.
 
-**Welche Rechte haben Sie bezüglich Ihrer Daten?**
+##### Welche Rechte haben Sie bezüglich Ihrer Daten?
 
 Sie haben jederzeit das Recht unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Sie haben außerdem ein Recht, die Berichtigung, Sperrung oder Löschung dieser Daten zu verlangen. Hierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit unter der im Impressum angegebenen Adresse an uns wenden. Des Weiteren steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu.
 
@@ -50,13 +52,9 @@ Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Komm
 
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
-Niko Köbler, siehe Impressum
+_Niko Köbler, siehe Impressum_
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
-
-#### Widerruf Ihrer Einwilligung zur Datenverarbeitung
-
-Viele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen Einwilligung möglich. Sie können eine bereits erteilte Einwilligung jederzeit widerrufen. Dazu reicht eine formlose Mitteilung per E-Mail an uns. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitung bleibt vom Widerruf unberührt.
 
 #### SSL- bzw. TLS-Verschlüsselung
 
@@ -115,37 +113,9 @@ Die Speicherung der Kommentare erfolgt auf Grundlage Ihrer Einwilligung (Art. 6 
 
 #### Twitter Plugin
 
-Auf unseren Seiten sind Funktionen des Dienstes Twitter eingebunden. Diese Funktionen werden angeboten durch die Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA. Durch das Benutzen von Twitter und der Funktion "Re-Tweet" werden die von Ihnen besuchten Websites mit Ihrem Twitter-Account verknüpft und anderen Nutzern bekannt gegeben. Dabei werden auch Daten an Twitter übertragen. Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch Twitter erhalten. Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von Twitter unter: https://twitter.com/privacy.
+Auf unseren Seiten sind Funktionen des Dienstes Twitter eingebunden. Diese Funktionen werden angeboten durch die Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA. Durch das Benutzen von Twitter und der Funktion "Re-Tweet" werden die von Ihnen besuchten Websites mit Ihrem Twitter-Account verknüpft und anderen Nutzern bekannt gegeben. Dabei werden auch Daten an Twitter übertragen. Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch Twitter erhalten. Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von Twitter unter: [https://twitter.com/privacy](https://twitter.com/privacy).
 
-Ihre Datenschutzeinstellungen bei Twitter können Sie in den Konto-Einstellungen unter https://twitter.com/account/settings ändern.
-
-### Analyse Tools und Werbung
-
-#### Google Analytics
-
-Diese Website nutzt Funktionen des Webanalysedienstes Google Analytics. Anbieter ist die Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.
-
-Google Analytics verwendet so genannte "Cookies". Das sind Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert.
-
-Die Speicherung von Google-Analytics-Cookies erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Der Websitebetreiber hat ein berechtigtes Interesse an der Analyse des Nutzerverhaltens, um sowohl sein Webangebot als auch seine Werbung zu optimieren.
-
-##### IP Anonymisierung
-
-Wir haben auf dieser Website die Funktion IP-Anonymisierung aktiviert. Dadurch wird Ihre IP-Adresse von Google innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum vor der Übermittlung in die USA gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt.
-
-##### Browser Plugin
-
-Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch den Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem Sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren: https://tools.google.com/dlpage/gaoptout?hl=de.
-
-##### Widerspruch gegen Datenerfassung
-
-Sie können die Erfassung Ihrer Daten durch Google Analytics verhindern, indem Sie auf folgenden Link klicken. Es wird ein Opt-Out-Cookie gesetzt, der die Erfassung Ihrer Daten bei zukünftigen Besuchen dieser Website verhindert: Google Analytics deaktivieren.
-
-Mehr Informationen zum Umgang mit Nutzerdaten bei Google Analytics finden Sie in der Datenschutzerklärung von Google: https://support.google.com/analytics/answer/6004245?hl=de.
-
-##### Auftragsdatenverarbeitung
-
-Wir haben mit Google einen Vertrag zur Auftragsdatenverarbeitung abgeschlossen und setzen die strengen Vorgaben der deutschen Datenschutzbehörden bei der Nutzung von Google Analytics vollständig um.
+Ihre Datenschutzeinstellungen bei Twitter können Sie in den Konto-Einstellungen unter [https://twitter.com/account/settings](https://twitter.com/account/settings) ändern.
 
 ### Plugins und Tools
 
@@ -159,7 +129,7 @@ Wenn Sie in Ihrem YouTube-Account eingeloggt sind, ermöglichen Sie YouTube, Ihr
 
 Die Nutzung von YouTube erfolgt im Interesse einer ansprechenden Darstellung unserer Online-Angebote. Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar.
 
-Weitere Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von YouTube unter: https://www.google.de/intl/de/policies/privacy.
+Weitere Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von YouTube unter: [https://www.google.de/intl/de/policies/privacy](https://www.google.de/intl/de/policies/privacy).
 
 #### Vimeo
 
@@ -169,7 +139,7 @@ Wenn Sie eine unserer mit einem Vimeo-Plugin ausgestatteten Seiten besuchen, wir
 
 Wenn Sie in Ihrem Vimeo-Account eingeloggt sind, ermöglichen Sie Vimeo, Ihr Surfverhalten direkt Ihrem persönlichen Profil zuzuordnen. Dies können Sie verhindern, indem Sie sich aus Ihrem Vimeo-Account ausloggen.
 
-Weitere Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von Vimeo unter: https://vimeo.com/privacy.
+Weitere Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von Vimeo unter: [https://vimeo.com/privacy](https://vimeo.com/privacy).
 
 #### Google Web Fonts
 
@@ -179,7 +149,7 @@ Zu diesem Zweck muss der von Ihnen verwendete Browser Verbindung zu den Servern 
 
 Wenn Ihr Browser Web Fonts nicht unterstützt, wird eine Standardschrift von Ihrem Computer genutzt.
 
-Weitere Informationen zu Google Web Fonts finden Sie unter https://developers.google.com/fonts/faq und in der Datenschutzerklärung von Google: https://www.google.com/policies/privacy/.
+Weitere Informationen zu Google Web Fonts finden Sie unter [https://developers.google.com/fonts/faq](https://developers.google.com/fonts/faq) und in der Datenschutzerklärung von Google: [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/).
 
 
 #### Disqus
@@ -189,3 +159,151 @@ Die Disqus-Kommentierungsfunktion wird von der Big Head Labs, Inc., San Francisc
 Ihre Daten werden von Disqus verarbeitet und auf Systemen von Disqus gespeichert. Für die Erhebung, Verarbeitung und Nutzung der betreffenden Daten gelten die Nutzungsbedingungen und Datenschutzhinweise von Disqus, zu finden unter [http://docs.disqus.com/help/30/](http://docs.disqus.com/help/30/) und [http://docs.disqus.com/help/29/](http://docs.disqus.com/help/29/). Wenn Sie sich über Ihren Facebook-, Twitter-, Yahoo- oder OpenID-Account anmelden, werden auch von diesen Anbietern möglicherweise Daten erhoben, gespeichert und genutzt. Einzelheiten dazu finden sich in den Datenschutzbestimmungen des jeweiligen Anbieters.
 
 Wir behalten uns vor, unangemessene Kommentare oder Kommentar-Spam zu löschen.
+
+<hr/>
+
+## Privacy Policy
+
+### An overview of data protection
+
+#### General
+
+The following gives a simple overview of what happens to your personal information when you visit our website. Personal information is any data with which you could be personally identified. Detailed information on the subject of data protection can be found in our privacy policy found below.
+
+#### Data collection on our website
+
+##### Who is responsible for the data collection on this website?
+
+The data collected on this website are processed by the website operator. The operator's contact details can be found in the website's required legal notice.
+
+##### How do we collect your data?
+
+Some data are collected when you provide it to us. This could, for example, be data you enter on a contact form.
+
+Other data are collected automatically by our IT systems when you visit the website. These data are primarily technical data such as the browser and operating system you are using or when you accessed the page. These data are collected automatically as soon as you enter our website.
+
+##### What do we use your data for?
+
+Part of the data is collected to ensure the proper functioning of the website. Other data can be used to analyze how visitors use the site.
+
+##### What rights do you have regarding your data?
+
+You always have the right to request information about your stored data, its origin, its recipients, and the purpose of its collection at no charge. You also have the right to request that it be corrected, blocked, or deleted. You can contact us at any time using the address given in the legal notice if you have further questions about the issue of privacy and data protection. You may also, of course, file a complaint with the competent regulatory authorities.
+
+Analytics and third-party tools
+When visiting our website, statistical analyses may be made of your surfing behavior. This happens primarily using cookies and analytics. The analysis of your surfing behavior is usually anonymous, i.e. we will not be able to identify you from this data. You can object to this analysis or prevent it by not using certain tools. Detailed information can be found in the following privacy policy.
+
+You can object to this analysis. We will inform you below about how to exercise your options in this regard.
+
+### General information and mandatory information
+
+#### Data protection
+
+The operators of this website take the protection of your personal data very seriously. We treat your personal data as confidential and in accordance with the statutory data protection regulations and this privacy policy.
+
+If you use this website, various pieces of personal data will be collected. Personal information is any data with which you could be personally identified. This privacy policy explains what information we collect and what we use it for. It also explains how and for what purpose this happens.
+
+Please note that data transmitted via the internet (e.g. via email communication) may be subject to security breaches. Complete protection of your data from third-party access is not possible.
+
+#### Notice concerning the party responsible for this website
+
+The party responsible for processing data on this website is:
+
+_Niko Köbler, see imprint_
+
+The responsible party is the natural or legal person who alone or jointly with others decides on the purposes and means of processing personal data (names, email addresses, etc.).
+
+#### SSL or TLS encryption
+
+This site uses SSL or TLS encryption for security reasons and for the protection of the transmission of confidential content, such as the inquiries you send to us as the site operator. You can recognize an encrypted connection in your browser's address line when it changes from "http://" to "https://" and the lock icon is displayed in your browser's address bar.
+
+If SSL or TLS encryption is activated, the data you transfer to us cannot be read by third parties.
+
+### Data collection on our website
+
+#### Cookies
+
+Some of our web pages use cookies. Cookies do not harm your computer and do not contain any viruses. Cookies help make our website more user-friendly, efficient, and secure. Cookies are small text files that are stored on your computer and saved by your browser.
+
+Most of the cookies we use are so-called "session cookies." They are automatically deleted after your visit. Other cookies remain in your device's memory until you delete them. These cookies make it possible to recognize your browser when you next visit the site.
+
+You can configure your browser to inform you about the use of cookies so that you can decide on a case-by-case basis whether to accept or reject a cookie. Alternatively, your browser can be configured to automatically accept cookies under certain conditions or to always reject them, or to automatically delete cookies when closing your browser. Disabling cookies may limit the functionality of this website.
+
+Cookies which are necessary to allow electronic communications or to provide certain functions you wish to use (such as the shopping cart) are stored pursuant to Art. 6 paragraph 1, letter f of DSGVO. The website operator has a legitimate interest in the storage of cookies to ensure an optimized service provided free of technical errors. If other cookies (such as those used to analyze your surfing behavior) are also stored, they will be treated separately in this privacy policy.
+
+#### Server log files
+
+The website provider automatically collects and stores information that your browser automatically transmits to us in "server log files". These are:
+
+* Browser type and browser version
+* Operating system used
+* Referrer URL
+* Host name of the accessing computer
+* Time of the server request
+* IP address
+
+These data will not be combined with data from other sources.
+
+The basis for data processing is Art. 6 (1) (b) DSGVO, which allows the processing of data to fulfill a contract or for measures preliminary to a contract.
+
+#### Leaving comments on this website
+
+If you use the comment function on this site, the time at which you created the comment and your email address will be stored along with your comment, as well as your username, unless you are posting anonymously.
+
+##### Storage of the IP address
+
+Our comment function stores the IP addresses of those users who post comments. Since we do not check comments on our site before they go live, we need this information to be able to pursue action for illegal or slanderous content.
+
+##### Subscribing to the comment feed
+
+As a user of this site, you can sign up to receive the comment feed after registering. Your email address will be checked with a confirmation email. You can unsubscribe from this function at any time by clicking the link in the emails. The data provided when you subscribed to the comments feed will then be deleted, but if you have submitted this data to us for other purposes or elsewhere (such as subscribing to a newsletter), it will be retained.
+
+##### How long comments are stored
+
+The comments and the associated data (e.g. IP address) are stored and remain on our website until the content commented upon has been completely deleted or the comments are required to be removed for legal reasons (slander, etc.).
+
+##### Legal basis
+
+The comments are stored based on your consent per Art. 6 (1) (a) DSGVO. You may revoke your consent at any time with future effect. An informal email making this request is sufficient. The data processed before we receive your request may still be legally processed.
+
+### Social media
+
+#### Twitter plugin
+
+Functions of the Twitter service have been integrated into our website and app. These features are offered by Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA. When you use Twitter and the “Retweet” function, the websites you visit are connected to your Twitter account and made known to other users. In doing so, data will also be transferred to Twitter. We would like to point out that, as the provider of these pages, we have no knowledge of the content of the data transmitted or how it will be used by Twitter. For more information on Twitter's privacy policy, please go to [https://twitter.com/privacy](https://twitter.com/privacy).
+
+Your privacy preferences with Twitter can be modified in your account settings at [https://twitter.com/account/settings](https://twitter.com/account/settings).
+
+### Plugins and tools
+
+#### YouTube
+
+Our website uses plugins from YouTube, which is operated by Google. The operator of the pages is YouTube LLC, 901 Cherry Ave., San Bruno, CA 94066, USA.
+
+If you visit one of our pages featuring a YouTube plugin, a connection to the YouTube servers is established. Here the YouTube server is informed about which of our pages you have visited.
+
+If you're logged in to your YouTube account, YouTube allows you to associate your browsing behavior directly with your personal profile. You can prevent this by logging out of your YouTube account.
+
+YouTube is used to help make our website appealing. This constitutes a justified interest pursuant to Art. 6 (1) (f) DSGVO.
+
+Further information about handling user data, can be found in the data protection declaration of YouTube under [https://www.google.de/intl/de/policies/privacy](https://www.google.de/intl/de/policies/privacy).
+
+#### Vimeo
+
+Our website uses features provided by the Vimeo video portal. This service is provided by Vimeo Inc., 555 West 18th Street, New York, New York 10011, USA.
+
+If you visit one of our pages featuring a Vimeo plugin, a connection to the Vimeo servers is established. Here the Vimeo server is informed about which of our pages you have visited. In addition, Vimeo will receive your IP address. This also applies if you are not logged in to Vimeo when you visit our website or do not have a Vimeo account. The information is transmitted to a Vimeo server in the US, where it is stored.
+
+If you are logged in to your Vimeo account, Vimeo allows you to associate your browsing behavior directly with your personal profile. You can prevent this by logging out of your Vimeo account.
+
+For more information on how to handle user data, please refer to the Vimeo Privacy Policy at [https://vimeo.com/privacy](https://vimeo.com/privacy).
+
+#### Google Web Fonts
+
+For uniform representation of fonts, this page uses web fonts provided by Google. When you open a page, your browser loads the required web fonts into your browser cache to display texts and fonts correctly.
+
+When you call up a page of our website that contains a social plugin, your browser makes a direct connection with Google servers. Google thus becomes aware that our web page was accessed via your IP address. The use of Google Web fonts is done in the interest of a uniform and attractive presentation of our website. This constitutes a justified interest pursuant to Art. 6 (1) (f) DSGVO.
+
+If your browser does not support web fonts, a standard font is used by your computer.
+
+Further information about handling user data, can be found at [https://developers.google.com/fonts/faq](https://developers.google.com/fonts/faq) and in Google's privacy policy at [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/).
