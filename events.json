@@ -103,5 +103,40 @@
     "start": "2018-04-24",
     "end": "2018-04-26",
     "url": "https://jax.de"
+  },
+  {
+    "title": "ASW Summit 2018",
+    "location": "Berlin, Germany",
+    "start": "2018-06-06",
+    "end": "2018-06-07",
+    "url": "https://aws.amazon.com/de/summits/berlin/"
+  },
+  {
+    "title": "EuregJUG",
+    "location": "Aachen, Germany",
+    "start": "2018-06-07",
+    "end": "2018-06-07",
+    "url": "http://www.euregjug.eu/"
+  },
+  {
+    "title": "ContainerDays 2018",
+    "location": "Hamburg, Germany",
+    "start": "2018-06-19",
+    "end": "2018-06-20",
+    "url": "https://containerdays.io/"
+  },
+  {
+    "title": "Berlin Expert Days 2018",
+    "location": "Berlin, Germany",
+    "start": "2017-09-06",
+    "end": "2017-09-07",
+    "url": "http://bed-con.org"
+  },
+  {
+    "title": "W-JAX 2018",
+    "location": "Munich, Germany",
+    "start": "2018-11-06",
+    "end": "2018-11-08",
+    "url": "https://jax.de"
   }
 ]
