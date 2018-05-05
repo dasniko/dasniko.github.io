@@ -128,9 +128,23 @@
   {
     "title": "Berlin Expert Days 2018",
     "location": "Berlin, Germany",
-    "start": "2017-09-06",
-    "end": "2017-09-07",
+    "start": "2018-09-06",
+    "end": "2018-09-07",
     "url": "http://bed-con.org"
+  },
+  {
+    "title": "JUG Thuringia",
+    "location": "Erfurt, Germany",
+    "start": "2018-10-24",
+    "end": "2018-10-24",
+    "url": "http://www.jugth.de"
+  },
+  {
+    "title": "JUG Nuremberg",
+    "location": "Nuremberg, Germany",
+    "start": "2018-10-25",
+    "end": "2018-10-25",
+    "url": "https://www.meetup.com/de-DE/JUG-Nurnberg/"
   },
   {
     "title": "W-JAX 2018",
