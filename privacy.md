@@ -185,17 +185,6 @@ Wenn Sie in Ihrem Vimeo-Account eingeloggt sind, ermöglichen Sie Vimeo, Ihr Sur
 
 Weitere Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von Vimeo unter: [https://vimeo.com/privacy](https://vimeo.com/privacy).
 
-#### Google Web Fonts
-
-Diese Seite nutzt zur einheitlichen Darstellung von Schriftarten so genannte Web Fonts, die von Google bereitgestellt werden. Beim Aufruf einer Seite lädt Ihr Browser die benötigten Web Fonts in ihren Browsercache, um Texte und Schriftarten korrekt anzuzeigen.
-
-Zu diesem Zweck muss der von Ihnen verwendete Browser Verbindung zu den Servern von Google aufnehmen. Hierdurch erlangt Google Kenntnis darüber, dass über Ihre IP-Adresse unsere Website aufgerufen wurde. Die Nutzung von Google Web Fonts erfolgt im Interesse einer einheitlichen und ansprechenden Darstellung unserer Online-Angebote. Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar.
-
-Wenn Ihr Browser Web Fonts nicht unterstützt, wird eine Standardschrift von Ihrem Computer genutzt.
-
-Weitere Informationen zu Google Web Fonts finden Sie unter [https://developers.google.com/fonts/faq](https://developers.google.com/fonts/faq) und in der Datenschutzerklärung von Google: [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/).
-
-
 #### Disqus
 
 Die Disqus-Kommentierungsfunktion wird von der Big Head Labs, Inc., San Francisco/USA als Dienstleistung zur Verfügung gestellt. Disqus ist ein interaktives Kommentarsystem, das es dem Nutzer ermöglicht, mit nur einer Anmeldung auf allen Internetangeboten, die Disqus als Kommentarsystem verwenden, zu kommentieren. Außerdem können sich die Nutzer über bestehende Accounts bei Facebook (über Facebook Connect), Twitter, Yahoo und OpenID anmelden. Auch die Erstellung von Kommentare ohne Registrierung und Anmeldung (als “Gast”) ist möglich. Nähere Informationen zu Disqus und seinen Funktionen finden Sie unter [www.disqus.com](http://www.disqus.com).
@@ -396,16 +385,6 @@ If you visit one of our pages featuring a Vimeo plugin, a connection to the Vime
 If you are logged in to your Vimeo account, Vimeo allows you to associate your browsing behavior directly with your personal profile. You can prevent this by logging out of your Vimeo account.
 
 For more information on how to handle user data, please refer to the Vimeo Privacy Policy at [https://vimeo.com/privacy](https://vimeo.com/privacy).
-
-#### Google Web Fonts
-
-For uniform representation of fonts, this page uses web fonts provided by Google. When you open a page, your browser loads the required web fonts into your browser cache to display texts and fonts correctly.
-
-When you call up a page of our website that contains a social plugin, your browser makes a direct connection with Google servers. Google thus becomes aware that our web page was accessed via your IP address. The use of Google Web fonts is done in the interest of a uniform and attractive presentation of our website. This constitutes a justified interest pursuant to Art. 6 (1) (f) DSGVO.
-
-If your browser does not support web fonts, a standard font is used by your computer.
-
-Further information about handling user data, can be found at [https://developers.google.com/fonts/faq](https://developers.google.com/fonts/faq) and in Google's privacy policy at [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/).
 
 ### Online marketing and affiliate programs
 

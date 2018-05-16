@@ -6,9 +6,9 @@
     {% include meta.html %}
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdn.rawgit.com/noelboss/featherlight/1.7.13/release/featherlight.min.css"/>
-    <link rel="stylesheet" href="https://cdn.rawgit.com/noelboss/featherlight/1.7.13/release/featherlight.gallery.min.css"/>
+    <link rel="stylesheet" href="{{ site.baseurl}}/css/font-awesome.min.css">
+    <link rel="stylesheet" href="{{ site.baseurl}}/css/featherlight.min.css"/>
+    <link rel="stylesheet" href="{{ site.baseurl}}/css/featherlight.gallery.min.css"/>
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
     <link href="/favicon.ico" rel="shortcut icon" />
 
@@ -51,11 +51,10 @@
       <div style="clear: both"></div>
     </div>
 
-    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="{{ site.baseurl}}/js/jquery-3.3.1.min.js"></script>
     <script src="{{ site.baseurl }}/script.js"></script>
-    <script src="https://cdn.rawgit.com/noelboss/featherlight/1.7.13/release/featherlight.min.js"></script>
-    <script src="https://cdn.rawgit.com/noelboss/featherlight/1.7.13/release/featherlight.gallery.min.js"></script>
-    <script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js?skin=desert"></script>
+    <script src="{{ site.baseurl}}/js/featherlight.min.js"></script>
+    <script src="{{ site.baseurl}}/js/featherlight.gallery.min.js"></script>
     {% include back-to-top.html %}
     {% include analytics.html %}
   </body>
