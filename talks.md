@@ -139,7 +139,7 @@ I'll give you an overview of Keycloak, but additionally I will also show you how
 
 ---
 
-###<a name="lambda">How micro can you go? Lambdas on AWS</a>
+### <a name="lambda">How micro can you go? Lambdas on AWS</a>
 
 There are moments, you only want to write code and execute it in the cloud. Without thinking about infrastructure, without the need to manage infrastructure. Because you don't need it, because you don't want it, because it's expensive.
 
