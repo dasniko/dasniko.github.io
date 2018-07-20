@@ -18,6 +18,40 @@ Das Buch führt in die Konzepte von Serverless Computing am Beispiel der AWS (Am
 
 ---
 
+<a href="https://entwickler.de/java-magazin/java-magazin-4-18-579830798.html">
+  <img src="/images/javamagazin_04_18.jpg" style="max-width: 140px; float: right"/>
+</a>
+
+#### Java Magazin, Issue 4.2018, March 2018
+
+### [Soteria: Heilsbringer für die API-Security? (Java EE Security API)](https://entwickler.de/java-magazin/java-magazin-4-18-579830798.html)
+
+Mit dem Java EE 8 Release im letzten Jahr kam nur wenig komplett Neues auf den Tisch der Enterprise-Spezifikation.
+Die Java EE Security API, unter dem JSR-375, ist eine dieser Neuheiten.
+
+Security ist erfahrungsgemäß ein Thema, mit dem sich nur wenige Entwickler gerne intensiv und ausführlich auseinandersetzen.
+Gab es in der Java EE Spezifikation in den letzten Jahren doch keinen einheitlichen Standard für die Plattform an sich.
+Alle bis dato vorhandenen Möglichkeiten wie JAAS (Java Authentication and Authorization Service), JACC (Java Authorization Contract for Containers) und JASPIC (Java Authentication Service Provider Interface for Containers) waren Hersteller- bzw. Container-spezifische Implementierungen, die nicht oder nur schwer portiert werden konnten und kein Teil der Anwendung waren.
+Zusätzlich war die Verwendung von CDI innerhalb dieser Spezifikationen nicht möglich.
+Nicht zuletzt, weil die existierenden Security-Möglichkeiten schon deutlich älter waren, als CDI in der EE-Spezifikation enthalten ist.
+Wollte man modernere Mechanismen in seiner Anwendung verwenden, so musste man in der Vergangenheit auf mehr oder wenige proprietäre Frameworks innerhalb der Anwendung zurückgreifen.
+
+Die Standardisierung und Vereinheitlichung von Security-Mechanismen für die Java EE Plattform hat sich der [JSR-375](https://jcp.org/en/jsr/detail?id=375), die [Java EE Security API](https://javaee.github.io/security-spec/), zum Ziel gesetzt.
+
+---
+
+<a href="https://entwickler.de/leseproben/serverless-tricks-579827780.html">
+  <img src="/images/javamagazin_03_18.jpg" style="max-width: 140px; float: right"/>
+</a>
+
+#### Java Magazin, Issue 3.2018, February 2018
+
+### [Serverless Tipps und Tricks](https://entwickler.de/leseproben/serverless-tricks-579827780.html)
+
+Den Begriff Serverless hat zwischenzeitlich wohl jeder schon gehört. Einige haben schon erste Erfahrungen gemacht, andere ein paar mehr. Viele dürften aber noch am Anfang stehen, da sie zu wenig über das Serverless-Paradigma wissen. Der Begriff Serverless wird sehr kontrovers diskutiert. Die einen finden den Begriff gut und treffend, die anderen lästern über diese Namenswahl. Fakt ist jedoch, dass es nun mal ein Name ist, vorhanden und mittlerweile auch etabliert, der einen bestimmten Sachverhalt bezeichnet. Nutzen wir doch einfach diesen Namen, ohne uns darüber aufzuregen.
+
+---
+
 <a href="https://entwickler.de/leseproben/single-sign-on-579757525.html">
   <img src="/images/javamagazin_02_17.jpg" style="max-width: 140px; float: right"/>
 </a>
