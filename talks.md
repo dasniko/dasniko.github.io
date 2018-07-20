@@ -48,7 +48,9 @@ You can meet me at the following conferences and events:
 
 I will and have been talking about these topics (and of course about upcoming topics in the future):
 
-- [Serverless Migration - Scale Tech & Team](#serverless-migration)
+- [Serverless Multi-Cloud Environments](#serverless-multicloud)
+- [Serverless Security](#serverless-security)
+- [The different kinds of Authentication](#kinds-of-authn)
 - [Serverless `code.build.run` Pipeline](#severless-pipeline)
 - [Serverless Computing - Early Lessons Learned](#serverless-lessonslearned)
 - [Serverless Cloud Architectures (with AWS Infrastructure)](#serverless)
@@ -79,7 +81,19 @@ I will and have been talking about these topics (and of course about upcoming to
 
 ---
 
-### <a name="serverless-migration">Serverless Migration - Scale Tech & Team</a>
+### <a name="serverless-multicloud">Serverless Multi-Cloud Environments</a>
+
+_t.b.d._
+
+---
+
+### <a name="serverless-security">Serverless Security</a>
+
+_t.b.d._
+
+---
+
+### <a name="kinds-of-authn">The different kinds of Authentication</a>
 
 _t.b.d._
 
