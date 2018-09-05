@@ -152,5 +152,12 @@
     "start": "2018-11-06",
     "end": "2018-11-08",
     "url": "https://jax.de"
+  },
+  {
+    "title": "ContainerConf 2018",
+    "location": "Mannheim, Germany",
+    "start": "2018-11-14",
+    "end": "2018-11-15",
+    "url": "https://www.containerconf.de"
   }
 ]
