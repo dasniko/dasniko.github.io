@@ -159,5 +159,12 @@
     "start": "2018-11-14",
     "end": "2018-11-15",
     "url": "https://www.containerconf.de"
+  },
+  {
+    "title": "JavaLand 2019",
+    "location": "Phantasialand, Cologne, Germany",
+    "start": "2019-03-19",
+    "end": "2019-03-21",
+    "url": "https://www.javaland.eu"
   }
 ]
