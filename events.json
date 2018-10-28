@@ -161,6 +161,20 @@
     "url": "https://www.containerconf.de"
   },
   {
+    "title": "JUG Singapore",
+    "location": "Singapore, Malaysia",
+    "start": "2018-12-06",
+    "end": "2018-12-06",
+    "url": "https://www.meetup.com/singajug/"
+  },
+  {
+    "title": "Entwicklertag Frankfurt 2019",
+    "location": "Frankfurt, Germany",
+    "start": "2019-02-21",
+    "end": "2019-02-21",
+    "url": "https://entwicklertag.de"
+  },
+  {
     "title": "JavaLand 2019",
     "location": "Phantasialand, Cologne, Germany",
     "start": "2019-03-19",
