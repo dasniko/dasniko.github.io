@@ -7,7 +7,11 @@
 <meta property="twitter:creator" content="@dasniko">
 <meta property="twitter:creator:id" content="170364692">
 <meta property="twitter:site" content="@dasniko">
+<meta property="twitter:site:id" content="170364692">
 <meta property="twitter:card" content="summary">
+
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
 
 {% if page.excerpt %}
 <meta name="description" content="{{ page.excerpt| strip_html }}" />
@@ -29,8 +33,10 @@
 
 {% if page.thumbnail %}
 <meta property="og:image" content="{{ site.url }}{{ page.thumbnail }}">
+<meta property="og:image:secure_url" content="{{ site.url }}{{ page.thumbnail }}">
 <meta property="twitter:image" content="{{ site.url }}{{ page.thumbnail }}">
 {% else %}
 <meta property="og:image" content="{{ site.avatar }}">
+<meta property="og:image:secure_url" content="{{ site.avatar }}">
 <meta property="twitter:image" content="{{ site.avatar }}">
 {% endif%}
