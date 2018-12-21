@@ -193,3 +193,13 @@
   start: '2019-03-19'
   end: '2019-03-21'
   url: https://www.javaland.eu
+- title: Serverless Architecture Conference
+  location: The Hague, Netherlands
+  start: '2019-04-08'
+  end: '2019-04-10'
+  url: https://serverless-architecture.io
+- title: JAX 2019
+  location: Mainz, Germany
+  start: '2019-05-07'
+  end: '2019-05-09'
+  url: https://jax.de
