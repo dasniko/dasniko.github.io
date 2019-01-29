@@ -198,8 +198,18 @@
   start: '2019-04-08'
   end: '2019-04-10'
   url: https://serverless-architecture.io
+- title: JUG DA
+  location: Darmstadt, Germany
+  start: '2019-04-11'
+  end: '2019-04-11'
+  url: https://www.jug-da.de
 - title: JAX 2019
   location: Mainz, Germany
   start: '2019-05-07'
   end: '2019-05-09'
   url: https://jax.de
+- title: DevOps Essentials
+  location: Heidelberg, Germany
+  start: '2019-06-04'
+  end: '2019-06-06'
+  url: https://www.devops-essentials.de
