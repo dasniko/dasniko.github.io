@@ -59,6 +59,11 @@ Your functions is just responsible for itself, no dependencies to "other" things
 Thus, real independent deployments possible and no commonly deployments necessary.
 Think of it next time you spend your freetime with deploying software!
 
+UPDATE:
+If you use at least one layer in your Lambda function, it isn't possible anymore to run the function locally for testing or debugging purposes without some additional and stupid effort (copying and installing things).
+So, just be aware of this!
+
+
 ## Most valuable and best usage
 
 In my opinion, Lambda Layers are best used with [AWS Lambda Custom Runtimes, which I cover in this post][runtimepost].
