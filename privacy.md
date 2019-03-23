@@ -153,14 +153,6 @@ Wenn Sie in Ihrem Vimeo-Account eingeloggt sind, ermöglichen Sie Vimeo, Ihr Sur
 
 Weitere Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von Vimeo unter: [https://vimeo.com/privacy](https://vimeo.com/privacy).
 
-#### Disqus
-
-Die Disqus-Kommentierungsfunktion wird von der Big Head Labs, Inc., San Francisco/USA als Dienstleistung zur Verfügung gestellt. Disqus ist ein interaktives Kommentarsystem, das es dem Nutzer ermöglicht, mit nur einer Anmeldung auf allen Internetangeboten, die Disqus als Kommentarsystem verwenden, zu kommentieren. Außerdem können sich die Nutzer über bestehende Accounts bei Facebook (über Facebook Connect), Twitter, Yahoo und OpenID anmelden. Auch die Erstellung von Kommentare ohne Registrierung und Anmeldung (als “Gast”) ist möglich. Nähere Informationen zu Disqus und seinen Funktionen finden Sie unter [www.disqus.com](http://www.disqus.com).
-
-Ihre Daten werden von Disqus verarbeitet und auf Systemen von Disqus gespeichert. Für die Erhebung, Verarbeitung und Nutzung der betreffenden Daten gelten die Nutzungsbedingungen und Datenschutzhinweise von Disqus, zu finden unter [http://docs.disqus.com/help/30/](http://docs.disqus.com/help/30/) und [http://docs.disqus.com/help/29/](http://docs.disqus.com/help/29/). Wenn Sie sich über Ihren Facebook-, Twitter-, Yahoo- oder OpenID-Account anmelden, werden auch von diesen Anbietern möglicherweise Daten erhoben, gespeichert und genutzt. Einzelheiten dazu finden sich in den Datenschutzbestimmungen des jeweiligen Anbieters.
-
-Wir behalten uns vor, unangemessene Kommentare oder Kommentar-Spam zu löschen.
-
 ### Online Marketing und Partnerprogramme
 
 #### Amazon Partnerprogramm

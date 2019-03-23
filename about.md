@@ -10,6 +10,7 @@ Furthermore I'm a regular [speaker at various international tech conferences](/t
 
 My **current profile / resume** (PDF) you can download from [here](https://www.dropbox.com/s/ma94uo1k7aelrtd/Beraterprofil_KoeblerNiko.pdf?dl=0).
 
+---
 
 # Contact me
 

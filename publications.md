@@ -5,10 +5,10 @@ permalink: /publications/
 ---
 
 <a href="http://serverlessbuch.de">
-  <img src="/images/serverlessbook_cover.jpg" style="max-width: 140px; float: right;"/>
+  <img src="/images/serverlessbook_cover.jpg" class="pubcover"/>
 </a>
 
-#### entwickler.press, September 2017
+entwickler.press, September 2017
 
 ### [Serverless Computing (in der AWS Cloud)](http://serverlessbuch.de)
 
@@ -19,10 +19,10 @@ Das Buch führt in die Konzepte von Serverless Computing am Beispiel der AWS (Am
 ---
 
 <a href="https://entwickler.de/java-magazin/java-magazin-4-18-579830798.html">
-  <img src="/images/javamagazin_04_18.jpg" style="max-width: 140px; float: right"/>
+  <img src="/images/javamagazin_04_18.jpg" class="pubcover"/>
 </a>
 
-#### Java Magazin, Issue 4.2018, March 2018
+Java Magazin, Issue 4.2018, March 2018
 
 ### [Soteria: Heilsbringer für die API-Security? (Java EE Security API)](https://entwickler.de/java-magazin/java-magazin-4-18-579830798.html)
 
@@ -41,10 +41,10 @@ Die Standardisierung und Vereinheitlichung von Security-Mechanismen für die Jav
 ---
 
 <a href="https://entwickler.de/leseproben/serverless-tricks-579827780.html">
-  <img src="/images/javamagazin_03_18.jpg" style="max-width: 140px; float: right"/>
+  <img src="/images/javamagazin_03_18.jpg" class="pubcover"/>
 </a>
 
-#### Java Magazin, Issue 3.2018, February 2018
+Java Magazin, Issue 3.2018, February 2018
 
 ### [Serverless Tipps und Tricks](https://entwickler.de/leseproben/serverless-tricks-579827780.html)
 
@@ -53,10 +53,10 @@ Den Begriff Serverless hat zwischenzeitlich wohl jeder schon gehört. Einige hab
 ---
 
 <a href="https://entwickler.de/leseproben/single-sign-on-579757525.html">
-  <img src="/images/javamagazin_02_17.jpg" style="max-width: 140px; float: right"/>
+  <img src="/images/javamagazin_02_17.jpg" class="pubcover"/>
 </a>
 
-#### Java Magazin, Issue 2.2017, January 2017
+Java Magazin, Issue 2.2017, January 2017
 
 ### [Single Sign On für Microservices und verteilte Anwendungen](https://entwickler.de/leseproben/single-sign-on-579757525.html)
 
@@ -66,17 +66,17 @@ Anwender sicher zu authentifizieren und zu autorisieren, ist gerade in Microserv
 
 ---
 
-#### JAXenter.de, November 2016
+JAXenter.de, November 2016
 
 ### [Was ist ein API Gateway – und wofür kann ich es einsetzen?](https://jaxenter.de/was-ist-ein-api-gateway-und-wofuer-kann-ich-es-einsetzen-49804)
 
 ---
 
 <a href="https://jaxenter.de/serverless-niko-koebler-49176">
-  <img src="/images/javamagazin_12_16.jpg" style="max-width: 140px; float: right"/>
+  <img src="/images/javamagazin_12_16.jpg" class="pubcover"/>
 </a>
 
-#### Java Magazin, Issue 12.2016, November 2016
+Java Magazin, Issue 12.2016, November 2016
 
 ### [Darfs auch etwas weniger sein? Serverlose Microservices mit AWS Lambda](https://jaxenter.de/serverless-niko-koebler-49176)
 
@@ -84,37 +84,37 @@ Es gibt Momente, in denen will man einfach nur Code schreiben und in der Cloud a
 
 ---
 
-#### JAXenter.com, May 2016
+JAXenter.com, May 2016
 
 ### [JavaScript - the next runtime platform?](https://jaxenter.com/web-tales-javascript-the-next-runtime-platform-126065.html)
 
 ---
 
-#### JAXenter.de, April 2016
+JAXenter.de, April 2016
 
 ### [JavaScript - die nächste Runtime Plattform?](https://jaxenter.de/javascript-die-naechste-runtime-plattform-39282)
 
 ---
 
-#### JAXenter.de, April 2016
+JAXenter.de, April 2016
 
 ### [Isomorphe JavaScript-Webanwendungen mit Java (EE) und React.JS](https://jaxenter.de/isomorphe-javascript-webanwendungen-mit-java-ee-und-react-js-38266)
 
 ---
 
-#### JAXenter.de, January 2016
+JAXenter.de, January 2016
 
 ### [Nashorn-JavaScript mit Spock und Jasmine testen](https://jaxenter.de/nashorn-javascript-mit-spock-und-jasmine-testen-33109)
 
 ---
 
 <a href="https://jaxenter.de/mit-dem-testen-von-anwendungen-ist-es-so-eine-last-erst-recht-mit-lasttests-27564">
-  <img src="/images/javamagazin_12_15.jpg" style="max-width: 140px; float: right"/>
+  <img src="/images/javamagazin_12_15.jpg" class="pubcover"/>
 </a>
 
-#### JAXenter.de, September 2015
+JAXenter.de, September 2015
 
-#### Java Magazin, Issue 12.15, November 2015, Page 73 ff.
+Java Magazin, Issue 12.15, November 2015, Page 73 ff.
 
 ### [Lasttests mit Gatling](https://jaxenter.de/mit-dem-testen-von-anwendungen-ist-es-so-eine-last-erst-recht-mit-lasttests-27564)
 
@@ -123,10 +123,10 @@ _Haben sich Unit-, Integrations- und Oberflächentests in der Vergangenheit doch
 ---
 
 <a href="http://www.ijug.eu/java-aktuell/das-magazin.html">
-  <img src="/images/javaaktuell_02-2015.png" style="width: 140px; float: right"/>
+  <img src="/images/javaaktuell_02-2015.png" class="pubcover"/>
 </a>
 
-#### Java aktuell, Issue 02-2015, March 2015, Page 19 ff.
+Java aktuell, Issue 02-2015, March 2015, Page 19 ff.
 
 ### [JavaScript für Java Entwickler](https://drive.google.com/file/d/0ByOO_PCpY8u-RjNKSVY0TmhINUU/view?usp=sharing)
 
@@ -135,10 +135,10 @@ _In den letzten zwei Jahren hat sich JavaScript wieder mehr und mehr als ernst z
 ---
 
 <a href="https://jaxenter.de/Java-Magazin-315-178647">
-  <img src="/images/javamagazin_03-15.jpg" style="width: 140px; float: right"/>
+  <img src="/images/javamagazin_03-15.jpg" class="pubcover"/>
 </a>
 
-#### Java Magazin, Issue 3.15, January 2015, Page 22 ff.
+Java Magazin, Issue 3.15, January 2015, Page 22 ff.
 
 ### [Nodyn - Node.js kompatibles Framework für die JVM](http://jaxenter.de/artikel/nodyn-178651)
 
@@ -146,7 +146,7 @@ _Nodyn ist nicht einfach nur ein Abklatsch von Node.js, sondern vereint mit dem 
 
 ---
 
-#### JAXenter.com, December 2014
+JAXenter.com, December 2014
 
 ### [Oracle presents: Avatar 2.0 - where to next? Part 1](http://jaxenter.com/avatar-2-0-112856.html)
 
@@ -157,10 +157,10 @@ _Oracle recently announced a new version of the JavaScript platform Avatar. It�
 ---
 
 <a href="http://www.ijug.eu/java-aktuell/das-magazin.html">
-  <img src="/images/javaaktuell_01-2015.jpg" style="width: 140px; float: right"/>
+  <img src="/images/javaaktuell_01-2015.jpg" class="pubcover"/>
 </a>
 
-#### Java aktuell, Issue 01-2015, December 2014, Page 33 ff.
+Java aktuell, Issue 01-2015, December 2014, Page 33 ff.
 
 ### [Das FeatureToggle Pattern mit Togglz](https://drive.google.com/file/d/0ByOO_PCpY8u-RHpkT1AyX3doSm8/view?usp=sharing)
 
@@ -169,10 +169,10 @@ _Das FeatureToggle Pattern is nicht neu, aber eines der am kontroversesten disku
 ---
 
 <a href="https://jaxenter.de/Java-Magazin/Java-Magazin-115-177685">
-  <img src="/images/javamagazin_01-15.jpg" style="width: 140px; float: right"/>
+  <img src="/images/javamagazin_01-15.jpg" class="pubcover"/>
 </a>
 
-#### Java Magazin, Issue 1.15, December 2014, Page 22 ff.
+Java Magazin, Issue 1.15, December 2014, Page 22 ff.
 
 ### [Avatar 2.0 - mehr als "nur" Node.js auf der JVM](http://jaxenter.de/artikel/avatar-20-177697)
 
@@ -180,7 +180,7 @@ _Node.js hat in den letzten zwei Jahren enorm an Popularität gewonnen und ist m
 
 ---
 
-#### JAXenter.de, October 2014
+JAXenter.de, October 2014
 
 ### [Oracle präsentiert Avatar 2.0: Wohin geht die Reise?](http://jaxenter.de/artikel/avatar-2-0-176628)
 
@@ -189,10 +189,10 @@ _Es ist schon ein Stück JavaOne-Tradition: Seit drei Jahren präsentiert Oracle
 ---
 
 <a href="http://shop.heise.de/katalog/ix-developer-javascript-heute-2014">
-  <img src="/images/ix_javascript.jpg" style="width: 140px; float: right"/>
+  <img src="/images/ix_javascript.jpg" class="pubcover"/>
 </a>
 
-#### heise Developer, September 2013 & iX Developer Sonderheft "JavaScript heute", Dezember 2013, Seite 80 ff.
+heise Developer, September 2013 & iX Developer Sonderheft "JavaScript heute", Dezember 2013, Seite 80 ff.
 
 ### [Einstieg in die Entwicklung von Web-Apps mit Meteor](http://heise.de/-1949891)
 
@@ -201,10 +201,10 @@ _JavaScript-Webframeworks gibt es wie Staub auf dem Mond. Jedoch ist jedes nur a
 ---
 
 <a href="http://shop.heise.de/katalog/ix-developer-bessere-software-3-2013">
-  <img src="/images/ix_developer_bessere_software.jpg" style="width: 140px; float: right"/>
+  <img src="/images/ix_developer_bessere_software.jpg" class="pubcover"/>
 </a>
 
-#### ix Developer Sonderheft "Bessere Software", Juni 2013
+ix Developer Sonderheft "Bessere Software", Juni 2013
 
 Die beiden Artikel  
 
@@ -215,7 +215,7 @@ sind als Print-Version im [iX Developer Sonderheft "Bessere Software"](http://sh
 
 ---
 
-#### The H, May 2013
+The H, May 2013
 
 ### [Continuous database migration with Liquibase and Flyway](http://h-online.com/-1860080)
 
@@ -223,7 +223,7 @@ _An application's version-controlled source code is stored in the repository. Wh
 
 ---
 
-#### heise Developer, Mai 2013
+heise Developer, Mai 2013
 
 ### [Kontinuierliche Datenbankmigration mit Liquibase und Flyway](http://heise.de/-1857773)
 
@@ -231,7 +231,7 @@ _Der Quellcode der Applikation ist versioniert im Repository abgelegt. Warum nic
 
 ---
 
-#### heise Developer, März 2013
+heise Developer, März 2013
 
 ### [Den Schalter umlegen: Continuous Delivery mit dem FeatureToggle Pattern](http://heise.de/-1825477)
 

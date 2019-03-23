@@ -5,8 +5,7 @@
 
     {% include meta.html %}
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="stylesheet" href="{{ site.baseurl}}/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/style.css" />
     <link rel="stylesheet" href="{{ site.baseurl}}/css/featherlight.min.css"/>
     <link rel="stylesheet" href="{{ site.baseurl}}/css/featherlight.gallery.min.css"/>
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
@@ -14,48 +13,47 @@
 
   </head>
 
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+  <body class="container">
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
+    <header class="my-3 pb-3 border-bottom clearfix text-center text-md-left">
 
-          <nav class="legal">
-            <a href="{{ site.baseurl }}/privacy/">Privacy Policy</a>
-            <a href="{{ site.baseurl }}/imprint/">Imprint</a>
-          </nav>
-          <nav>
-            <a href="{{ site.baseurl }}/">Home</a>
-            <a href="{{ site.baseurl }}/about/">About Me</a>
-            <a href="{{ site.baseurl }}/archive/">Archive</a>
-            <a href="{{ site.baseurl }}/talks/">Talks</a>
-            <a href="{{ site.baseurl }}/publications/">Publications</a>
-            <a href="{{ site.baseurl }}/videos/">Videos</a>
-          </nav>
-        </header>
+      <a href="{{ site.baseurl }}/" class="float-none float-md-left"><img src="{{ site.avatar }}" class="rounded-circle"/></a>
+
+      <div class="mx-3 float-none float-md-left">
+        <h1 class="my-0"><a href="{{ site.baseurl }}/" class="text-decoration-none">{{ site.name }}</a></h1>
+        <p class="lead my-0">{{ site.description }}</p>
       </div>
-    </div>
 
-    <div id="main" role="main" class="container">
-      <div class="maincontent">
+      <nav class="mt-1 float-none float-md-right">
+        <a href="{{ site.baseurl }}/privacy/" class="small">Privacy Policy</a>
+        <a href="{{ site.baseurl }}/imprint/" class="small">Imprint</a>
+      </nav>
+      <nav class="mt-1 float-none float-md-right">
+        <a href="{{ site.baseurl }}/">Home</a>
+        <a href="{{ site.baseurl }}/about/">About Me</a>
+        <a href="{{ site.baseurl }}/archive/">Archive</a>
+        <a href="{{ site.baseurl }}/talks/">Talks</a>
+        <a href="{{ site.baseurl }}/publications/">Publications</a>
+        <a href="{{ site.baseurl }}/videos/">Videos</a>
+      </nav>
+    </header>
+
+    <main class="row">
+      <div class="col-sm-12 col-md-8 col-xl-9">
         {{ content }}
       </div>
-      <div class="sidebar">
+      <div class="col-sm-12 col-md-4 col-xl-3">
         {% include sidebar.html %}
       </div>
-      <div style="clear: both"></div>
-    </div>
+    </main>
 
-    <script src="{{ site.baseurl}}/js/jquery-3.3.1.min.js"></script>
-    <script src="{{ site.baseurl }}/script.js"></script>
-    <script src="{{ site.baseurl}}/js/featherlight.min.js"></script>
-    <script src="{{ site.baseurl}}/js/featherlight.gallery.min.js"></script>
+    <script src="{{ site.baseurl }}/js/jquery-3.3.1.min.js"></script>
+    <script src="{{ site.baseurl }}/js/bootstrap.bundle.min.js"></script>
+    <script src="{{ site.baseurl }}/js/script.js"></script>
+    <script src="{{ site.baseurl }}/js/featherlight.min.js"></script>
+    <script src="{{ site.baseurl }}/js/featherlight.gallery.min.js"></script>
     {% include back-to-top.html %}
     {% include analytics.html %}
+
   </body>
 </html>

@@ -54,5 +54,5 @@ Now you can inject the `AccessToken` object anywhere you need it and have access
 Both approaches assume that you have set up your Keycloak SSO server properly and configured the applications also the right way.
 I created two small demo applications, where you can review the code:
 
-<i class="fa fa-github"></i> [dasniko/keycloak-springboot-demo](https://github.com/dasniko/keycloak-springboot-demo)  
-<i class="fa fa-github"></i> [dasniko/keycloak-javaee-demo](https://github.com/dasniko/keycloak-javaee-demo)
+[`dasniko/keycloak-springboot-demo`](https://github.com/dasniko/keycloak-springboot-demo)  
+[`dasniko/keycloak-javaee-demo`](https://github.com/dasniko/keycloak-javaee-demo)

@@ -2,16 +2,16 @@
 layout: default
 ---
 
-<article class="post">
+<article>
   <h1>{{ page.title }}</h1>
 
-  <p class="date">
+  <p>
     {{ page.date | date: "%B %e, %Y" }}
   </p>
 
-  <div class="entry">
+  <p>
     {{ content }}
-  </div>
+  </p>
 
   {% if page.tags != empty %}
   <p class="tags">
@@ -22,14 +22,12 @@ layout: default
   </p>
   {% endif %}
 
-  <div class="prev-next">
+  <p class="d-flex justify-content-between">
     {% if page.previous.url %}
-      <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+      <a class="text-left" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
     {% endif %}
     {% if page.next.url %}
-      <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+      <a class="text-right" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
     {% endif %}
-  </div>
-
-  {% include disqus.html %}
+  </p>
 </article>
