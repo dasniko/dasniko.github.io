@@ -16,7 +16,7 @@
 
     <header class="my-3 pb-3 border-bottom clearfix text-center text-md-left">
 
-      <a href="{{ site.baseurl }}/" class="float-none float-md-left"><img src="{{ site.avatar }}" class="rounded-circle"/></a>
+      <a href="{{ site.baseurl }}/" class="float-none float-md-left"><img src="{{ site.avatar }}" class="avatar rounded-circle"/></a>
 
       <div class="mx-3 float-none float-md-left">
         <h1 class="my-0"><a href="{{ site.baseurl }}/" class="text-decoration-none">{{ site.name }}</a></h1>
@@ -46,9 +46,9 @@
       </div>
     </main>
 
+    {% include back-to-top.html %}
     <script src="{{ site.baseurl }}/js/script.js"></script>
     <script src="{{ site.baseurl }}/js/fslightbox.min.js"></script>
-    {% include back-to-top.html %}
     {% include analytics.html %}
 
   </body>
