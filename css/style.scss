@@ -77,6 +77,12 @@ blockquote {
   bottom: 20px;
   right: 20px;
   z-index: 9999999;
+  opacity: 0;
+  transition: opacity 300ms;
+  &.visible {
+    opacity: 1;
+    cursor: pointer;
+  }
   a {
     color: $gray-600;
   }
