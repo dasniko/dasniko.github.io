@@ -213,3 +213,18 @@
   start: '2019-05-07'
   end: '2019-05-07'
   url: https://www.jug-mz.de
+- title: JavaLand 2020
+  location: Phantasialand, Cologne, Germany
+  start: '2020-03-16'
+  end: '2020-03-28'
+  url: https://www.javaland.eu
+- title: Serverless Architecture Conference
+  location: The Hague, Netherlands
+  start: '2020-04-20'
+  end: '2020-04-22'
+  url: https://serverless-architecture.io
+- title: JAX 2020
+  location: Mainz, Germany
+  start: '2020-05-11'
+  end: '2020-05-16'
+  url: https://jax.de
