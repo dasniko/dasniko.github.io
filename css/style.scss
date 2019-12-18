@@ -24,13 +24,22 @@ h3 {
   margin-top: .5rem;
 }
 
+a {
+  color: $red;
+  font-weight: 300;
+}
+
 blockquote {
   margin: 2rem;
   border-left: 2px solid $gray-600;
   padding-left: 1rem;
   color: $gray-600;
-  font-size: 1.3rem;
+  font-size: 1.25rem;
   font-style: italic;
+}
+
+code {
+  color: inherit;
 }
 
 .avatar {
