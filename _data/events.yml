@@ -228,3 +228,18 @@
   start: '2020-05-11'
   end: '2020-05-16'
   url: https://jax.de
+- title: JavaLand 2021
+  location: Phantasialoand, Cologne, Germany
+  start: 2021-03-16
+  end: 2021-03-18
+  url: https://www.javaland.eu
+- title: Serverless Architecture Conference
+  location: The Hague, Netherlands
+  start: 2021-04-12
+  end: 2021-04-14
+  url: https://www.serverless-architecture.io
+- title: JAX 2021
+  location: Mainz, Germany
+  start: 2021-05-03
+  end: 2021-05-07
+  url: https://www.jax.de

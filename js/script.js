@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function() {
     })
     .then(function(data) {
       if (!data || data.length == 0) return;
-      var html = '<h3>Meet me at these events:</h3>';
+      var html = '<h3>Meet me at these events, either live on-site or virtually online:</h3>';
       html += '<ul class="events">';
       data.forEach(function(e) {
         if (new Date(e.start+'T23:59:59') >= new Date()) {
