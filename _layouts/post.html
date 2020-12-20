@@ -9,10 +9,6 @@ layout: default
     {{ page.date | date: "%B %e, %Y" }}
   </p>
 
-  <p>
-    {{ content }}
-  </p>
-
   {% if page.tags != empty %}
   <p class="tags">
     Tags:
@@ -21,6 +17,10 @@ layout: default
     {% endfor %}
   </p>
   {% endif %}
+
+  <p>
+    {{ content }}
+  </p>
 
   <p class="d-flex justify-content-between">
     {% if page.previous.url %}
