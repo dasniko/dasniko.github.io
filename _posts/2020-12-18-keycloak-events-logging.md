@@ -2,6 +2,7 @@
 title: Keycloak Events Logging
 tags:
 - keycloak
+- authentication
 - events
 - logging
 - java
@@ -19,10 +20,10 @@ Admin events are emitted on every change of a resource via the Admin-API, no mat
 You can enable storing these events in the Keycloak database.
 This can be done in the admin web ui, for each realm, go to "Events" in the menu.
 But I really don't recommend storing the events in the database, especially not if there is a huge amount of events.
-The db table is not indexed and querying lots of entries will slow down your system.
+The login events DB table is hardly indexed, the admin events table besides the PK not at all and querying lots of entries will likely slow down your system.
 So, simply don't do it.
-Or, just store the login events for a certain (short) time after they occurred.
-Unfortunately, admin events cannot be configured to be auto-deleted.
+Or, just store the login events only for a certain (short) retention time after they occurred.
+Unfortunately, admin events cannot be configured with a retention time at all to be auto-deleted.
 
 But besides that, many of my customers want to have the events in the logs.
 There is alread a default events listener called `jboss-logging` in each realm configured.
@@ -45,9 +46,9 @@ Using the JBoss-CLI approach to modify the Keycloak/Wildfly configuration is the
 With this approach, you add an entry in the logging subsystem of the underlying Wildfly configuration.
 The new entry tells the logging subsystem to print all log messages from the package `org.keycloak.events` with `DEBUG` level and above to the log output:
 
-````
+```
 /subsystem=logging/logger=org.keycloak.events/:add(category=org.keycloak.events,level=DEBUG)
-````
+```
 
 or
 
@@ -57,12 +58,12 @@ As per default, there is no `eventsListener` SPI config in the Keycloak server c
 The default behaviour for the `jboss-logging` events listener is the one which is implemented in the code.
 To be able to change the configuration of the `jboss-logging` listener, you'll have to create the proper SPI node in the `keycloak-server` subsystem first, then add the desired log levels.
 
-````
+```
 /subsystem=keycloak-server/spi=eventsListener:add
 /subsystem=keycloak-server/spi=eventsListener/provider=jboss-logging:add(enabled=true)
 /subsystem=keycloak-server/spi=eventsListener/provider=jboss-logging:write-attribute(name=properties.success-level,value=info)
 /subsystem=keycloak-server/spi=eventsListener/provider=jboss-logging:write-attribute(name=properties.error-level,value=warn)
-````
+```
 
 Now the _SUCCESS_-events will occur in the log output with level `INFO`, as soon as they are emitted by Keycloak:
 
