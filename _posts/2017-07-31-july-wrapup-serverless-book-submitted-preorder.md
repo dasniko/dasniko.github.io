@@ -12,7 +12,6 @@ tags:
 thumbnail: /images/serverlessbook_cover.jpg
 ---
 
-{% include thumbnail.html %}
 A very important milestone towards my first book is reached:
 I submitted the whole manuscript to my publisher [entwickler.press](http://entwickler-press.de).
 Additionally, you can already preorder the book at Amazon: [http://amzn.to/2eZS5UG](http://amzn.to/2eZS5UG)

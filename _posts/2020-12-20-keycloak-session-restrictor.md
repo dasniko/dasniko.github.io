@@ -8,7 +8,6 @@ tags:
 thumbnail: /images/cattle.jpg
 ---
 
-{% include thumbnail.html %}
 [Keycloak](https://keycloak.org) is a Single-Sign-On System and thus, you usually have one session per realm at the Keycloak server, even when working with multiple client applications.
 It's the nature of a SSO system.
 

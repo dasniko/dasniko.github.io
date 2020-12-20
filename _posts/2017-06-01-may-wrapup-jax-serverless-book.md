@@ -13,7 +13,6 @@ tags:
 - sso
 ---
 
-{% include thumbnail.html %}
 Ok, this month I'm almost in time, just one day late! ;)  
 May was packed with the **Jax conference** in Mainz, which I attended for three days and gave two talks and a cloud workshop.
 And - of course - with new progress on writing the **Serverless Computing book**.

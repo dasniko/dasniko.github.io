@@ -13,7 +13,6 @@ tags:
 thumbnail: /images/javaland2017.jpg
 ---
 
-{% include thumbnail.html %}
 As you can see on the late publishing date of this march wrap-up (it's always near mid-april), there's lot of stuff going on, even preventing me from writing my own blog posts.
 
 The big event in march was, of course, [JavaLand](http://javaland.eu) conference!

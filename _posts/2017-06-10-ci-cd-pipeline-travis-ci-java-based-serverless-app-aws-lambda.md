@@ -10,7 +10,6 @@ tags:
 - cloud
 ---
 
-{% include thumbnail.html %}
 Running automated CI/CD _(Continuous Integration/Continuous Delivery)_ deployment pipelines is a general standard in nowadays software development.
 It gives you reproducable and reliable results of your building blocks and is a _must_ for agile development and for microservices.
 [Travis CI](https://travis-ci.org) is a great option for doing this free of charge for projects with a public and open source repository on GitHub.

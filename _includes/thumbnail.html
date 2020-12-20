@@ -1,5 +1,5 @@
-{% if page.thumbnail %}
-<a fslightbox-gallery="gallery1" href="{{ page.thumbnail }}">
-  <img src="{{ page.thumbnail }}" class="postimg"/>
+{% if include.thumbnail %}
+<a fslightbox-gallery="gallery1" href="{{ include.thumbnail }}">
+  <img src="{{ include.thumbnail }}" class="postimg"/>
 </a>
 {% endif %}

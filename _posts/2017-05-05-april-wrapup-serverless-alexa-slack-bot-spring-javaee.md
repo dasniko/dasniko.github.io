@@ -16,7 +16,6 @@ tags:
 thumbnail: /images/lambda-jaxrs-cdi.png
 ---
 
-{% include thumbnail.html %}
 As promised in [march wrap-up](/2017/04/march-wrapup-serverless-book-javaland.html), I'll write some words about the serverless demo apps for my [Serverless Computing Buch](http://serverlessbuch.de).
 I played with an Alexa skill, a Slack chatbot and running Spring and Java EE APIs on AWS Lambda.
 

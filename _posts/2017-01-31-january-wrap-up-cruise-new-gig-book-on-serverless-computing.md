@@ -20,7 +20,6 @@ Yes, and I know that this is nothing new as others already do so (or even do a w
 
 ---
 
-{% include thumbnail.html %}
 I started the new year together with my wife on a cruise ship on the Northern Sea.
 We started right before midnight on December, 31st in Hamburg, so we had an incredible view from the top deck to the skyline of Hamburg with greate fireworks.
 I'm always getting goose bumps when all vessels blasting their foghorns at midnight.

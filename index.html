@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% for post in site.posts limit:7 %}
+{% for post in site.posts limit:5 %}
   <article class="row border-bottom mb-3">
     <div class="col-sm-12">
 
@@ -13,6 +13,7 @@ layout: default
       </p>
 
       <p>
+        {% include thumbnail.html thumbnail=post.thumbnail %}
         {{ post.excerpt }}
       </p>
 

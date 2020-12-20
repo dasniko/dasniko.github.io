@@ -9,7 +9,6 @@ tags:
 thumbnail: /images/keycloak-events-logging.png
 ---
 
-{% include thumbnail.html %}
 [Keycloak](https://keycloak.org) has this feature of "events".
 There are two kinds of events: login events and admin events.
 Login events are emitted every time a user-related action around authentication is executed, e.g. login, logout, code-to-token exchanges, registrations, etc.

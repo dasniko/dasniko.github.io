@@ -3,7 +3,6 @@ title: The world is as simple as rocket science
 thumbnail: /images/rocket.jpg
 ---
 
-{% include thumbnail.html %}
 A few weeks ago, I listened to a very informative and impressing interview with Prof. Dr. Ing. Robert Schmucker (-> [Wikipedia](https://de.wikipedia.org/wiki/Robert_Schmucker)), a worldwide well-known expert and scientist on rocket science, space technology and terrorism and weapons of mass destruction.
 I can really recommend to listen to this entertaining interview, although it's only available in german.
 See (hear) here:  [http://www.ardmediathek.de/radio/...](http://www.ardmediathek.de/radio/Mensch-Otto-Mensch-Theile/Robert-Schmucker-Raketenexperte/BAYERN-3/Audio-Podcast?bcastId=5925162&documentId=45741452)
