@@ -12,6 +12,11 @@ nav {
   }
 }
 
+footer {
+  margin-top: 2em;
+  padding: 3em 0;
+}
+
 img {
   max-width: 100%;
 }
@@ -20,13 +25,9 @@ ul {
   padding-inline-start: 20px;
 }
 
-h3 {
-  margin-top: .5rem;
-}
-
 a {
-  color: $cyan2;
-  font-weight: 300;
+  color: $cyan;
+  // font-weight: 300;
 }
 
 blockquote {
