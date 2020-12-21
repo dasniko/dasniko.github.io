@@ -6,15 +6,9 @@
 @import "highlights";
 
 nav {
-  a {
-    font-size: 1.1rem;
-    margin-left: 1rem;
+  &.bg-light {
+    border: none;
   }
-}
-
-footer {
-  margin-top: 2em;
-  padding: 3em 0;
 }
 
 img {
@@ -27,7 +21,9 @@ ul {
 
 a {
   color: $cyan;
-  // font-weight: 300;
+  &:hover {
+    color: $cyan;
+  }
 }
 
 blockquote {
