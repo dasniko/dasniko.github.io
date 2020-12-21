@@ -6,26 +6,26 @@ document.addEventListener("DOMContentLoaded", function() {
     })
     .then(function(data) {
       if (!data || data.length == 0) return;
-      var html = '<h3>Meet me at these events, either live on-site or virtually online:</h3>';
-      html += '<ul class="events">';
+      var html = '<div class="card mb-3"><h3 class="card-header">Upcoming Events</h3><div class="card-body"><h6 class="card-subtitle text-muted">Meet me on-site or remote</h6></div>';
+      html += '<ul class="list-group list-group-flush">';
       data.forEach(function(e) {
         if (new Date(e.start+'T23:59:59') >= new Date()) {
-          html += '<li><a href="' + e.url + '" target="_blank">' + e.title + '</a>';
-          html += ', ' + e.location;
-          html += '<br/>' + dateFormat(e.start);
+          html += '<li class="list-group-item"><a href="' + e.url + '" target="_blank">' + e.title + '</a>';
+          html += '<br/>' + e.location;
+          html += '<br/>' + dateFormat(e.start, false);
           if (e.start !== e.end) {
-            html += ' &ndash; ' + dateFormat(e.end);
+            html += ' &ndash; ' + dateFormat(e.end, true);
           }
           html += '</li>';
         }
       });
-      html += '</ul>';
+      html += '</ul></div>';
       document.getElementById('events').innerHTML = html
     })
 });
 
 var months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
-var dateFormat = function(dtStr) {
+var dateFormat = function(dtStr, year) {
   var date = new Date(dtStr);
 
   var d = '' + date.getDate();
@@ -41,7 +41,7 @@ var dateFormat = function(dtStr) {
   var m = months[date.getMonth()];
   var y = date.getFullYear();
 
-  return m + ', ' + d + ' ' + y;
+  return m + ', ' + d + (year ? (' ' + y) : '');
 }
 
 // back-to-top button behaviour
