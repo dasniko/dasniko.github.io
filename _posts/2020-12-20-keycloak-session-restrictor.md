@@ -50,6 +50,10 @@ You can find this session restrictor also on GitHub in my repository [`keycloak-
 
 
 If you want to use it 1:1, just compile it, build a JAR file and put it to the proper `/deployments` directory (`standalone` or `domain`, depending on your deployment/environment).
+Finally, you have to register the listener in the Events > Configuration section of your realm, to actually use it.
+Otherwise no events will be forwarded to the listener.
+
+![](/images/keycloak-events-session-restrictor.png)
 
 Of course you can also adjust and extend it to your needs.
 For example, just allow only one session per user, realm and client.
