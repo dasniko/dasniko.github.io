@@ -1,30 +1,38 @@
 ---
 layout: default
+title: Recent Blog Posts
 ---
 
-{% for post in site.posts limit:5 %}
-  <article class="row border-bottom mb-3">
-    <div class="col-sm-12">
+<article>
+  <h1>{{ page.title }}</h1>
+  <div class="row">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <p>
-        {{ post.date | date: "%B %e, %Y" }}
-      </p>
-
-      <p>
-        {% include thumbnail.html thumbnail=post.thumbnail %}
-        {{ post.excerpt }}
-      </p>
-
-      <p>
-        <a href="{{ site.baseurl }}{{ post.url }}" class="text-uppercase">Read More &raquo;</a>
-      </p>
-
+    {% for post in site.posts limit:5 %}
+    <div class="col-12 col-md-6">
+      <div class="card border-info mb-3">
+        <div class="card-header small">{{ post.date | date: "%B %e, %Y" }}</div>
+        <div class="card-body">
+          <h3 class="card-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+          {% if post.thumbnail %}
+            <img src="{{ post.thumbnail }}" class="d-block user-select-none"/>
+          {% endif %}
+          <p class="card-text">{{ post.excerpt }}</p>
+          <a href="{{ site.baseurl }}{{ post.url }}" class="card-link">Read more &raquo;</a>
+        </div>
+      </div>
     </div>
-  </article>
-{% endfor %}
+    {% endfor %}
 
-<div class="text-right">
-  <a href="{{ site.baseurl }}/archive/">ALL POSTS &raquo;</a>
-</div>
+    <div class="col-12 col-md-6">
+      <div class="card text-white bg-info mb-3">
+        <div class="card-body">
+          <h4 class="card-title">All Blog Posts / Archive</h4>
+          <p class="card-text">Read all of my blog posts, find them either by tag or chronological:</p>
+          <p><a href="{{ site.baseurl }}/archive/" class="card-link text-white" style="text-decoration: underline">All blog posts chronological &raquo;</a></p>
+          <p><a href="{{ site.baseurl }}/tags/" class="card-link text-white" style="text-decoration: underline">All blog posts by tags &raquo;</a></p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</article>

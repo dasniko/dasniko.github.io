@@ -5,21 +5,25 @@ layout: default
 <article>
   <h1>{{ page.title }}</h1>
 
-  <p>
+  <p class="small">
     {{ page.date | date: "%B %e, %Y" }}
   </p>
 
   {% if page.tags != empty %}
-  <p class="tags">
+  <p>
     Tags:
     {% for tag in page.tags %}
-      <a href="/tags/#{{ tag | slugify }}">#{{ tag }}</a>&nbsp;&nbsp;&nbsp;
+      <a href="/tags/#{{ tag | slugify }}" class="mx-2">#{{ tag }}</a>
     {% endfor %}
   </p>
   {% endif %}
 
   <p>
-    {% include thumbnail.html thumbnail=page.thumbnail %}
+    {% if page.thumbnail %}
+    <a fslightbox-gallery="gallery1" href="{{ page.thumbnail }}">
+      <img src="{{ page.thumbnail }}" class="postimg"/>
+    </a>
+    {% endif %}
     {{ content }}
   </p>
 

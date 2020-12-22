@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function() {
         }
       });
       html += '</ul></div>';
-      document.getElementById('events').innerHTML = html
+      document.getElementById('my-events').innerHTML = html
     })
 });
 
