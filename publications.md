@@ -4,6 +4,35 @@ title: Publications
 permalink: /publications/
 ---
 
+I'm a more or less frequent writer, mainly for print and online in Germany.
+That's why most of the following texts are in german only.
+
+---
+
+<a href="https://kiosk.entwickler.de/java-magazin/java-magazin-1-2021/take-me-to-funqy-town/">
+  <img src="/images/javamagazin_01_21.jpg" class="pubcover"/>
+</a>
+
+Java Magazin, Issue 1.2021, December 2020
+
+### [Take me to Funqy Town! - Das neue Serverless API in Quarkus](https://kiosk.entwickler.de/java-magazin/java-magazin-1-2021/take-me-to-funqy-town/)
+
+_"Gotta make a move to a town that’s right for me … take me to Funqytown"_, so oder so ähnlich sang schon Lipps, Inc. im Discoklassiker von 1979. Jetzt hat mit Funqy ein einfaches API Einzug in Quarkus gehalten, das es dank Abstraktion sehr einfach machen soll, kleine, schlanke (HTTP-)Services für verschiedene Serverless-Umgebungen zu schreiben, ohne mit zu viel Umgebungsdetails vertraut sein zu müssen. Ist das nun endlich der (die) heilige Graal(VM)?
+
+---
+
+<a href="https://kiosk.entwickler.de/java-magazin/java-magazin-4-2020/ein-paar-graue-haare-aber/">
+  <img src="/images/javamagazin_04_20.jpg" class="pubcover"/>
+</a>
+
+Java Magazin, Issue 4.2020, March 2020
+
+### [Cloud Native Serverless Java mit Quarkus und GraalVM auf AWS Lambda](https://kiosk.entwickler.de/java-magazin/java-magazin-4-2020/ein-paar-graue-haare-aber/)
+
+Wer jetzt noch nicht „Bingo“ gerufen hat, ist selbst schuld. Wie kann es gelingen, nahezu alle oben aufgezählten Bleeding-Edge-Technologien, Frameworks und Plattformen in einem Real-World-Projekt abseits der grünen Wiese und Hello-World-Demos erfolgreich und miteinander zu verwenden? Ein Erfahrungsbericht.
+
+---
+
 <a href="http://serverlessbuch.de">
   <img src="/images/serverlessbook_cover.jpg" class="pubcover"/>
 </a>

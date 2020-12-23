@@ -1,54 +1,16 @@
 ---
 layout: page
-title: Talks & Conferences
+title: Talks Topics
 permalink: /talks/
 ---
 
 
-You can meet me at the following conferences and events:
-
-<a href="http://www.javaland.eu">
-  <img src="/images/logo_javaland.gif" alt="JavaLand, Cologne" title="JavaLand, Cologne" class="conflogo"/>
-</a>
-<a href="https://jax.de">
-<img src="/images/logo_jax.png" alt="Jax Conference Series, Germany" title="Jax Conference Series, Germany" class="conflogo" style="height: 110px"/>
-</a>
-<a href="http://www.javazone.no">
-<img src="/images/logo_javazone.png" alt="JavaZone, Oslo" title="JavaZone, Oslo" class="conflogo" style="height: 120px"/>
-</a>
-<a href="http://www.jfokus.se">
-<img src="/images/logo_jfokus.png" alt="JFokus, Stockholm" title="JFokus, Stockholm" class="conflogo" style="max-height: 120px"/>
-</a>
-<a href="https://www.oracle.com/javaone/index.html">
-<img src="/images/logo_javaone.png" alt="JavaOne, San Francisco" title="JavaOne, San Francisco" class="conflogo"/>
-</a>
-<a href="http://www.voxxeddays.com">
-  <img src="/images/logo_voxxeddays.png" alt="VoxxedDays" title="VoxxedDays" class="conflogo" style="max-width: 350px"/>
-</a>
-<a href="http://bed-con.org">
-  <img src="/images/logo_bedcon.png" alt="BED-CON, Berlin" title="BED-CON, Berlin" class="conflogo" style="height: 80px"/>
-</a>
-<a href="http://oop-konferenz.de">
-  <img src="/images/logo_oop.png" alt="OOP Conference, Munich" title="OOP Conference, Munich" class="conflogo"/>
-</a>
-<a href="http://www.codetalks.de">
-  <img src="/images/logo_codetalks.jpg" alt="code-talks, Hamburg" title="code-talks, Hamburg" class="conflogo" style="height: 85px"/>
-</a>
-<a href="http://entwicklertag.de">
-  <img src="/images/logo_entwicklertag.png" alt="Entwicklertag, Frankfurt" title="Entwicklertag, Frankfurt" class="conflogo" style="height: 85px"/>
-</a>
-<a href="http://herbstcampus.de">
-  <img src="/images/logo_herbstcampus.gif" alt="Herbstcampus, Nuremberg" title="Herbstcampus, Nuremberg" class="conflogo" style="height: 40px; margin-bottom: 12px"/>
-</a>
-
-...and at many Java and JavaScript User Group events across Germany.
-
-
-## Talk Topics
-
 I will and have been talking about these topics (and of course about upcoming topics in the future):
 
+- [FUNQY-Town! The Quarkus-Serverless-API _#slideless_](#funqy)
+- [Cloud Native Serverless Java with Quarkus and GraalVM on AWS Lambda](#quarkus)
 - [Serverless Multi-Cloud Environments](#serverless-multicloud)
+- [Container vs. Serverless - the Good, the Bad & the Ugly](#goodbad)
 - [Serverless Security](#serverless-security)
 - [The different kinds of Authentication](#kinds-of-authn)
 - [Serverless `code.build.run` Pipeline](#severless-pipeline)
@@ -67,17 +29,29 @@ I will and have been talking about these topics (and of course about upcoming to
 - [Architectural Kata](#archkata)
 - [Beer-as-a-Service - Node.js on the JVM - Status quo with Nodyn and Avatar](#node-jvm)
 - [Avatar 2.0 - more than just Node.js on the JVM](#avatar20)
-- [Espruino - JavaScript for Things](#espruino)
-- [Meteor has landed - what's hot in 1.0?](#meteor10)
 - [Code-Quality despite of JavaScript](#jsquality)
 - [Project Avatar: more than just Node.js ont the JVM - Enterprise Java written in JavaScript](#avatar)
-- [Reaktive Anwendungen](#reactivity)
-- [Meteor vor dem Einschlag](#meteor)
 - [Continuous Database Migration mit Flyway und Liquibase](#dbmigration)
 - [Continuous Delivery mit dem FeatureToggle Pattern und Togglz](#featuretoggle)
-- [Wasser in der Wüste - Vom custom-made SQL-Messaging zum JMS-Standard](#camel)
-- [SOA als Migrationsarchitektur](#soamigration)
-- [SOA Antipatterns - How to kill your business](#soaantipatterns)
+
+---
+
+### <a name="funqy">FUNQY-Town! The Quarkus-Serverless-API _#slideless_</a>
+
+_"Gotta make a move to a town that's right for me - won't you take me to FUNQY-Town"_ - Lipps, Inc. already recognized in this disco classic from 1979 that it is time to move to a new environment that meets the requirements. With the Funqy API for Serverless functions, the Quarkus framework wants to achieve exactly that: a new approach for the Serverless needs.
+
+The Funqy API simplifies writing Java-based HTTP services more and more and makes the implementation of platform specific deployment knowledge completely transparent for the developer. It doesn’t matter whether the application will be deployed to a JVM or as a native binary (using GraalVM). Depending on the target environment (AWS, Azure, Google, Knative or even traditional environments) the necessary deployment artifacts are generated during the build and can then be used as a template.
+
+In my session I will show you without slides but with living-code examples how you can quickly and easily write an HTTP-based service and deploy it to various cloud platforms. As Java and native service.
+
+
+---
+
+### <a name="quarkus">Cloud Native Serverless Java with Quarkus and GraalVM on AWS Lambda</a>
+
+When it comes to Serverless and Java, people still think of clumsiness and bad startup latencies. Using Quarkus framework (by Red Hat), GraalVM (Oracle) and Custom Runtimes & Layers for AWS Lambda, a Java application can now be easily compiled to a natively executable binary and run as a serverless function. The startup times can compete in any ways with other environments and can no more be compared with conventional JVM startups.
+
+I’ll give a short overview of Quarkus, the GraalVM and the AWS Lambda Custom Runtimes & Layers. After we learned the basics, I’ll show how a typical Java application that uses ostensively cumbersome JAX-RS, JPA and CDI APIs, can become a performant platform-specific and executable binary with little effort. I'll also mention some of the traps that newbies like to fall into when dealing with native binaries. At the end I’ll deploy the generated function to AWS Lambda, where I compare the startup times with those of conventional (not only Java) functions.
 
 ---
 
@@ -87,9 +61,22 @@ _t.b.d._
 
 ---
 
+### <a name="goodbad">Container vs. Serverless - the Good, the Bad & the Ugly</a>
+
+Today, containers are a common thing and something like an "industry standard". Serverless is the direct competitor and everybody talks about "Cloud Native“. Is Serverless the next step in evolution of containers and will it replace them in the (near) future? And how does Cloud Native fit into the Serverless context?
+There is also wide range of container-based frameworks which call themselves „Serverless". Are they really server-less, or don't I have to run an entire server farm for it?
+
+Let’s have a controversial discussion - perhaps we will find some similarities, perhaps not. It's not really about which technology is "better". Both approaches have advantages and disadvantages, and you have to know them in order to be able to use them effectively!
+
+---
+
 ### <a name="serverless-security">Serverless Security</a>
 
-_t.b.d._
+Serverless means that you no longer have to worry about the infrastructure. But do I no longer have to worry about the security of my applications? Or do I have to deal with it more and more? Not at least, OWASP has published its own Top-10 for serverless applications.
+
+Resource authorization, encryption of data in transit and at rest, network layers, intrusion detection, threat modeling, meltdown/spectre - topics that require particularly sensitive handling, especially in cloudy environments.
+
+We will discuss in this session which possibilities are available and which obligations we have to secure our cloud applications. In a manner to get enough and peaceful sleep and not have to worry about the infrastructure management. Parallel to our discussion, we'll make an existing serverless application more secure and reliable.
 
 ---
 
@@ -229,22 +216,6 @@ Avatar 2.0 brings together, what belongs together: JavaScript on the JVM!
 
 ---
 
-### <a name="espruino">Espruino - JavaScript for Things</a>
-
-Espruino is JavaScript bare to the metal of a microcontroller. It's an open source hardware Espruino Board and an open source interactive JavaScript interpreter, running natively on the controller (not only on the Espruino Board, but also on similar microcontrollers, too).
-
-The project was launched in 2013 through a Kickstarter campain and it raised 5x its target. It's a bit like Arduino, but for JavaScript! It's perfect for beginners in IoT or prototyping/showcasing. Lots of GPIOs (PWM, ADC, USART, SPI, I2C, DAC), SD Card Slot, USB and battery connectors, Bluetooth module pad, etc.
-
-From 0 to hero in 3 minutes! Just plug the Espruino to your Computer, conntect it with the Espruino Web-IDE, update the firmware and start coding. It works, right out of the box! Just run your code as you type! Even programming the Espruino from your phone is possible. There is already a large open source community which comes up every day with new interessting ideas for the microcontroller. I'll give you an introduction to Espruino and it's capabilities (not only for my upcoming home-automation tasks) and show you Espruino in action!
-
----
-
-### <a name="meteor10">Meteor has landed - what's hot in 1.0?</a>
-
-Die reaktive JavaScript Platform Meteor macht große Schritte zum ersten Major-Release (1.0). Was hat sich in den letzten 12 Monaten getan? Nachdem wir letztes Jahr auf die Basis-Features geschaut haben, nehmen wir uns jetzt das weitere Umfeld vor und schauen, wie sich Meteor in der Praxis und der realen Welt schlägt. Was bringt die neue UI Engine "Blaze"? Welche Test-Frameworks gibt es für Meteor? Arbeiten mit dem Package-Manager, Integration von Streams und 3D Darstellungen im Browser und vieles mehr. Welche produktiven Websites bzw. Apps gibt es mittlerweile? Natürlich gibt es wieder ausreichend Code zu sehen...!
-
----
-
 ### <a name="jsquality">Code-Quality despite of JavaScript</a>
 
 JavaScript erlebt einen besonderen Hype. Die Sprache meldet Ansprüche als Plattform für unternehmenskritische Applikationen an und erobert zunehmend das Server- und Backend-Umfeld.
@@ -265,22 +236,6 @@ Die Live-Demo zeigt, wie eine JavaEE Applikation ganz ohne Java Code erstellt we
 
 ---
 
-### <a name="reactivity">Reaktive Anwendungen</a>
-
-Das reaktive Programmierparadigma, oder auch die Event-getriebene, asynchrone, nicht-blockierende Architektur, hält immer mehr Einzug in aktuelle Software-Entwicklungsprojekte, -Plattformen und Applikationen. Immer mehr verfügbare Embedded- und Echtzeit-Systeme verlangen nach einer anderen Art der Programmierung, um mit ressourcen-schonenderen Mitteln eine stabile, skalierbare und belastbare Lösung bereitzustellen. Ebenso verlangen asynchrone Anwendungen, Kommunikationsprotokolle und Benutzerschnittstellen eine effiziente Art, die miteinander agierenden Clients zu aktualisieren und zu synchronisieren, ohne viel unnötigen Overhead zu erzeugen. Nicht während der Programmierung, und schon gar nicht zur Laufzeit.
-
-Nach und nach kommen immer mehr Frameworks auf den Markt, die sich der reaktiven Programmierung annehmen. Und nicht zuletzt zeigt die kürzliche Gründung des "Reactive Manifestos", wie aktuell dieses Thema ist und wie relevant es für die Zukunft sein wird. Der Vortrag erklärt, was reaktives Programmieren ist und zeigt an beispielhaften Implementierungen in Java und JavaScript, wie damit zeitgemäße asynchrone Anwendungen eventgetrieben entwickelt werden können.
-
----
-
-### <a name="meteor">Meteor vor dem Einschlag</a>
-
-JavaScript-Applicationframeworks gibt es wie Staub auf dem Mond. Jedoch ist jedes nur auf dem Gebiet gut, für das es geschaffen wurde.
-
-Meteor versteht sich als eine Plattform, die eine Auswahl der besten Frameworks mit MongoDB und Node.js kombiniert und Entwicklern so das Zusammensuchen abnehmen möchte. Die Hauptmerkmale liegen auf dem reaktiven Programmierparadigma, einer cleveren Latenz-Kompensation, einer einheitlichen Basis des JavaScript-Codes für Client und Server, das automatische Propagieren der Änderungen von Code und Daten, ein vergleichsweise einfaches API-Design und intelligentes Packaging und Deployment von Applikationen.
-
----
-
 ### <a name="dbmigration">Continuous Database Migration mit Flyway und Liquibase</a>
 
 Der Quellcode der Applikation ist versioniert im Repository abgelegt. Warum nicht die Datenbank? Will man nun einen beliebigen Stand der Datenbank in der Entwickler-, Test- oder Produktionsumgebung wiederherstellen, stehen mit Flyway und Liquibase zwei leistungsfähige Java-Bibliotheken zur Verfügung, die nahtlos in den Build für ein agiles Continuous Delivery integrierbar sind.
@@ -290,24 +245,3 @@ Der Quellcode der Applikation ist versioniert im Repository abgelegt. Warum nich
 ### <a name="featuretoggle">Continuous Delivery mit dem FeatureToggle Pattern und Togglz</a>
 
 Wer agil entwickelt und Continuous Delivery umsetzen und betreiben will, hat nicht zuletzt mit Features zu kämpfen, deren Entwicklung noch nicht abgeschlossen ist, oder die noch nicht oder nur für eine bestimmte Benutzergruppe in Produktion gehen sollen, die aber bereits entwickelt sind. Und da kein Feature-Branch existiert, bzw. nur der Master-Branch, aus dem auch regelmäßig deployed wird, könnte das eine Herausforderung werden. Mit dem FeatureToggle Pattern von Martin Fowler und der Realisierung dessen mit Togglz ist es ganz einfach, all das im Handumdrehen zu realisieren.
-
----
-
-### <a name="camel">Wasser in der Wüste - Vom custom-made SQL-Messaging zum JMS-Standard</a>
-
-Viele Unternehmen haben eine Standard-Messaging-Lösung (Oracle AQ) im Haus, wissen es aber nicht. Somit werden zur Anwendungsintegration (EAI) teils umständliche und meist proprietäre Eigenentwicklungen und Anti-Pattern über DB-Tabellen und/oder Text-Dateien realisiert, oftmals unter dem Gesichtspunkt “das-wird-schon-gutgehen”. Wenn dazu noch die unterschiedlichen Entwicklertypen wie der DB- oder PL/SQL-Entwickler auf der einen und zwei verschiedene Software-Entwickler (in unserem Beispiel der Java-Typ und der Host-Mensch) auf der anderen Seite aufeinandertreffen, fragt man sich als Architekt beim Review oft, wie das so lange so gut gehen konnte. Dieser Vortrag beschreibt aus einem realen Projekt, wie aus der beschriebenen Ausgangssituation ohne die Beschaffung von kostenintensiven Lizenzen und Hardware, nur mit vorhandenen Bordmitteln (Oracle Advance Queuing), Open Source Software (Apache Camel), wenig Programmierung (Custom-Java-Code) und überwiegend Konfiguration (XML, DSL), eine neue, flexible und skalierbare JMS-Standard-Lösung ähnlich eines ESBs geschaffen werden konnte, mit der alle Beteiligten nach wie vor in ihrem eigenen Scope arbeiten können, ohne die anderen Entwicklungslager im Detail verstehen zu müssen.
-
----
-
-### <a name="soamigration">SOA als Migrationsarchitektur</a>
-
-SOA ist out? SOA ist out!  
-Aber nur der Begriff, nicht die Methodik selbst! SOA lebt seit den 70er Jahren und ist auch bzw. gerade im Cloud-Zeitalter nach wie vor aktuell.
-
-Viele Unternehmen stehen mittlerweile vor der Herausforderung, ihre in die Jahre gekommenen und monolithischen Applikationen zu modernisieren und dabei auf eine tragfähige und wartbare Basis umzustellen. Eine SOA ist oft das ferne Ziel am Horizont. Dabei ist SOA weit mehr als nur Web Services, ESB und Geschäftsprozesse. Eine SOA als Vorgehensweise kann auch schon helfen, den Weg einer methodischen und sanften Migration zu beschreiten und die Risiken zu reduzieren. Der Vortrag zeigt mit praxisnahen Beispielen aus einem aktuellen Projekt, wie eine SOA als Hilfsmittel für Migrationen (am Beispiel einer Host-Ablösung) genutzt werden kann. Dabei werden die Möglichkeiten der Integration von Business-Logik, Datenmodell und dem methodischen Vorgehen beleuchtet.
-
----
-
-### <a name="soaantipatterns">SOA Antipatterns - How to kill your business</a>
-
-SOA hat seinen Platz in kritischen Unternehmensapplikationen gefunden. Es ist an der Zeit aus den durchgeführten Projekten zu lernen. Bisher wurden Best Practices und Patterns identifiziert, aber entscheidend ist es Fehler und Fallstricke zu kennen um diese zu vermeiden. Der Vortrag zeigt typische Antipatterns aus den Bereichen Service-Design, SOA-Governance und technischer Implementierung und hilft bei der Vermeidung.
