@@ -65,9 +65,17 @@ small, .small {
   height: calc(100% - 1rem);
 }
 
+.jumbotron {
+  & .avatar {
+    width: unset;
+    height: unset;
+    margin: 0;
+  }
+}
+
 .conflogo {
-  padding: 3px;
-  max-height: 110px;
+  max-width: 140px;
+  max-height: 50px;
 }
 
 .postimg {
@@ -108,17 +116,8 @@ small, .small {
 .pubcover {
   float: right;
   max-width: 140px;
-}
-
-.tag-cloud {
-  line-height: 1;
-  text-align: justify;
-}
-
-.bookteaser {
-  background-color: lightskyblue;
-  padding: 5px;
-  color: $gray-800;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
 }
 
 .top {

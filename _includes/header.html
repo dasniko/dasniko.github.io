@@ -1,5 +1,5 @@
 <header>
-  <nav class="navbar navbar-expand-lg navbar-light bg-light px-0 border-bottom mb-5">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light px-0 border-bottom mb-4">
     <a class="navbar-brand" href="{{ site.baseurl }}/">
       <div class="d-flex align-items-center">
         <img src="{{ site.avatar }}" class="avatar rounded-circle"/>
@@ -23,11 +23,11 @@
           <a class="nav-link {%if page.permalink == '/about/' %}active{% endif %}" href="{{ site.baseurl }}/about/">About Me</a>
         </li>
         <li class="nav-item mr-0 ml-4">
-          <a class="nav-link {%if page.permalink == '/archive/' %}active{% endif %}" href="{{ site.baseurl }}/archive/">Archive</a>
+          <a class="nav-link {%if page.permalink == '/blog/' %}active{% endif %}" href="{{ site.baseurl }}/blog/">Archive</a>
         </li>
-        <li class="nav-item mr-0 ml-4">
+        <!--li class="nav-item mr-0 ml-4">
           <a class="nav-link {%if page.permalink == '/talks/' %}active{% endif %}" href="{{ site.baseurl }}/talks/">Talks</a>
-        </li>
+        </li-->
         <li class="nav-item mr-0 ml-4">
           <a class="nav-link {%if page.permalink == '/publications/' %}active{% endif %}" href="{{ site.baseurl }}/publications/">Publications</a>
         </li>

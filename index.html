@@ -2,36 +2,54 @@
 layout: default
 ---
 
-<article>
-  <h1>Recent Blog Posts</h1>
-  <div class="row">
-
-    {% for post in site.posts limit:5 %}
-    <div class="col-12 col-md-6">
-      <div class="card border-info mb-3">
-        <div class="card-header small">{{ post.date | date: "%B %e, %Y" }}</div>
-        <div class="card-body">
-          <h3 class="card-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-          {% if post.thumbnail %}
-            <img src="{{ post.thumbnail }}" class="d-block user-select-none"/>
-          {% endif %}
-          <p class="card-text">{{ post.excerpt }}</p>
-          <a href="{{ site.baseurl }}{{ post.url }}" class="card-link">Read more &raquo;</a>
-        </div>
-      </div>
-    </div>
-    {% endfor %}
-
-    <div class="col-12 col-md-6">
-      <div class="card text-white bg-info mb-3">
-        <div class="card-body">
-          <h4 class="card-title">All Blog Posts / Archive</h4>
-          <p class="card-text">Read all of my blog posts, find them either by tag or chronological:</p>
-          <p><a href="{{ site.baseurl }}/archive/" class="card-link text-white" style="text-decoration: underline">All blog posts chronological &raquo;</a></p>
-          <p><a href="{{ site.baseurl }}/tags/" class="card-link text-white" style="text-decoration: underline">All blog posts by tags &raquo;</a></p>
-        </div>
-      </div>
-    </div>
-
+<div class="jumbotron d-flex">
+  <div>
+    <h1 class="display-3">Hi, I'm Niko!</h1>
+    <p class="lead">I'm an independant freelance software consultant, developer and trainer. And I'm here to help - you, your team and your company.</p>
+    <p class="lead">How can I support you?</p>
+    <div><a class="btn btn-info" href="/about/" role="button">Get in touch</a></div>
+    <hr class="my-4">
+    <p>
+      My focus is on various technologies, no matter if frontend, backend and/or deployment to public or private clouds, on-premise infrastructure or hybrid architectures.
+      Mainly Java and JavaScript.<br/>
+      Yes, I'm doing DevOps, but no, I'm not an "DevOps engineer" (this doesn't exist)!
+    </p>
   </div>
-</article>
+  <div class="d-none d-md-block ml-4">
+    <img src="{{ site.avatar }}" alt="Niko Köbler" class="avatar rounded-circle"/>
+  </div>
+</div>
+
+{% include conferences.html %}
+
+<hr class="my-4"/>
+
+{% include events.html %}
+
+<hr class="my-4"/>
+
+<h1>Recent Blog Posts</h1>
+<div class="row">
+
+  {% for post in site.posts limit:5 %}
+  <div class="col-12 col-sm-6 col-lg-4">
+    <div class="card border-info mb-3">
+      <div class="card-header small">{{ post.date | date: "%B %e, %Y" }}</div>
+      <div class="card-body">
+        <h4 class="card-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="card-link">Read more &raquo;</a>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+
+  <div class="col-12 col-sm-6 col-lg-4">
+    <div class="card text-white bg-info mb-3">
+      <div class="card-body">
+        <h4 class="card-title">All Blog Posts</h4>
+        <a href="{{ site.baseurl }}/blog/" class="card-link text-white" style="text-decoration: underline">Read all blog posts &raquo;</a>
+      </div>
+    </div>
+  </div>
+
+</div>
