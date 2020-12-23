@@ -58,3 +58,12 @@ Otherwise no events will be forwarded to the listener.
 Of course you can also adjust and extend it to your needs.
 For example, just allow only one session per user, realm and client.
 Or, whatever comes to your (or your boss'es) mind.
+
+<div class="alert alert-warning">
+<h4 class="alert-heading">IMPORTANT</h4>
+<p class="mb-0">
+Keep in mind, that the session-restrictor provider is for demo purposes only.
+There's no warranty!
+If you want to use it for production purposes, use is at your own risk!
+You'll most probably have to extend the code with further checks and validations!
+</p>
