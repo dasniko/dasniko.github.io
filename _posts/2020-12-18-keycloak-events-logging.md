@@ -7,6 +7,7 @@ tags:
 - logging
 - java
 thumbnail: /images/keycloak-events-logging.png
+youtube: Rh8LstBPBOE
 ---
 
 [Keycloak](https://keycloak.org) has this feature of "events".
