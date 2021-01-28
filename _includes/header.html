@@ -31,19 +31,13 @@
         <li class="nav-item mr-0 ml-4">
           <a class="nav-link {%if page.permalink == '/publications/' %}active{% endif %}" href="{{ site.baseurl }}/publications/">Publications</a>
         </li>
-        <li class="nav-item mr-0 ml-4">
-          <a class="nav-link {%if page.permalink == '/videos/' %}active{% endif %}" href="{{ site.baseurl }}/videos/">Videos</a>
-        </li>
-        <!-- li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+        <li class="nav-item mr-0 ml-4 dropdown">
+          <a class="nav-link {%if page.permalink == '/videos/' %}active{% endif %} dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Videos</a>
           <div class="dropdown-menu">
-            <a class="dropdown-item" href="#">Action</a>
-            <a class="dropdown-item" href="#">Another action</a>
-            <a class="dropdown-item" href="#">Something else here</a>
-            <div class="dropdown-divider"></div>
-            <a class="dropdown-item" href="#">Separated link</a>
+            <a class="dropdown-item" href="https://www.youtube.com/c/NikoKöbler" target="_blank">YouTube Channel</a>
+            <a class="dropdown-item" href="{{ site.baseurl }}/videos/">Conference talks</a>
           </div>
-        </li -->
+        </li>
       </ul>
     </div>
   </nav>
