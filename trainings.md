@@ -1,15 +1,17 @@
 ---
 layout: page
-title: Public Trainings
+title: Keycloak Trainings
 permalink: /trainings/
+thumbnail: /images/keycloak_training.png
 ---
 
-Die folgenden Trainings geben ich in Zusammenarbeit mit öffentlichen Trainingsanbietern.
+Das folgende Training geben ich in Zusammenarbeit mit öffentlichen Trainingsanbietern.
 
 _Gerne erstelle ich auch kundenspezifische In-House Trainings ganz nach Ihren Wünschen. Sprechen Sie mich einfach an!_
 
 ---
 
+<img src="{{ page.thumbnail }}" class="postimg"/>
 ## Authentifizierung einfach und sicher gemacht mit Keycloak
 
 Keycloak hat sich mittlerweile als eines der meist genutzten Authentifzierungs- und Identity- & Access-Management (IAM) Systeme in Unternehmen etabliert. Ganz gleich ob für klassische Enterprise-Anwendungen, moderne Single-Page-Apps oder Microservice-Architekturen, unterstützt Keycloak doch beide gängigen Protokolle SAML und OIDC (OpenID-Connect).
