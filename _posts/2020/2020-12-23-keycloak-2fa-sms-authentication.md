@@ -13,6 +13,8 @@ photos:
 - /images/keycloak-2fa-sms-binding.png
 - /images/keycloak-2fa-sms-form.png
 - /images/keycloak-2fa-sms-message.png
+youtube:
+- GQi19817fFk
 ---
 
 
