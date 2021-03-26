@@ -53,4 +53,4 @@ Als "Betriebsumgebung" verwenden wir eine lokale Docker-Compose Installation, um
 ### Termine
 
 * 21.05.2021: [IT Security Summit 2021](https://it-security-summit.de/it-security-summit/authentifizierung-einfach-und-sicher-gemacht-mit-keycloak-teil-1/)
-* 02.06.2021: [betterCode Workshop](https://api.bettercode.eu/lecture_compact1.php?id=12885&source=0)
+* 02.06.2021: [betterCode Workshop](https://api.bettercode.eu/lecture_compact1.php?id=12885&source=0) (ausverkauft)

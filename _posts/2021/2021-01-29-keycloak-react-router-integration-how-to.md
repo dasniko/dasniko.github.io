@@ -26,4 +26,4 @@ The video series consists of three parts, available for free on YouTube:
 1. Conditional rendering of components and views, depending on Keycloak auth data, like authN state, roles, etc.
 1. Integration with React Router, having conditional routes, depending on authN state, roles, etc.
 
-Just leave me some 👍 on the videos and subscribe to my YouTube channel at [https://www.youtube.com/c/NikoKöbler](https://www.youtube.com/c/NikoKöbler).
+Just leave me some 👍 on the videos and subscribe to my YouTube channel at [https://www.youtube.com/c/NikoKöbler](https://www.youtube.com/c/NikoKöbler?sub_confirmation=1).

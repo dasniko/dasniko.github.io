@@ -10,7 +10,7 @@ thumbnail: /images/keycloak_training.png
 In cooperation with two leading public training providers, I offer a public one-day Keycloak online training at theses dates:
 
 * May, 21st, 2021: [IT Security Summit 2021](https://it-security-summit.de/it-security-summit/authentifizierung-einfach-und-sicher-gemacht-mit-keycloak-teil-1/)
-* June, 2nd, 2021: [betterCode Workshop](https://api.bettercode.eu/lecture_compact1.php?id=12885&source=0)
+* June, 2nd, 2021: [betterCode Workshop](https://api.bettercode.eu/lecture_compact1.php?id=12885&source=0) (sold out!)
 
 The agenda will be of the following:
 

@@ -17,13 +17,13 @@
     <div class="collapse navbar-collapse" id="navbar">
       <ul class="navbar-nav ml-auto">
         <li class="nav-item mr-0 ml-4">
-          <a class="nav-link {%if page.permalink == blank %}active{% endif %}" href="{{ site.baseurl }}/">Home</a>
+          <a class="nav-link {%if page.permalink == blank and page.title == blank %}active{% endif %}" href="{{ site.baseurl }}/">Home</a>
         </li>
         <li class="nav-item mr-0 ml-4">
           <a class="nav-link {%if page.permalink == '/about/' %}active{% endif %}" href="{{ site.baseurl }}/about/">About</a>
         </li>
         <li class="nav-item mr-0 ml-4">
-          <a class="nav-link {%if page.permalink == '/blog/' %}active{% endif %}" href="{{ site.baseurl }}/blog/">Archive</a>
+          <a class="nav-link {%if page.permalink == '/blog/' or (page.permalink == blank and page.title != blank) %}active{% endif %}" href="{{ site.baseurl }}/blog/">Blog</a>
         </li>
         <!--li class="nav-item mr-0 ml-4">
           <a class="nav-link {%if page.permalink == '/talks/' %}active{% endif %}" href="{{ site.baseurl }}/talks/">Talks</a>
@@ -32,7 +32,7 @@
           <a class="nav-link {%if page.permalink == '/publications/' %}active{% endif %}" href="{{ site.baseurl }}/publications/">Publications</a>
         </li-->
         <li class="nav-item mr-0 ml-4 dropdown">
-          <a class="nav-link {%if page.permalink == '/publications/' %}active{% endif %} dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Public Address</a>
+          <a class="nav-link {%if page.permalink == '/talks/' or page.permalink == '/publications/' or page.permalink == '/trainings/' %}active{% endif %} dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Public Address</a>
           <div class="dropdown-menu">
             <a class="dropdown-item" href="{{ site.baseurl }}/talks/">Talk Topics</a>
             <a class="dropdown-item" href="{{ site.baseurl }}/publications/">Publications</a>
