@@ -58,7 +58,7 @@ Wir weisen darauf hin, dass die Datenübertragung im Internet (z. B. bei der Kom
 
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
-Niko Köbler, In den Orscheläckern 32, 64354 Reinheim, Telefon: +491726714839, E-Mail: info@n-k.de
+Niko Köbler, In den Orscheläckern 32, 64354 Reinheim, E-Mail: info@n-k.de
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
 
