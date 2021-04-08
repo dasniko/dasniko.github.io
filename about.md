@@ -60,8 +60,6 @@ You have further questions?
 You want to hire me for a workshop or to support your project(s)?  
 You want me to speak at your event?  
 
-Give me a call: [+49.172.6714839](tel:+491726714839)
+Send me an e-mail: [info@n-k.de](mailto:info@n-k.de)
 
 Contact me on Twitter: [@dasniko](https://twitter.com/dasniko)
-
-Send me an e-mail: [info@n-k.de](mailto:info@n-k.de)
