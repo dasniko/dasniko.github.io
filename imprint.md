@@ -14,7 +14,6 @@ In den Orscheläckern 32
 
 ### Kontakt
 
-Telefon: +49.172.6714839  
 E-Mail: info (at) n-k.de
 
 ### Umsatzsteuer
@@ -56,7 +55,6 @@ Germany
 
 ### Contact
 
-Telephone: +49.172.6714839  
 Email: info (at) n-k.de
 
 ### VAT
