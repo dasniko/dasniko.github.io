@@ -13,18 +13,18 @@ Damit Du aktiv alle Beispiele mitprogrammieren kannst und so den größten Nutze
 
 * Rechner/Notebook/Laptop mit ausreichend Ressourcen und Kapazitäten für's Entwickeln mit Java & Docker, aktuelle CPUs und gerne 16 GB RAM oder mehr :)
 * IDE nach Wahl (IntelliJ IDEA, VSCode, Eclipse, ...)
+* HTTP Client nach Wahl (curl, Postman, Insomnia, in der IDE integrierte HTTP Clients, ...)
 * JDK 11+
 * Maven 3.6.2+  
   (Gradle, wenn Du Dich damit auskennst, ich gehe darauf _nicht_ im Workshop ein)
 * Docker
   * lauffähig, ggf. lokale Admin-Rechte auf dem Rechner erteilen (lassen)!
-  * am Besten, um während des Workshops Zeit zu sparen, _am Tag oder am Morgen vor dem Workshop_ folgende Docker `pull` Befehle ausführen:
-    - `docker pull quay.io/quarkus/ubi-quarkus-native-image:21.0.0-java11`
-    - `docker pull registry.access.redhat.com/ubi8/ubi-minimal:8.1`
+  * am Besten, um während des Workshops Zeit zu sparen und weil es mutable Tags gibt, _am Tag oder am Morgen vor dem Workshop_ folgende Docker `pull` Befehle ausführen:
+    - `docker pull quay.io/quarkus/ubi-quarkus-native-image:21.0-java11`  
+      _(Wenn es mit dem quay.io Repository Probleme mit der Performance oder Antwortzeit gibt, habe ich hier einen temporären Mirror angelegt: `public.ecr.aws/p7n5j5i9/ubi-quarkus-native-image:21.0-java11`)_
+    - `docker pull registry.access.redhat.com/ubi8/ubi-minimal:8.3`
     - `docker pull amazon/aws-sam-cli-emulation-image-provided:latest`
-    - `docker pull amazon/aws-sam-cli-emulation-image-provided:rapid-1.15.0`
     - `docker pull amazon/aws-sam-cli-emulation-image-java11:latest`
-    - `docker pull amazon/aws-sam-cli-emulation-image-java11:rapid-1.15.0`
     - `docker pull amazon/dynamodb-local:latest`
 * AWS-Konto + Credentials (siehe unten)
 * AWS CLI
@@ -46,7 +46,12 @@ Eine Anleitung zur Konfiguration Deines Rechners bzw. Deines CLI findest Du in d
 Der Einfachheit halber empfehle ich für den Workshop ein Zugang mit _Admin-Rechten_ im jeweiligen AWS-Konto.  
 <small><em>(Das sollte für eine letztendliche Nutzung, auch während der Entwicklung, natürlich nicht gewählt werden, erleichtert aber den Workshop und den Einstieg, wenn Du noch nicht damit gearbeitet hast. Und wir wollen uns im Workshop ja auf Quarkus konzentrieren und uns nicht mit Details der AWS-Security beschäftigen, obwohl das gleichwohl nicht weniger wichtig, aber halt nicht Inhalt des Workshops ist.)</em></small>
 
-Falls Du kein eigenes AWS-Konto hast oder nutzen kannst, kann ich Dir für den Workshop gerne ein Account zur Verfügung stellen.
+Du kannst gerne Dein eigenes AWS-Konto verwenden, wenn Du eines hast und das möchtest.
+Wenn Du noch kein eigenes AWS-Konto hast, Dir aber eines erstellen möchtest, kannst Du das hier tun: [https://aws.amazon.com](https://aws.amazon.com).  
+Die ggf. im und während des Workshops anfallenden Kosten für die Nutzung der AWS-Services und -Ressourcen musst Du selbst tragen.
+Voraussichtlich werden diese sehr gering bleiben und sich in einem niedrigen Cent-Bereich bewegen, wenn überhaupt.
+
+Falls Du kein eigenes AWS-Konto hast oder nutzen kannst, kann ich Dir für den Workshop gerne einen Zugang zu meinem Trainings-Account zur Verfügung stellen.
 Schicke mir hierfür einfach eine E-Mail mit Deinem Namen und E-Mail-Adresse über diese Schaltfläche:
 
 <a href="mailto:info@n-k.de?subject=JAX Quarkus Workshop - Ich benötige ein AWS-Trainingskonto" class="btn btn-info">Ich benötige Zugangsdaten zu einem AWS-Trainingskonto</a>
