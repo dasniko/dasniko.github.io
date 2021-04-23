@@ -5,6 +5,9 @@ tags:
 - keycloak
 - testing
 - java
+thumbnail: /images/testcontainers-keycloak.jpg
+youtube:
+- FEbIW23RoXk
 ---
 
 In the past few days, I've been implementing a Keycloak Testcontainer for easy usage in your integration tests of your Java/JVM based applications and services.
