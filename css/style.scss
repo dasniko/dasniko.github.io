@@ -73,6 +73,24 @@ small, .small {
   }
 }
 
+.heroimg {
+  float: right;
+  margin-top: -64px;
+  margin-right: -32px;
+  width: 40%
+}
+
+@media (max-width: 991px) {
+  .jumbotron {
+    padding: 2rem;
+  }
+}
+@media (min-width: 1200px) {
+  .jumbotron {
+    min-height: 640px;
+  }
+}
+
 .conflogo {
   max-width: 140px;
   max-height: 50px;
