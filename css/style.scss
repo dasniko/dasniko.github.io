@@ -61,16 +61,16 @@ small, .small {
   }
 }
 
+.navbar-brand {
+  margin-right: unset;
+}
+
 .card {
   height: calc(100% - 1rem);
 }
 
-.jumbotron {
-  & .avatar {
-    width: unset;
-    height: unset;
-    margin: 0;
-  }
+.container {
+  margin-right: auto!important;
 }
 
 .heroimg {
