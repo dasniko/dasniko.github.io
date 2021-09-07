@@ -1,57 +1,31 @@
 ---
 layout: page
-title: Keycloak Trainings
+title: Custom Trainings & Workshops
 permalink: /trainings/
-thumbnail: /images/keycloak_training.png
 ---
 
-Das folgende Training geben ich in Zusammenarbeit mit öffentlichen Trainingsanbietern.
+I offer the following trainings & workshops in cooperation with renowned public training providers.
 
-_Gerne erstelle ich auch kundenspezifische In-House Trainings ganz nach Ihren Wünschen. Sprechen Sie mich einfach an!_
+_I am also more than happy to create customized in-house trainings and workshops entirely according to your wishes. Feel free to get in touch!_
 
 ---
 
-<img src="{{ page.thumbnail }}" class="postimg"/>
-## Authentifizierung einfach und sicher gemacht mit Keycloak
+Folgende Trainings & Workshops biete ich in Zusammenarbeit mit renommierten öffentlichen Trainingsanbietern an.
 
-Keycloak hat sich mittlerweile als eines der meist genutzten Authentifzierungs- und Identity- & Access-Management (IAM) Systeme in Unternehmen etabliert. Ganz gleich ob für klassische Enterprise-Anwendungen, moderne Single-Page-Apps oder Microservice-Architekturen, unterstützt Keycloak doch beide gängigen Protokolle SAML und OIDC (OpenID-Connect).
+_Gerne erstelle ich auch kundenspezifische In-House Trainings und Workshops ganz nach Ihren Wünschen. Sprechen Sie mich gerne an!_
 
-In diesem Workshop schauen wir uns an, wie Keycloak redundant in einem Cluster betrieben werden kann und binden externe, ggf. bereits im Unternehmen vorhandene Identity Provider (wie z.B. Azure Active Directory oder Social Provider) ein. Weiterhin Implementieren und Integrieren wir eine eigene 2-Faktor Authentifizierung und sichern eine Spring Boot basierte Anwendung, einen Quarkus-Service und eine Single-Page-Applikation auf Basis von React ab, um dort mit authentifizierten Zugriffen arbeiten zu können.
+---
 
-### Vorkenntnisse und Zielgruppe
+* **[Keycloak - Open Source Identity and Access Management & Single Sign On](/trainings/keycloak)** (🇩🇪 )
 
-Der Workshop richtet sich an alle Personen aus Entwicklung und Betrieb, die eine Single-Sign-On oder Identity-Managementlösung in ihrem Unternehmen oder Projekt aufbauen und integrieren möchten. Idealerweise haben die Teilnehmer schon leichte bis mittlere Vorkenntnisse im Thema Authentifizierung und möchten diese speziell für Keycloak vertiefen.
+* **[Quarkus Serverless - Supersonic Subatomic Java in the Clouds](/trainings/quarkus)** (🇩🇪 )
 
-Als "Betriebsumgebung" verwenden wir eine lokale Docker-Compose Installation, um den operativen Overhead so gering wie möglich zu halten. Die Beispiele für zu implementierende Interfaces (z.B. 2FA) und die abzusichernden Anwendungen sind in Java (Spring Boot, Quarkus/Microprofile) und JavaScript (React) implementiert.
+_(click for details and training contents)_
 
-### Lernziele
+---
 
-* Wie wird Keycloak im Container und Cluster betrieben und konfiguriert?
-* Wie werden externe Identity Provider eingebunden?
-* Wie kann der Authentifizierungs-Flow an eigene Bedürfnisse angepasst werden?
-* Wie wird eine sichere Authentifizierung mit Keycloak in Java- und JavaScript-basierte Anwendungen integriert?
+### Public trainings
 
-### Agenda
-
-* Keycloak-Betrieb als Docker-Container mit separater Datenbank
-* Keycloak-Konfiguration für einen Cluster-Betrieb
-* Konfiguration von externen Identity Providern (Azure AD, Social Provider)
-* Konfiguration von angepassten Authentifizierungs-Flows mit der Nutzung einer eigenen 2FA Lösung
-* Absicherung von Java-Anwendungen am Beispiel von Spring Boot und Quarkus
-* Absicherung einer JavaScript-Anwendung am Beispiel von React.JS
-
-### Technische Anforderungen
-
-* Notebook/Laptop
-* min. JDK 8 oder 11
-* Maven & Git mit Zugriff auf das Internet
-* Java-Entwicklungsumgebung (IDE) nach Wahl
-* Docker und Docker Compose installiert und lauffähig (ggf. lokale Admin-Rechte auf dem Rechner erteilen)
-* optional für das JavaScript (React) Beispiel: NodeJS und NPM (oder Yarn) mit Zugriff auf das Internet
-* für den Zugriff auf das Internet bitte ggf. Proxy-/Firewall-/VPN-Konfigurationen etc. überprüfen
-
-### Termine
-
-* 21.09.2021: [IT Security Summit 2021, Berlin](https://it-security-summit.de/it-security-summit/authentifizierung-einfach-und-sicher-gemacht-mit-keycloak-teil-1/)
-* 11.10.2021: [heise devSec Workshop](https://www.heise-devsec.de/veranstaltung-13388-0-authentifizierung-einfach-und-sicher-gemacht-mit-keycloak.html)
-* 12.11.2021: [W-JAX 2021](https://jax.de/performance-security/workshop-authentifizierung-einfach-und-sicher-gemacht-mit-keycloak-iam-und-sso/)
+* 11.10.2021: [Keycloak IAM & SSO - Authentifizierung einfach und sicher gemacht (heise devSec Workshop)](https://www.heise-devsec.de/veranstaltung-13388-0-authentifizierung-einfach-und-sicher-gemacht-mit-keycloak.html) (Remote/Online)
+* 08.11.2021: [Quarkus Serverless: Let's get funqy - Serverless Java für die Praxis (W-JAX 2021)](https://jax.de/serverside-enterprise-java/quarkus-workshop-lets-get-funqy-serverless-java-fuer-die-praxis/) (Remote/Online)
+* 12.11.2021: [Keycloak IAM & SSO - Authentifizierung einfach und sicher gemacht (W-JAX 2021)](https://jax.de/performance-security/workshop-authentifizierung-einfach-und-sicher-gemacht-mit-keycloak-iam-und-sso/) (Remote/Online)
