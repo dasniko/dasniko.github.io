@@ -250,8 +250,8 @@
   url: https://www.jax.de
 - title: IT Security Summit (Keycloak Workshop)
   location: Online
-  start: 2021-05-21
-  end: 2021-05-21
+  start: 2021-09-21
+  end: 2021-09-21
   url: https://it-security-summit.de/it-security-summit/authentifizierung-einfach-und-sicher-gemacht-mit-keycloak-teil-1/
 - title: betterCode Keycloak Workshop
   location: Online (sold out)
@@ -263,3 +263,33 @@
   start: 2021-06-10
   end: 2021-06-10
   url: https://api.bettercode.eu/lecture_compact1.php?id=13002&source=0
+- title: enterJS
+  location: Online
+  start: 2021-09-29
+  end: 2021-09-20
+  url: https://enterjs.de
+- title: //heise devSec()
+  location: Online
+  start: 2021-10-05
+  end: 2021-10-06
+  url: https://www.heise-devsec.de
+- title: //heise devSec() Keycloak Workshop
+  location: Online
+  start: 2021-10-11
+  end: 2021-10-11
+  url: https://www.heise-devsec.de/veranstaltung-13388-0-authentifizierung-einfach-und-sicher-gemacht-mit-keycloak.html
+- title: W-JAX 2021
+  location: Online
+  start: 2021-11-08
+  end: 2021-11-12
+  url: https://www.jax.de
+- title: IT-Tage 2021 Remote
+  location: Online
+  start: 2021-12-06
+  end: 2021-12-09
+  url: https://www.ittage.informatik-aktuell.de
+- title: JavaLand 2022
+  location: Phantasialand, Cologne, Germany
+  start: 2022-03-15
+  end: 2022-03-17
+  url: https://www.javaland.eu
