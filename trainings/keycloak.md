@@ -29,7 +29,7 @@ Als "Betriebsumgebung" verwenden wir eine lokale Docker-Compose Installation, um
 
 * Keycloak-Betrieb als Docker-Container mit separater Datenbank
 * Keycloak-Konfiguration für einen Cluster-Betrieb
-* Konfiguration von externen Identity Providern (Azure AD, Social Provider)
+* Konfiguration von externen Identity Providern (Azure AD, Social Provider) und User Federation (Storage)
 * Konfiguration von angepassten Authentifizierungs-Flows mit der Nutzung einer eigenen 2FA Lösung
 * Absicherung von Java-Anwendungen am Beispiel von Spring Boot und Quarkus
 * Absicherung einer JavaScript-Anwendung am Beispiel von React.JS
@@ -37,12 +37,14 @@ Als "Betriebsumgebung" verwenden wir eine lokale Docker-Compose Installation, um
 ### Technische Anforderungen
 
 * Notebook/Laptop
-* min. JDK 11
-* Maven & Git mit Zugriff auf das Internet
-* Java-Entwicklungsumgebung (IDE) nach Wahl
+* Texteditor
 * Docker und Docker Compose installiert und lauffähig (ggf. lokale Admin-Rechte auf dem Rechner erteilen)
-* optional für das JavaScript (React) Beispiel: NodeJS und NPM (oder Yarn) mit Zugriff auf das Internet
 * für den Zugriff auf das Internet bitte ggf. Proxy-/Firewall-/VPN-Konfigurationen etc. überprüfen
+* Optional:
+  * JDK 11+
+  * Maven & Git mit Zugriff auf das Internet
+  * Java-Entwicklungsumgebung (IDE) nach Wahl
+  * für das JavaScript (React) Beispiel: NodeJS und NPM (oder Yarn) mit Zugriff auf das Internet
 
 ### Öffentliche Termine
 

@@ -25,7 +25,7 @@ Damit Du aktiv alle Beispiele mitprogrammieren kannst und so den größten Nutze
     - `docker pull amazon/aws-sam-cli-emulation-image-provided:latest`
     - `docker pull amazon/aws-sam-cli-emulation-image-java11:latest`
     - `docker pull amazon/dynamodb-local:latest`
-* **AWS-Konto + Credentials (siehe unten)**
+* **AWS-Konto + Credentials <span class="bg-danger text-white">(siehe unten)</span>**
 * AWS CLI
   * [https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html)
   * Installation und Konfiguration der Credentails: [https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html)
