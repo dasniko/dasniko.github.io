@@ -16,7 +16,6 @@ Damit Du aktiv alle Beispiele mitprogrammieren kannst und so den größten Nutze
 * HTTP Client nach Wahl (curl, Postman, Insomnia, in der IDE integrierte HTTP Clients, ...)
 * JDK 11+
 * Maven 3.8.1+  
-  (Gradle, wenn Du Dich damit auskennst, ich gehe darauf _nicht_ im Workshop ein)
 * Docker
   * lauffähig, ggf. lokale Admin-Rechte auf dem Rechner erteilen (lassen)!
   * am Besten, um während des Workshops Zeit zu sparen und weil es mutable Tags gibt, _am Tag oder am Morgen vor dem Workshop_ folgende Docker `pull` Befehle ausführen:
@@ -43,12 +42,14 @@ Hierfür benötigst Du ein AWS-Account mit den nötigen Rechten.
 Eine Anleitung zur Konfiguration Deines Rechners bzw. Deines CLI findest Du in den o.g. Links.
 Der Einfachheit halber empfehle ich für den Workshop ein Zugang mit _Admin-Rechten_ im jeweiligen AWS-Konto.  
 
-Du kannst gerne Dein _eigenes_ AWS-Konto verwenden, wenn Du eines hast und dieses verwenden möchtest.
+Falls Du kein eigenes AWS-Konto hast oder nutzen kannst, kann ich Dir für den Workshop gerne einen Zugang zu meinem Trainings-Account zur Verfügung stellen.
+Fülle hierzu einfach folgendes Formular aus, Du erhältst dann automatisch eine E-Mail mit Deinen persönlichen Credentials:
+
+<iframe src="https://0opiiw2svc.execute-api.eu-central-1.amazonaws.com/cred" frameborder="0" width="100%" height="300" marginheight="0" marginwidth="0"></iframe>
+
+---
+
+Du kannst aber auch gerne Dein _eigenes_ AWS-Konto verwenden, wenn Du eines hast und dieses verwenden möchtest.
 Wenn Du noch kein eigenes AWS-Konto hast, Dir aber eines erstellen möchtest, kannst Du das hier tun: [https://aws.amazon.com](https://aws.amazon.com).  
 Die ggf. im und während des Workshops anfallenden Kosten für die Nutzung der AWS-Services und -Ressourcen musst Du selbst tragen.
 Voraussichtlich werden diese sehr gering bleiben und sich in einem niedrigen Cent-Bereich bewegen, wenn überhaupt.
-
-Falls Du kein eigenes AWS-Konto hast oder nutzen kannst, kann ich Dir für den Workshop gerne einen Zugang zu meinem Trainings-Account zur Verfügung stellen.
-Fülle hierzu einfach folgendes Formular aus, Du erhälst dann automatisch eine E-Mail mit Deinen persönlichen Credentials:
-
-<iframe src="https://0opiiw2svc.execute-api.eu-central-1.amazonaws.com/cred" frameborder="0" width="100%" height="300" marginheight="0" marginwidth="0"></iframe>
