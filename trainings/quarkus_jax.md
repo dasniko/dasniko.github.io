@@ -21,8 +21,8 @@ Damit Du aktiv alle Beispiele mitprogrammieren kannst und so den größten Nutze
   * am Besten, um während des Workshops Zeit zu sparen und weil es mutable Tags gibt, _am Tag oder am Morgen vor dem Workshop_ folgende Docker `pull` Befehle ausführen:
     - `docker pull quay.io/quarkus/ubi-quarkus-native-image:21.2-java11`
     - `docker pull registry.access.redhat.com/ubi8/ubi-minimal:8.4`
-    - `docker pull amazon/aws-sam-cli-emulation-image-provided:latest`
-    - `docker pull amazon/aws-sam-cli-emulation-image-java11:latest`
+    - `docker pull public.ecr.aws/sam/emulation-provided:latest`
+    - `docker pull public.ecr.aws/sam/emulation-java11:latest`
     - `docker pull amazon/dynamodb-local:latest`
 * **AWS-Konto + Credentials <span class="bg-danger text-white">(siehe unten)</span>**
 * AWS CLI
