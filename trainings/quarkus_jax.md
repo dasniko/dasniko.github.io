@@ -2,6 +2,7 @@
 layout: page
 title: Quarkus Serverless Training/Workshop @ W-JAX 2021
 permalink: /trainings/quarkus/jax
+published: false
 ---
 
 ## Hallo,

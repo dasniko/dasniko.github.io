@@ -4,8 +4,6 @@ title: Quarkus Serverless Training/Workshop
 permalink: /trainings/quarkus
 ---
 
-<a href="/trainings/quarkus/jax" class="btn btn-info my-5">Teilernehmer des W-JAX Quarkus-Workshops klicken bitte hier!</a>
-
 In Cloud-, Container- und Service-basierten Umgebungen mit der Anforderung, schnell die Anzahl der in Produktion befindlichen Instanzen hoch und runter zu skalieren, kommt es auf jede Millisekunde an. Die sogenannte First-Response-Time, also die Zeit, von der Intialisierung des Services oder des Containers bis zur Antwort an den anfragenden Client, ist entscheidend. Zusätzlich soll das Ganze auch noch so "ressourcenschonend" wie möglich sein. Mit Ressourcen ist meist der Speicher gemeint. Das alles ist in Java-basierten Umgebungen meist nicht so einfach und ohne Weiteres zu erreichen.
 
 Quarkus springt in diese Nische und verspricht Abhilfe, sowohl was die Boot- und First-Response-Time angeht, als auch die Minimierung des Speicherverbrauchs. Auch wenn sich Quarkus als "Supersonic Subatomic Java" bezeichnet, geht das Framework noch einen Schritt weiter und optimiert die Zahlen weiter indem es die Kompilierung als natives Artefakt mittels der GraalVM deutlich vereinfacht. Perfekt also für den Einsatz in Containern.
