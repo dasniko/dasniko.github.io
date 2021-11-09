@@ -49,4 +49,5 @@ Als "Betriebsumgebung" verwenden wir eine lokale Docker-Compose Installation, um
 ### Öffentliche Termine
 
 * 12.11.2021: [W-JAX 2021](https://jax.de/performance-security/workshop-authentifizierung-einfach-und-sicher-gemacht-mit-keycloak-iam-und-sso/) (Remote/Online)
+* 17.03.2022: [JavaLand Workshop, Phantasialand, Brühl/Köln](https://www.javaland.eu/)
 * _und auf Anfrage_
