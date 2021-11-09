@@ -26,6 +26,5 @@ _(click for details and training contents)_
 
 ### Public trainings
 
-* 11.10.2021: [Keycloak IAM & SSO - Authentifizierung einfach und sicher gemacht (heise devSec Workshop)](https://www.heise-devsec.de/veranstaltung-13388-0-authentifizierung-einfach-und-sicher-gemacht-mit-keycloak.html) (Remote/Online)
-* 08.11.2021: [Quarkus Serverless: Let's get funqy - Serverless Java für die Praxis (W-JAX 2021)](https://jax.de/serverside-enterprise-java/quarkus-workshop-lets-get-funqy-serverless-java-fuer-die-praxis/) (Remote/Online)
 * 12.11.2021: [Keycloak IAM & SSO - Authentifizierung einfach und sicher gemacht (W-JAX 2021)](https://jax.de/performance-security/workshop-authentifizierung-einfach-und-sicher-gemacht-mit-keycloak-iam-und-sso/) (Remote/Online)
+* _and additionally on request_

@@ -48,5 +48,5 @@ Als "Betriebsumgebung" verwenden wir eine lokale Docker-Compose Installation, um
 
 ### Öffentliche Termine
 
-* 11.10.2021: [heise devSec Workshop](https://www.heise-devsec.de/veranstaltung-13388-0-authentifizierung-einfach-und-sicher-gemacht-mit-keycloak.html) (Remote/Online)
 * 12.11.2021: [W-JAX 2021](https://jax.de/performance-security/workshop-authentifizierung-einfach-und-sicher-gemacht-mit-keycloak-iam-und-sso/) (Remote/Online)
+* _und auf Anfrage_

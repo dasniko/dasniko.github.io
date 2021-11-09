@@ -29,4 +29,4 @@ Im Workshop wird die AWS-Cloud genutzt, um dort hin Services zu deployen. Teilne
 
 ## Öffentliche Termine
 
-* 08.11.2021: [W-JAX 2021](https://jax.de/serverside-enterprise-java/quarkus-workshop-lets-get-funqy-serverless-java-fuer-die-praxis/) (Remote/Online)
+_auf Anfrage_
