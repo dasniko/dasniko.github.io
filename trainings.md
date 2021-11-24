@@ -26,6 +26,5 @@ _(click for details and training contents)_
 
 ### Public trainings
 
-* 12.11.2021: [Keycloak IAM & SSO - Authentifizierung einfach und sicher gemacht (W-JAX 2021)](https://jax.de/performance-security/workshop-authentifizierung-einfach-und-sicher-gemacht-mit-keycloak-iam-und-sso/) (Remote/Online)
 * 17.03.2022: [Keycloak IAM & SSO - Authentifizierung einfach und sicher gemacht (JavaLand Workshop)](https://www.javaland.eu/) (Phantasialand, Brühl/Cologne)
 * _and additionally on request_
