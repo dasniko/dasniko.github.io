@@ -28,9 +28,7 @@ In comparison to the first version, the current one is much better.
 Also, I got very much, good and valuable feedback from my reviewers Eberhard Wolff ([@ewolff](https://twitter.com/ewolff)), Jörn Hameister ([@hameiste](https://twitter.com/hameiste)), Michael Simons ([@rotnroll666](https://twitter.com/rotnroll666) - he is currently writing the upcoming [Spring Boot Buch](http://springbootbuch.de/)), Frank Munz ([@frankmunz](https://twitter.com/frankmunz)) and Michael Buchholz (who hasn't a twitter account yet, but why?).
 Thank you so much! This is really priceless!
 
-<a href="#" data-featherlight="/images/serverlessbook_ad.jpg">
-  <img src="/images/serverlessbook_ad.jpg" class="postimg left"/>
-</a>
+<img src="/images/serverlessbook_ad.jpg" class="postimg left"/>
 As you can see here and on [serverlessbuch.de](http://serverlessbuch.de), the decision of the cover is already done.
 I'm very happy with this version and like it very much.
 It's _above the clouds_ and there are _no servers around ;-)_

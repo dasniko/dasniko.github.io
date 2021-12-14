@@ -5,6 +5,7 @@ tags:
 - sso
 - security
 - api
+thumbnail: /images/keycloak_admin_web_console.png
 ---
 
 Did you know that there are multiple ways to manage your [Keycloak SSO](http://www.keycloak.org) system?
@@ -12,7 +13,6 @@ Did you know that there are multiple ways to manage your [Keycloak SSO](http://w
 
 ## 1. Keycloak Admin Web Console
 
-<a href="#" data-featherlight="/images/keycloak_admin_web_console.png"><img src="/images/keycloak_admin_web_console.png" alt="Keycloak Admin Web Console" class="postimg"/></a>
 This is probably the most known possibility to manage your Keycloak installation: the _Admin Web Console_.
 If you install Keycloak the first time, you'll get in contact with it.
 

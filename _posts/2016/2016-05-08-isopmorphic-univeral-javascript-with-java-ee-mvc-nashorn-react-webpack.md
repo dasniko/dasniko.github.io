@@ -12,7 +12,6 @@ tags:
 thumbnail: /images/bookbox_app.png
 ---
 
-<a href="#" data-featherlight="{{ page.thumbnail }}"><img src="{{ page.thumbnail }}" class="postimg"/></a>
 So, React.JS is the current hype in web development!
 And with the server-side rendering option, it's easy to write isomorphic/universal JavaScript applications:
 Applications that run the **same code on client- and server-side** for rendering the proper artifacts.
@@ -20,8 +19,7 @@ Sometimes, I call it the new _write once, run everywhere_ paradigm...
 
 Additionally, there's the new action based [MVC framework coming for Java EE 8][mvc], which allows not only to write cool applications, but also writing own `ViewEngines` for the rendering framework/library/technique of your choice. Together with **Nashorn**, this becomes a perfect fit for _rendering React Templates on the server side on a Java (EE) server,_ integrate and interact with your Java objects, and sending it then to the browser clients, where the application can continue working with pure JavaScript:
 
-<div class="github-card" data-github="dasniko/ozark-react" data-width="400" data-height="177" data-theme="default"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+[![dasniko/ozark-react - GitHub](https://gh-card.dev/repos/dasniko/ozark-react.svg)](https://github.com/dasniko/ozark-react)
 
 The `ReactViewEngine` implementation is done for the [Ozark][ozark] reference implmentation, but has no direct/hard dependencies to Ozark packages, so it can be used together with any other [JSR-371][jsr371] implementation (as soon as there are some available).
 
@@ -41,7 +39,7 @@ All the [JSX files][jsxFiles] will be packaged by Webpack during build to the ap
 
 Last but not least, there's the HTML template [`react.jsp`][reactJsp] (for the ease of use, I took a JSP) which provides the HTML skeleton for the needed resources in the browser. Mainly the `<div>` element where to put the rendered content by React (and some other resources we need to get a nice looking webapp, like CSS and something similar).
 
-The result is the web application you can see in the <a href="#" data-featherlight="{{ page.thumbnail }}">screenshot</a> at the top of this post. That's it, no magic, just the proper use of technologies which fit together very well.
+The result is the web application you can see in the screenshot at the top of this post. That's it, no magic, just the proper use of technologies which fit together very well.
 
 
 ### A word on Isomorphic vs. Universal

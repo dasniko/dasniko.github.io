@@ -49,10 +49,6 @@ Just define a few _Intents_ and _Slots_ for getting the spoken user input as dat
 Forward it to a AWS Lambda function and create a response.
 Alexa will read it out to you!
 
-I've made a short video (german language) of my example:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4fS9Dpifq5s" frameborder="0" allowfullscreen></iframe>
-
 Link to the repository: [`serverlessbuch/alexaskill`](https://github.com/serverlessbuch/alexaskill)
 
 

@@ -13,7 +13,6 @@ Yesterday I gave my second talk at this years [W-JAX conference](http://jax.de) 
 I was positively surprised to have that many attendees, I didn't expect that. But this tells me that there is big interest in modern Cloud topics, and that's good to know!
 
 <blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Microservices?src=hash">#Microservices</a> mit AWS <a href="https://twitter.com/hashtag/Lambda?src=hash">#Lambda</a> <a href="https://twitter.com/dasniko">@dasniko</a> liefert Details <a href="https://t.co/bAsz07JLi3">pic.twitter.com/bAsz07JLi3</a></p>&mdash; JAXCON (@jaxcon) <a href="https://twitter.com/jaxcon/status/796385078599446529">9. November 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 This talk was also recorded, as already my [Keycloak SSO](http://www.n-k.de/2016/11/sso-with-keycloak-at-jaxcon-video.html) talk was, but it isn't published yet. I'll post the video as soon it's available.
 Additionally I hope to give a Workshop or a kind of a Hands-on Lab at the next JAX conference. Keep your fingers crossed!

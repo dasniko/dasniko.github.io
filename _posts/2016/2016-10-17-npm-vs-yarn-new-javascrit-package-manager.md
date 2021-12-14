@@ -29,7 +29,6 @@ So, the second run (again with deleted `node_modules` folder) with Yarn resultet
 That's pretty impressive! Wow! Fast!
 
 <blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr">npm install: 1:53m<br>yarn: 1:39 (1st time)<br>yarn: 18s (2nd time)<br><br>😀👍 <a href="https://twitter.com/hashtag/yarn?src=hash">#yarn</a></p>&mdash; Niko Köbler (@dasniko) <a href="https://twitter.com/dasniko/status/786883060138647552">14. Oktober 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Oh, yes, of course you can use the same NPM repository as before, Yarn is able to use it!
 

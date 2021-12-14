@@ -21,7 +21,6 @@ Let's start with the [Jax conference](https://jax.de).
 I started my activites on the second day (at the first day I just attended some sessions and had great conversations) with my _Serverless hands-on lab._
 
 <blockquote class="twitter-tweet" data-lang="de"><p lang="de" dir="ltr"><a href="https://twitter.com/hashtag/HTTP?src=hash">#HTTP</a> <a href="https://twitter.com/hashtag/Requests?src=hash">#Requests</a> auf Funktionen mappen, ohne einen <a href="https://twitter.com/hashtag/Webserver?src=hash">#Webserver</a> zu betreiben? <a href="https://twitter.com/dasniko">@dasniko</a> hat uns dies u.a. auf der <a href="https://twitter.com/hashtag/JAXcon2017?src=hash">#JAXcon2017</a> gezeigt! <a href="https://t.co/eMjfZtXStJ">pic.twitter.com/eMjfZtXStJ</a></p>&mdash; JAXCON (@jaxcon) <a href="https://twitter.com/jaxcon/status/868036607206666240">26. Mai 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Unfortunately the wi-fi connection was very bad this year, so we had some problems doing a cloud-workshop without any internet connection.
 So I had to talk more than planned and showed more examples than doing them all together.
@@ -30,7 +29,7 @@ However, the participants who stayed until end of the workshop gave me good feed
 In the afternoon I gave my session about _Serverless Computing_ which was also recorded.
 Happily I didn't need to rely on wi-fi b/c there was a LAN cable available.
 
-<iframe src="https://player.vimeo.com/video/217622142" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/217622142?dnt=1" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 At the third day I gave my session about Security, SSO and IAM for web-based APIs.
 It was scheduled in the main conference hall where approx. 800 ppl will fit in.
@@ -39,7 +38,6 @@ Also afterwards I had many good discussions about SSO and IAM.
 Seems that this topic will follow me quite a time. :)
 
 <blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr">Security &amp; Single-Sign-On for Web APIs <br><br>Interesting talk from <a href="https://twitter.com/dasniko">@dasniko</a> at the <a href="https://twitter.com/hashtag/jaxcon?src=hash">#jaxcon</a> about OAuth 2.0 and OpenID Connect <a href="https://t.co/sx5atsmW6o">pic.twitter.com/sx5atsmW6o</a></p>&mdash; Joy Clark (@iamjoyclark) <a href="https://twitter.com/iamjoyclark/status/862606269454176257">11. Mai 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 This was also the first time that I know that an attendee made a sketch note of my talk.
 Thanks [Joy Clark](https://twitter.com/iamjoyclark)!

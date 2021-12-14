@@ -20,7 +20,6 @@ As I ended the january wrap-up with the teaser to my [OOP conference](http://www
 Upfront, I was skeptical if a talk on cutting-edge technology like serverless is, will work at a conference like OOP, because
 
 <blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr">architect is a title for senior people: is a nice way to say you are old <a href="https://twitter.com/KevlinHenney">@KevlinHenney</a> at <a href="https://twitter.com/hashtag/oop2017?src=hash">#oop2017</a></p>&mdash; Yves Hanoulle (@YvesHanoulle) <a href="https://twitter.com/YvesHanoulle/status/826474764055224325">31. Januar 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 However, it turned out that also people at OOP are curious and so I counted approx. 100 people listening to me at 9am (I expected at max. 30-40 ppl.). Feedback was good, so I was happy.
 
@@ -49,7 +48,7 @@ I'm offering this community activity again, the second time after last year.
 It is really fun to ask for as small as possible code solutions for some tasks.
 Last year, people really tried to get rid off even the very last possible chars.
 
-The downside was, that I had to compile and test the code samples all on my own and I didn't provide a test-suite people could use to verify their results. 
+The downside was, that I had to compile and test the code samples all on my own and I didn't provide a test-suite people could use to verify their results.
 This will change this year!
 All participants can submit their solutions via an online application which will compile and run the code against a test-suite, giving immediate feedback to the submitter.
 Of course, I'm using cloud technologies and even _AWS Lambda_ functions for executing the code in a "safe" environment, not crashing my main app.

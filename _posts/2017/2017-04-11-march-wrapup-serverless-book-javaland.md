@@ -58,7 +58,6 @@ Hopefully the book will be released in autumn.
 For those of you who can't or don't want to wait until release, there's a Twitter account for the book:
 
 <blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr">If you are interested in <a href="https://twitter.com/hashtag/serverless?src=hash">#serverless</a> computing, you should follow my new Twitter handle for my upcoming book <a href="https://twitter.com/serverlessbuch">@serverlessbuch</a></p>&mdash; Niko Köbler ☁️ (@dasniko) <a href="https://twitter.com/dasniko/status/846785922729463809">28. März 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Don't hesitate to follow the [**@serverlessbuch**](https://twitter.com/serverlessbuch) account, where I tweet about serverless cloud dev and the book in english but also in german.
 Additionally, I made also a first version of the accompanying website [**serverlessbuch.de**](http://serverlessbuch.de) (where so far is nothing to see).  

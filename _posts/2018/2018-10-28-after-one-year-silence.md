@@ -59,5 +59,3 @@ And as a good completion of this trip, I will give a talk at [JUG Singapore](htt
 
 So, expect more from me again in 2019.  
 _I'll be back!_
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
