@@ -32,9 +32,10 @@
 {% endif %}
 
 {% if page.thumbnail %}
-<meta property="og:image" content="{{ site.url }}{{ page.thumbnail }}">
-<meta property="og:image:secure_url" content="{{ site.url }}{{ page.thumbnail }}">
-<meta property="twitter:image" content="{{ site.url }}{{ page.thumbnail }}">
+{% capture base_url %}{% if page.thumbnail contains 'https://' %}{% else %}{{ site.url }}{% endif %}{% endcapture %}
+<meta property="og:image" content="{{ base_url }}{{ page.thumbnail }}">
+<meta property="og:image:secure_url" content="{{ base_url }}{{ page.thumbnail }}">
+<meta property="twitter:image" content="{{ base_url }}{{ page.thumbnail }}">
 {% else %}
 <meta property="og:image" content="{{ site.url }}{{ site.avatar }}">
 <meta property="og:image:secure_url" content="{{ site.url }}{{ site.avatar }}">
