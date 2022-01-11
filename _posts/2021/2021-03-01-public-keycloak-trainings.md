@@ -13,9 +13,9 @@ In cooperation with two leading public training providers, I offer a public one-
 * ~~June, 2nd, 2021: [betterCode Workshop](https://api.bettercode.eu/lecture_compact1.php?id=12885&source=0) (sold out!)~~
 * ~~June, 10th, 2021: [betterCode Workshop](https://api.bettercode.eu/lecture_compact1.php?id=13002&source=0)~~
 
-* 21.09.2021: [IT Security Summit 2021, Berlin](https://it-security-summit.de/it-security-summit/authentifizierung-einfach-und-sicher-gemacht-mit-keycloak-teil-1/)
-* 11.10.2021: [heise devSec Workshop](https://www.heise-devsec.de/veranstaltung-13388-0-authentifizierung-einfach-und-sicher-gemacht-mit-keycloak.html)
-* 12.11.2021: [W-JAX 2021](https://jax.de/performance-security/workshop-authentifizierung-einfach-und-sicher-gemacht-mit-keycloak-iam-und-sso/)
+* ~~21.09.2021: [IT Security Summit 2021, Berlin](https://it-security-summit.de/it-security-summit/authentifizierung-einfach-und-sicher-gemacht-mit-keycloak-teil-1/)~~
+* ~~11.10.2021: [heise devSec Workshop](https://www.heise-devsec.de/veranstaltung-13388-0-authentifizierung-einfach-und-sicher-gemacht-mit-keycloak.html)~~
+* ~~12.11.2021: [W-JAX 2021](https://jax.de/performance-security/workshop-authentifizierung-einfach-und-sicher-gemacht-mit-keycloak-iam-und-sso/)~~
 
 The agenda will be of the following:
 

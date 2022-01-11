@@ -49,4 +49,5 @@ Als "Betriebsumgebung" verwenden wir eine lokale Docker-Compose Installation, um
 ### Öffentliche Termine
 
 * 17.03.2022: [JavaLand Workshop, Phantasialand, Brühl/Köln](https://www.javaland.eu/)
+* 02.05.2022: [JAX 2022 Workshop, Mainz/Online](https://jax.de/performance-security/workshop-authentifizierung-einfach-und-sicher-gemacht-mit-keycloak-iam-und-sso/)
 * _und auf Anfrage_
