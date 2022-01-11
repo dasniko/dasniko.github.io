@@ -7,7 +7,6 @@ tags:
 - video
 thumbnail: https://i.ytimg.com/vi_webp/KXZ9JDcSHU0/maxresdefault.webp
 youtube: KXZ9JDcSHU0
-published: false
 ---
 
 Keycloak has some built-in and default _Required Actions_, which are executed upon authentication of a user.
