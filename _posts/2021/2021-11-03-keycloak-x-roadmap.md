@@ -37,4 +37,3 @@ Most parts are about configuration.
 
 With release of Keycloak 17 and thus the first supported Keycloak-X release, I'm available for migration and consulting support.
 I'll do my very best to support you, your team and your company!
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/dasniko'});return false;">Just get in touch with me!</a>
