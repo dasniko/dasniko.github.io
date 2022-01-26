@@ -8,7 +8,6 @@ tags:
 - video
 thumbnail: https://i.ytimg.com/vi_webp/eZYGLuUrUp4/maxresdefault.webp
 youtube: eZYGLuUrUp4
-published: false
 ---
 
 Keycloak has the OIDC authentication endpoints and also the [Admin REST API](/2016/08/keycloak-admin-client.html) endpoints to manage the server as an administrator (and also the admin UI makes use of this).
