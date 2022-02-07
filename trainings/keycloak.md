@@ -10,7 +10,9 @@ thumbnail: /images/keycloak_training.png
 
 Keycloak hat sich mittlerweile als eines der meist genutzten Authentifzierungs- und Identity- & Access-Management (IAM) Systeme in Unternehmen etabliert. Ganz gleich ob für klassische Enterprise-Anwendungen, moderne Single-Page-Apps oder Microservice-Architekturen, unterstützt Keycloak doch beide gängigen Protokolle SAML und OIDC (OpenID-Connect).
 
-In diesem Workshop schauen wir uns an, wie Keycloak redundant in einem Cluster betrieben werden kann und binden externe, ggf. bereits im Unternehmen vorhandene Identity Provider (wie z.B. Azure Active Directory oder Social Provider) ein. Weiterhin Implementieren und Integrieren wir eine eigene 2-Faktor Authentifizierung und sichern eine Spring Boot basierte Anwendung, einen Quarkus-Service und eine Single-Page-Applikation auf Basis von React ab, um dort mit authentifizierten Zugriffen arbeiten zu können.
+In diesem Workshop schauen wir uns an, wie Keycloak redundant in einem Cluster betrieben werden kann und binden externe, ggf. bereits im Unternehmen vorhandene Identity Provider (wie z.B. Azure Active Directory oder Social Provider) ein. Weiterhin integrieren wir eine eigene 2-Faktor Authentifizierung und sichern eine Spring Boot basierte Anwendung, einen Quarkus-Service und eine Single-Page-Applikation auf Basis von React ab, um dort mit authentifizierten Zugriffen arbeiten zu können.
+
+Dieser Workshop behandelt (auch) die neuen Besonderheiten der Quarkus-basierten Keycloak-Architektur.
 
 ### Vorkenntnisse und Zielgruppe
 
