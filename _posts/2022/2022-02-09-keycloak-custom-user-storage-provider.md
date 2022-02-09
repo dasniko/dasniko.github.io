@@ -1,5 +1,5 @@
 ---
-title: Keycloak Implementing Custom User Storage Provider
+title: KEYCLOAK Implementing Custom User Storage Provider
 tags:
 - keycloak
 - oidc
@@ -7,7 +7,6 @@ tags:
 - video
 thumbnail: https://i.ytimg.com/vi_webp/1UklqPPjcRY/maxresdefault.webp
 youtube: 1UklqPPjcRY
-published: false
 ---
 
 Keycloak stores by default the users data in its own database.
