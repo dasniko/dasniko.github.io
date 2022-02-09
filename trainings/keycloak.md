@@ -12,7 +12,7 @@ Keycloak hat sich mittlerweile als eines der meist genutzten Authentifzierungs- 
 
 In diesem Workshop schauen wir uns an, wie Keycloak redundant in einem Cluster betrieben werden kann und binden externe, ggf. bereits im Unternehmen vorhandene Identity Provider (wie z.B. Azure Active Directory oder Social Provider) ein. Weiterhin integrieren wir eine eigene 2-Faktor Authentifizierung und sichern eine Spring Boot basierte Anwendung, einen Quarkus-Service und eine Single-Page-Applikation auf Basis von React ab, um dort mit authentifizierten Zugriffen arbeiten zu können.
 
-Dieser Workshop behandelt (auch) die neuen Besonderheiten der Quarkus-basierten Keycloak-Architektur.
+Dieser Workshop behandelt (auch) die neuen Besonderheiten der Quarkus-basierten Keycloak(X)-Architektur.
 
 ### Vorkenntnisse und Zielgruppe
 
