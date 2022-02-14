@@ -4,7 +4,7 @@ tags:
 - keycloak
 - authentication
 - training
-thumbnail: /images/keycloak_training.png
+thumbnail: /images/keycloak_wallpaper.png
 ---
 
 In cooperation with two leading public training providers, I offer a public one-day Keycloak online training at theses dates:

@@ -2,7 +2,7 @@
 layout: page
 title: Keycloak IAM & SSO Training/Workshop
 permalink: /trainings/keycloak
-thumbnail: /images/keycloak_training.png
+thumbnail: /images/keycloak_wallpaper.png
 ---
 
 <img src="{{ page.thumbnail }}" class="postimg"/>

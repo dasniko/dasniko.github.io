@@ -5,7 +5,6 @@ tags:
 - keycloak
 - quarkus
 - authentication
-# thumbnail: /images/keycloak_training.png
 ---
 
 With October 28th 2021, the Keycloak project [announced](https://www.keycloak.org/2021/10/keycloak-x-update.html) a new roadmap for existing Keycloak distributions (Wildfly-based) and the new Keycloak-X distribution (Quarkus-based):
