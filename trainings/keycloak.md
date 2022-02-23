@@ -50,8 +50,16 @@ Als "Betriebsumgebung" verwenden wir eine lokale Docker-Compose Installation, um
 
 ### Öffentliche Termine
 
-* 17.03.2022: [JavaLand Workshop, Phantasialand, Brühl/Köln](https://www.javaland.eu/)
-* 02.05.2022: [JAX 2022 Workshop, Mainz/Online](https://jax.de/performance-security/workshop-authentifizierung-einfach-und-sicher-gemacht-mit-keycloak-iam-und-sso/)
-* 17.05.2022: [IT Security Summit 2022, München](https://it-security-summit.de/it-security-summit/authentifizierung-einfach-und-sicher-gemacht-mit-keycloak-teil-1/)
-* 18.05.2022: [betterCode() Workshop, Online](https://api.bettercode.eu/veranstaltung-14096-se-0-authentifizierung-einfach-und-sicher-gemacht-mit-keycloak.html)
-* _und auf Anfrage_
+<ul>
+{% capture now %}{{ 'now' | date: '%Y-%m-%d' }}{% endcapture %}
+{% for training in site.data.trainings %}
+  {% capture trDate %}{{ training.date | date: '%Y-%m-%d' }}{% endcapture %}
+  {% if trDate > now and training.type == 'keycloak' %}
+  <li>
+    {{ training.date | date: '%d.%m.%Y' }}:
+    <a href="{{ training.url }}" target="_blank">{{ training.name}}, {{ training.location }}</a>
+  </li>
+  {% endif %}
+{% endfor %}
+<li><em>und auf Anfrage</em></li>
+</ul>

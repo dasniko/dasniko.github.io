@@ -26,8 +26,17 @@ _(click for details and training contents)_
 
 ### Public trainings
 
-* 17.03.2022: [Keycloak IAM & SSO - Authentifizierung einfach und sicher gemacht (JavaLand Workshop)](https://www.javaland.eu/) (Phantasialand, Brühl/Cologne)
-* 02.05.2022: [Keycloak IAM & SSO - Authentifizierung einfach und sicher gemacht (JAX Workshop)](https://jax.de/performance-security/workshop-authentifizierung-einfach-und-sicher-gemacht-mit-keycloak-iam-und-sso/) (Mainz / Online)
-* 17.05.2022: [Keycloak IAM & SSO - Authentifizierung einfach und sicher gemacht (IT Security Summit 2022)](https://it-security-summit.de/it-security-summit/authentifizierung-einfach-und-sicher-gemacht-mit-keycloak-teil-1/) (Munich)
-* 18.05.2022: [Keycloak IAM & SSO - Authentifizierung einfach und sicher gemacht (betterCode() Workshop)](https://api.bettercode.eu/veranstaltung-14096-se-0-authentifizierung-einfach-und-sicher-gemacht-mit-keycloak.html) (Online)
-* _and additionally on request_
+<ul>
+{% capture now %}{{ 'now' | date: '%Y-%m-%d' }}{% endcapture %}
+{% for training in site.data.trainings %}
+  {% capture trDate %}{{ training.date | date: '%Y-%m-%d' }}{% endcapture %}
+  {% if trDate > now %}
+  <li>
+    {{ training.date | date: '%d.%m.%Y' }}:
+    <a href="{{ training.url }}" target="_blank">{{ training.title }} ({{ training.name}})</a>
+    ({{ training.location }})
+  </li>
+  {% endif %}
+{% endfor %}
+<li><em>and additionally on request</em></li>
+</ul>
