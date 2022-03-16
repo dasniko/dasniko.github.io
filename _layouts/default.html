@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }} – {{ site.tagline }}</title>
 
     {% include meta.html %}
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - {{ site.tagline }}" href="{{ site.baseurl }}/feed.xml" />
     <link href="/favicon.ico" rel="shortcut icon" />
 
   </head>
@@ -28,7 +28,6 @@
     <script src="{{ site.baseurl }}/js/bootstrap.bundle.min.js"></script>
     <script src="{{ site.baseurl }}/js/fslightbox.js"></script>
     <script src="{{ site.baseurl }}/js/script.js"></script>
-    {% include analytics.html %}
     {% include calendly.html %}
 
   </body>

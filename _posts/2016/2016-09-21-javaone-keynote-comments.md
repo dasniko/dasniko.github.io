@@ -6,14 +6,9 @@ tags:
 - javaee
 - conference
 - mvc
-photos:
-- /gallery/javaone2016/platform_architecture.png
-- /gallery/javaone2016/features.png
-- /gallery/javaone2016/changes.png
-- /gallery/javaone2016/roadmap.png
 ---
 
-Unfortunately I can't be at this years JavaOne conference, but thanks to our modern communication infrastructure, I was able to view the [live-streamed JavaOne Keynote](https://www.oracle.com/javaone/on-demand/index.html) at home. Let's skip all these sponsored "Industry" and "Visionary" keynotes and focus on that what's important: Java EE!
+Unfortunately I can't be at this years JavaOne conference, but thanks to our modern communication infrastructure, I was able to view the live-streamed JavaOne Keynote at home. Let's skip all these sponsored "Industry" and "Visionary" keynotes and focus on that what's important: Java EE!
 
 Oh, BTW - this year's slogan of JavaOne is:
 
@@ -37,9 +32,7 @@ After these news, Brian talked again about projects [Valhalla](http://openjdk.ja
 ## On the way from Java EE to Oracle EE?
 
 Finally, Anil Gaur (Group VP Cloud Application Foundation) announced the news for upcoming Java EE versions (_"it's available - on premise and in the Cloud!"_)!  
-He pretended, that Oracle has, other than assumed, listened to the community and understands, that the model how Java is used nowadays has changed. And so Oracle has reacted to this and put "great emphasis" to "Cloud and Microservices" development style. Sure? This is what Oracle understood from the community? I rather think that this is exactly that, what Oracle wants to see in Java EE, because it fits exactly to their product portfolio. Here are a few impressions from their slidedeck:
-
-{% include gallery.html %}
+He pretended, that Oracle has, other than assumed, listened to the community and understands, that the model how Java is used nowadays has changed. And so Oracle has reacted to this and put "great emphasis" to "Cloud and Microservices" development style. Sure? This is what Oracle understood from the community? I rather think that this is exactly that, what Oracle wants to see in Java EE, because it fits exactly to their product portfolio.
 
 Officially this change is supposed to be called "Revised Proposal" and should only show Oracles view of things. There is a new [survey](http://glassfish.org/survey) to get feedback to this proposal from the community. Oracle pretends, that it's still a community process and that feedback is highly appreciated and needed for the next Java EE version. The roadmap says, that Java EE 8will come end of 2017, and onyl one year later, end of 2018 Java EE 9 should be available.
 
@@ -47,6 +40,6 @@ Especially the proposed drop of the JSR-371, the MVC API I cannot understand. Or
 
 ## Conclusion
 
-I welcome Oracles commitment to Java EE, although I can't follow the argumentation for dropping almost finished JSRs like MVC. At least, there ist the [survey](http://glassfish.org/survey), which we all should use to give feedback to Oracle. I hope that everyone of you, will complete this survey, it's a great chance to influence the next Java EE! Or give feedback on the JSR mailinglists, to EG members, whatever, just do anything and don't just complain! Thank you!
+I welcome Oracles commitment to Java EE, although I can't follow the argumentation for dropping almost finished JSRs like MVC. At least, there ist the survey, which we all should use to give feedback to Oracle. I hope that everyone of you, will complete this survey, it's a great chance to influence the next Java EE! Or give feedback on the JSR mailinglists, to EG members, whatever, just do anything and don't just complain! Thank you!
 
 Besides that, it was the third JavaOne Keynote in a row where not real news were announced. Sad.
