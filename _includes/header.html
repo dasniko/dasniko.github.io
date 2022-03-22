@@ -10,37 +10,31 @@
       </div>
     </a>
 
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
 
     <div class="collapse navbar-collapse" id="navbar">
-      <ul class="navbar-nav ml-auto">
-        <li class="nav-item mr-0 ml-4">
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item me-0 ms-4">
           <a class="nav-link {%if page.permalink == blank and page.title == blank %}active{% endif %}" href="{{ site.baseurl }}/">Home</a>
         </li>
-        <li class="nav-item mr-0 ml-4">
+        <li class="nav-item me-0 ms-4">
           <a class="nav-link {%if page.permalink == '/about/' %}active{% endif %}" href="{{ site.baseurl }}/about/">About</a>
         </li>
-        <li class="nav-item mr-0 ml-4">
+        <li class="nav-item me-0 ms-4">
           <a class="nav-link {%if page.permalink == '/blog/' or (page.permalink == blank and page.title != blank) %}active{% endif %}" href="{{ site.baseurl }}/blog/">Blog</a>
         </li>
-        <!--li class="nav-item mr-0 ml-4">
-          <a class="nav-link {%if page.permalink == '/talks/' %}active{% endif %}" href="{{ site.baseurl }}/talks/">Talks</a>
-        </li-->
-        <!--li class="nav-item mr-0 ml-4">
-          <a class="nav-link {%if page.permalink == '/publications/' %}active{% endif %}" href="{{ site.baseurl }}/publications/">Publications</a>
-        </li-->
-        <li class="nav-item mr-0 ml-4 dropdown">
-          <a class="nav-link {%if page.permalink == '/talks/' or page.permalink == '/publications/' or page.permalink contains '/trainings/' %}active{% endif %} dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Public Address</a>
+        <li class="nav-item me-0 ms-4 dropdown">
+          <a class="nav-link {%if page.permalink == '/talks/' or page.permalink == '/publications/' or page.permalink contains '/trainings/' %}active{% endif %} dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Public Address</a>
           <div class="dropdown-menu">
             <a class="dropdown-item" href="{{ site.baseurl }}/talks/">Talk Topics</a>
             <a class="dropdown-item" href="{{ site.baseurl }}/publications/">Publications</a>
             <a class="dropdown-item" href="{{ site.baseurl }}/trainings/">Trainings & Workshops</a>
           </div>
         </li>
-        <li class="nav-item mr-0 ml-4 dropdown">
-          <a class="nav-link {%if page.permalink == '/videos/' %}active{% endif %} dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Videos</a>
+        <li class="nav-item me-0 ms-4 dropdown">
+          <a class="nav-link {%if page.permalink == '/videos/' %}active{% endif %} dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Videos</a>
           <div class="dropdown-menu">
             <a class="dropdown-item" href="https://www.youtube.com/c/NikoKöbler?sub_confirmation=1" target="_blank">YouTube Channel</a>
             <a class="dropdown-item" href="{{ site.baseurl }}/videos/">Conference talks</a>

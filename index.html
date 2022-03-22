@@ -2,18 +2,20 @@
 layout: default
 ---
 
-<div class="jumbotron">
-  <img src="/images/dasniko.png" alt="Niko Köbler" class="d-none d-md-block heroimg"/>
-  <h1 class="display-3">Hi, I'm Niko!</h1>
-  <p class="lead">I'm an independant freelance software consultant, a .well-known Keycloak expert, developer and trainer. And I'm here to help - you, your team and your company.</p>
-  <p class="lead">How can I support you?</p>
-  <div><a class="btn btn-info" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/dasniko/discovery-call'});return false;" role="button">Get in touch</a></div>
-  <hr class="my-4">
-  <p>
-    My focus is on various technologies, no matter if frontend, backend and/or deployment to public or private clouds, on-premise infrastructure or hybrid architectures.
-    Mainly Java and JavaScript.<br/>
-    Yes, I'm doing DevOps, but no, I'm not an "DevOps engineer" (this doesn't exist)!
-  </p>
+<div class="p-5 mb-5 bg-dark" style="--bs-bg-opacity: .05">
+  <div class="pb-0 pb-xxl-5">
+    <img src="/images/dasniko.png" alt="Niko Köbler" class="d-none d-md-block float-end heroimg"/>
+    <h1 class="display-3">Hi, I'm Niko!</h1>
+    <p class="fs-4">I'm an independant freelance software consultant, a .well-known <strong>KEYCLOAK</strong> expert, developer and trainer. And I'm here to help - you, your team and your company.</p>
+    <p class="fs-4">How can I support you?</p>
+    <button class="btn btn-info" type="button" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/dasniko/discovery-call'})">Get in touch</button>
+    <hr class="my-5">
+    <p>
+      My focus is on various technologies, no matter if frontend, backend and/or deployment to public or private clouds, on-premise infrastructure or hybrid architectures.
+      Mainly Java and JavaScript.<br/>
+      Yes, I'm doing DevOps, as this is a culture & mindset, but no, I'm not an <em>"DevOps engineer"</em> (this doesn't exist)!
+    </p>
+  </div>
 </div>
 
 {% include conferences.html %}

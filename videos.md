@@ -7,8 +7,8 @@ permalink: /videos/
 {% for video in site.data.videos %}
 ### {{ video.title}}
 
-<div class="video-container">
-  <iframe src="{{ video.url }}" frameborder="0" allowfullscreen></iframe>
+<div class="ratio ratio-16x9">
+  <iframe src="{{ video.url }}" allowfullscreen></iframe>
 </div>
 ---
 {% endfor %}

@@ -26,7 +26,6 @@ sass:
 # Use the following plug-ins
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jemoji
 
 # Exclude these files from your production _site
 exclude:

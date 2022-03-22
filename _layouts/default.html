@@ -2,33 +2,23 @@
 <html>
   <head>
     <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }} – {{ site.tagline }}</title>
-
     {% include meta.html %}
-
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - {{ site.tagline }}" href="{{ site.baseurl }}/feed.xml" />
-    <link href="/favicon.ico" rel="shortcut icon" />
-
+    <link rel="stylesheet" type="text/css" href="/css/style.css"/>
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - {{ site.tagline }}" href="/feed.xml"/>
+    <link rel="shortcut icon" href="/favicon.ico"/>
   </head>
-
   <body class="container">
-
     {% include header.html %}
-
     <main class="row">
       <div class="col-12">
         {{ content }}
       </div>
     </main>
-
     {% include footer.html %}
-
     {% include back-to-top.html %}
-    <script src="{{ site.baseurl }}/js/jquery.min.js"></script>
     <script src="{{ site.baseurl }}/js/bootstrap.bundle.min.js"></script>
     <script src="{{ site.baseurl }}/js/fslightbox.js"></script>
     <script src="{{ site.baseurl }}/js/script.js"></script>
     {% include calendly.html %}
-
   </body>
 </html>

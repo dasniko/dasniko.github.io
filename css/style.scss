@@ -1,13 +1,10 @@
 ---
 ---
 
+@import "lux/variables";
 @import "bootstrap/bootstrap";
-@import "bootswatch";
-@import "highlights";
-
-h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-    margin-bottom: 0.5em;
-}
+@import "lux/bootswatch";
+@import "font";
 
 nav {
   &.bg-light {
@@ -25,8 +22,10 @@ ul {
 
 a {
   color: $info;
+  text-decoration: none;
   &:hover {
     color: $info;
+    text-decoration: underline;
   }
 }
 
@@ -35,7 +34,6 @@ blockquote {
   border-left: 2px solid $gray-600;
   padding-left: 1rem;
   color: $gray-600;
-  font-size: 1.25rem;
   font-style: italic;
   font-weight: 400;
 }
@@ -55,9 +53,6 @@ small, .small {
 }
 
 @media (max-width: 420px) {
-  .navbar-brand {
-    margin-right: 1rem;
-  }
   .avatar {
     width: 60px;
     height: 60px;
@@ -65,33 +60,25 @@ small, .small {
   }
 }
 
-.navbar-brand {
-  margin-right: unset;
-}
-
 .card {
-  height: calc(100% - 1rem);
-}
-
-.container {
-  margin-right: auto!important;
+  height: calc(100% - 1rem); // all cards have full height in grid
 }
 
 .heroimg {
-  float: right;
-  margin-top: -64px;
-  margin-right: -32px;
-  width: 40%
+  margin-top: -48px;
+  margin-right: -48px;
+  width: 50%
 }
 
-@media (max-width: 991px) {
-  .jumbotron {
-    padding: 2rem;
+@media (min-width: map-get($grid-breakpoints, xl)) {
+  .heroimg {
+    object-position: 0 -64px;
+    width: 45%
   }
 }
-@media (min-width: 1200px) {
-  .jumbotron {
-    min-height: 640px;
+@media (min-width: map-get($grid-breakpoints, xxl)) {
+  .heroimg {
+    width: 40%
   }
 }
 
@@ -144,7 +131,7 @@ small, .small {
 
 .top {
   position: fixed ;
-  bottom: 20px;
+  bottom: 64px;
   right: 20px;
   z-index: 9999999;
   opacity: 0;
@@ -160,22 +147,4 @@ small, .small {
     width: 2.5rem;
     height: 2.5rem;
   }
-}
-
-.video-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    height: 0;
-    overflow: hidden;
-    clear: both;
-}
-
-.video-container iframe,
-.video-container object,
-.video-container embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
 }

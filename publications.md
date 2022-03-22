@@ -19,6 +19,7 @@ Java Magazin, Issue 1.2021, December 2020
 
 _"Gotta make a move to a town that’s right for me … take me to Funqytown"_, so oder so ähnlich sang schon Lipps, Inc. im Discoklassiker von 1979. Jetzt hat mit Funqy ein einfaches API Einzug in Quarkus gehalten, das es dank Abstraktion sehr einfach machen soll, kleine, schlanke (HTTP-)Services für verschiedene Serverless-Umgebungen zu schreiben, ohne mit zu viel Umgebungsdetails vertraut sein zu müssen. Ist das nun endlich der (die) heilige Graal(VM)?
 
+<div class="clearfix"></div>
 ---
 
 <a href="https://kiosk.entwickler.de/java-magazin/java-magazin-4-2020/ein-paar-graue-haare-aber/">
@@ -31,6 +32,7 @@ Java Magazin, Issue 4.2020, March 2020
 
 Wer jetzt noch nicht „Bingo“ gerufen hat, ist selbst schuld. Wie kann es gelingen, nahezu alle oben aufgezählten Bleeding-Edge-Technologien, Frameworks und Plattformen in einem Real-World-Projekt abseits der grünen Wiese und Hello-World-Demos erfolgreich und miteinander zu verwenden? Ein Erfahrungsbericht.
 
+<div class="clearfix"></div>
 ---
 
 <a href="http://serverlessbuch.de">
@@ -45,6 +47,7 @@ Serverless heißt das neue Trendthema im Bereich des Cloud Computing. Dabei mein
 
 Das Buch führt in die Konzepte von Serverless Computing am Beispiel der AWS (Amazon Web Services) Cloud ein und beschreibt, wann der Einsatz von Serverless ein sinnvoller Lösungsansatz ist. AWS Lambda hat den Begriff Serverless geprägt, doch Serverless ist mehr als nur die Ausführung von Funktionen als Service (Function-as-a-Service, kurz FaaS). Auch in Richtung von API Gateways, Datenspeichern, Amazon DynamoDB und weitern Komponenten lässt sich Serverless denken. Praxisnahe Beispiele helfen beim Einstieg in die Serverless-Welt.
 
+<div class="clearfix"></div>
 ---
 
 <a href="https://entwickler.de/java-magazin/java-magazin-4-18-579830798.html">
@@ -67,6 +70,7 @@ Wollte man modernere Mechanismen in seiner Anwendung verwenden, so musste man in
 
 Die Standardisierung und Vereinheitlichung von Security-Mechanismen für die Java EE Plattform hat sich der [JSR-375](https://jcp.org/en/jsr/detail?id=375), die [Java EE Security API](https://javaee.github.io/security-spec/), zum Ziel gesetzt.
 
+<div class="clearfix"></div>
 ---
 
 <a href="https://entwickler.de/leseproben/serverless-tricks-579827780.html">
@@ -79,6 +83,7 @@ Java Magazin, Issue 3.2018, February 2018
 
 Den Begriff Serverless hat zwischenzeitlich wohl jeder schon gehört. Einige haben schon erste Erfahrungen gemacht, andere ein paar mehr. Viele dürften aber noch am Anfang stehen, da sie zu wenig über das Serverless-Paradigma wissen. Der Begriff Serverless wird sehr kontrovers diskutiert. Die einen finden den Begriff gut und treffend, die anderen lästern über diese Namenswahl. Fakt ist jedoch, dass es nun mal ein Name ist, vorhanden und mittlerweile auch etabliert, der einen bestimmten Sachverhalt bezeichnet. Nutzen wir doch einfach diesen Namen, ohne uns darüber aufzuregen.
 
+<div class="clearfix"></div>
 ---
 
 <a href="https://entwickler.de/leseproben/single-sign-on-579757525.html">
@@ -93,12 +98,14 @@ Verteilte Anwendungen und Microservices bedürfen einer erweiterten Absicherung 
 
 Anwender sicher zu authentifizieren und zu autorisieren, ist gerade in Microservices-Architekturen oder verteilten Anwendungen keine leichte Aufgabe. Vor allem, weil hier ein Securityknackpunkt liegt. Das Konzept Single Sign-on soll möglichst viel Sicherheit mit möglichst viel Bequemlichkeit für die Anwender verbinden. Verschiedene Technologien versuchen, das unter einen Hut zu bekommen.
 
+<div class="clearfix"></div>
 ---
 
 JAXenter.de, November 2016
 
 ### [Was ist ein API Gateway – und wofür kann ich es einsetzen?](https://jaxenter.de/was-ist-ein-api-gateway-und-wofuer-kann-ich-es-einsetzen-49804)
 
+<div class="clearfix"></div>
 ---
 
 <a href="https://jaxenter.de/serverless-niko-koebler-49176">
@@ -111,30 +118,35 @@ Java Magazin, Issue 12.2016, November 2016
 
 Es gibt Momente, in denen will man einfach nur Code schreiben und in der Cloud ausführen, ohne sich lange mit der Infrastruktur aufhalten zu müssen. Ereignisgesteuerte Funktionen in der Cloud ausführen – darauf ist AWS Lambda spezialisiert.
 
+<div class="clearfix"></div>
 ---
 
 JAXenter.com, May 2016
 
 ### [JavaScript - the next runtime platform?](https://jaxenter.com/web-tales-javascript-the-next-runtime-platform-126065.html)
 
+<div class="clearfix"></div>
 ---
 
 JAXenter.de, April 2016
 
 ### [JavaScript - die nächste Runtime Plattform?](https://jaxenter.de/javascript-die-naechste-runtime-plattform-39282)
 
+<div class="clearfix"></div>
 ---
 
 JAXenter.de, April 2016
 
 ### [Isomorphe JavaScript-Webanwendungen mit Java (EE) und React.JS](https://jaxenter.de/isomorphe-javascript-webanwendungen-mit-java-ee-und-react-js-38266)
 
+<div class="clearfix"></div>
 ---
 
 JAXenter.de, January 2016
 
 ### [Nashorn-JavaScript mit Spock und Jasmine testen](https://jaxenter.de/nashorn-javascript-mit-spock-und-jasmine-testen-33109)
 
+<div class="clearfix"></div>
 ---
 
 <a href="https://jaxenter.de/mit-dem-testen-von-anwendungen-ist-es-so-eine-last-erst-recht-mit-lasttests-27564">
@@ -149,6 +161,7 @@ Java Magazin, Issue 12.15, November 2015, Page 73 ff.
 
 _Haben sich Unit-, Integrations- und Oberflächentests in der Vergangenheit doch mehr oder weniger gut durchgesetzt, fristen die Applikations-Lasttests eher ein Nischen-Dasein oder fallen meist Zeit- und damit auch Geld-Budgets zum Opfer. In vielen Unternehmen gleichen Lasttests eher Smoke-Tests mit mehreren Mitarbeitern der Fachabteilung, die schnell aber unkontrolliert und wild hin und her klicken. Diese Tests haben keine Aussagekraft, sind nicht reproduzier- und damit nicht vergleichbar. Wenn ein Performance-Engpass auftritt, weiß man nicht, wer was geklickt hat und welche Aktion den Engpass auslöste._
 
+<div class="clearfix"></div>
 ---
 
 <a href="http://www.ijug.eu/java-aktuell/das-magazin.html">
@@ -161,6 +174,7 @@ Java aktuell, Issue 02-2015, March 2015, Page 19 ff.
 
 _In den letzten zwei Jahren hat sich JavaScript wieder mehr und mehr als ernst zu nehmende Programmiersprache auch in Unternehmens- anwendungen durchgesetzt. Sei es im Frontend (Browser), wo sich dank der JavaScript-Frameworks AngularJS, Backbone, Ember etc. die Single-Page-Web-Applications mit HTML5, CSS3 und JavaScript mehr und mehr durchsetzen, oder im Backend auf dem Server, wo sich auch hierzulande „Node.js“ mit seinem Ansatz der asynchronen und nicht-blockierenden Request-Verarbeitung („Evented I/O“) langsam immer breiter macht. Zusätzlich wird die serverseitige JavaScript-Verwendung dank Nashorn – der JavaScript Engine in der JVM seit Java 8 – immer populärer._
 
+<div class="clearfix"></div>
 ---
 
 <a href="https://jaxenter.de/Java-Magazin-315-178647">
@@ -173,6 +187,7 @@ Java Magazin, Issue 3.15, January 2015, Page 22 ff.
 
 _Nodyn ist nicht einfach nur ein Abklatsch von Node.js, sondern vereint mit dem Node-API zusätzlich auch noch Netty und Vert.x miteinander, um den größtmöglichen Vorteil für die asynchrone Netzwerk- und Request-Verarbeitung zu bieten._
 
+<div class="clearfix"></div>
 ---
 
 JAXenter.com, December 2014
@@ -183,6 +198,7 @@ JAXenter.com, December 2014
 
 _Oracle recently announced a new version of the JavaScript platform Avatar. It’s time to take a deeper look at the changes that await us._
 
+<div class="clearfix"></div>
 ---
 
 <a href="http://www.ijug.eu/java-aktuell/das-magazin.html">
@@ -195,6 +211,7 @@ Java aktuell, Issue 01-2015, December 2014, Page 33 ff.
 
 _Das FeatureToggle Pattern is nicht neu, aber eines der am kontroversesten diskutierten Vorgehen im Umfeld von Conitinuous Delivery. Das Thema polarisiert sehr stark und meistens findet man entweder glühende Anhänger oder strikte Gegner; eine Grauzuone scheint es nicht zu geben. Togglz ist eine Java-Implementierung, die den Einsatz von FeatureToggles im agilen Umfeld von Continuous Deployment und Delivery vereinfacht und viele Möglichkeiten der Konfiguration bietet._
 
+<div class="clearfix"></div>
 ---
 
 <a href="https://jaxenter.de/Java-Magazin/Java-Magazin-115-177685">
@@ -207,6 +224,7 @@ Java Magazin, Issue 1.15, December 2014, Page 22 ff.
 
 _Node.js hat in den letzten zwei Jahren enorm an Popularität gewonnen und ist mittlerweile auch in größeren Unternehmen angekommen. Immer mehr Anwender möchten Ihre Daten auch in eventgetriebenen Architekturen mit asynchronen und nicht blockierenden IO-Threads verarbeiten. Node.js in die vorwiegend JVM-basierte Anwendungslandschaft zu integrieren, ist jedoch nicht immer einfach. Gut, dass es Alternativen gibt. Avatar ist eine davon._
 
+<div class="clearfix"></div>
 ---
 
 JAXenter.de, October 2014
@@ -215,6 +233,7 @@ JAXenter.de, October 2014
 
 _Es ist schon ein Stück JavaOne-Tradition: Seit drei Jahren präsentiert Oracle auf der jährlich stattfindenden Entwicklerkonferenz in San Francisco Neuigkeiten rund um die JavaScript-Plattform Avatar. So auch in diesem Jahr..._
 
+<div class="clearfix"></div>
 ---
 
 <a href="http://shop.heise.de/katalog/ix-developer-javascript-heute-2014">
@@ -227,6 +246,7 @@ heise Developer, September 2013 & iX Developer Sonderheft "JavaScript heute", De
 
 _JavaScript-Webframeworks gibt es wie Staub auf dem Mond. Jedoch ist jedes nur auf dem Gebiet gut, für das es geschaffen wurde. Meteor versteht sich als eine Plattform, die eine Auswahl der besten Frameworks mit MongoDB und Node.js kombiniert und Entwicklern so das Zusammensuchen abnehmen möchte. Ihre Hauptmerkmale sind eine einheitliche Basis in JavaScript-Code für Client und Server, das automatisches Propagieren der Änderungen von Code und Daten, ein vergleichsweise einfaches API-Design und intelligentes Packaging und Deployment von Applikationen._
 
+<div class="clearfix"></div>
 ---
 
 <a href="http://shop.heise.de/katalog/ix-developer-bessere-software-3-2013">
@@ -242,6 +262,7 @@ Die beiden Artikel
 
 sind als Print-Version im [iX Developer Sonderheft "Bessere Software"](http://shop.heise.de/katalog/ix-developer-bessere-software-3-2013) erschienen.
 
+<div class="clearfix"></div>
 ---
 
 The H, May 2013
@@ -250,6 +271,7 @@ The H, May 2013
 
 _An application's version-controlled source code is stored in the repository. Why not that of the database? To reproduce arbitrary database states in development, test or production environments, two powerful Java libraries are at hand that can be seamlessly integrated into a build for an agile Continuous Delivery._
 
+<div class="clearfix"></div>
 ---
 
 heise Developer, Mai 2013
@@ -258,6 +280,7 @@ heise Developer, Mai 2013
 
 _Der Quellcode der Applikation ist versioniert im Repository abgelegt. Warum nicht die Datenbank? Will man nun einen beliebigen Stand der Datenbank in der Entwickler-, Test- oder Produktionsumgebung wiederherstellen, stehen zwei leistungsfähige Java-Bibliotheken zur Verfügung, die nahtlos in den Build für ein agiles Continuous Delivery integrierbar sind._
 
+<div class="clearfix"></div>
 ---
 
 heise Developer, März 2013

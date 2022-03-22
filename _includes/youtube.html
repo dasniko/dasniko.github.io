@@ -1,13 +1,13 @@
 {% if page.youtube %}
 {% if page.youtube.first %}
 {% for video in page.youtube %}
-<div class="video-container my-4">
-  <iframe src="https://www.youtube-nocookie.com/embed/{{ video }}" frameborder="0" allowfullscreen></iframe>
+<div class="ratio ratio-16x9 my-4">
+  <iframe src="https://www.youtube-nocookie.com/embed/{{ video }}" allowfullscreen></iframe>
 </div>
 {% endfor %}
 {% else %}
-<div class="video-container my-4">
-  <iframe src="https://www.youtube-nocookie.com/embed/{{ page.youtube }}" frameborder="0" allowfullscreen></iframe>
+<div class="ratio ratio-16x9 my-4">
+  <iframe src="https://www.youtube-nocookie.com/embed/{{ page.youtube }}" allowfullscreen></iframe>
 </div>
 {% endif %}
 {% endif %}
